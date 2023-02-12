@@ -1,6 +1,6 @@
 <h2 align="center">Awesome Prompt Engineering 🧙‍♂️ </h2>
 <p align="center">
-  <p align="center"> 🔍 This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
+  <p align="center"> This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 
 </p>
 
@@ -37,12 +37,12 @@
 - [🧠 Models](#datasets)
 - [📰 Articles](#articles)
 - [📝 Tasks](#tasks)
-  - [🏷️ Named-Entity Recognition (NER)](#named-entity-recognition-ner)
-  - [📈 Classification](#classification)
-  - [💬 Text Generation](#text-generation)
-  - [❓ Question Answering (QA)](#question-answering-qa)
+  - [Named-Entity Recognition (NER)](#named-entity-recognition-ner)
+  - [Classification](#classification)
+  - [Text Generation](#text-generation)
+  - [Question Answering (QA)](#question-answering-qa)
 - [📚 Educational](#educational)
-  - [🎓 Tutorials](#tutorials)
+  - [Tutorials](#tutorials)
 - [🎥 Videos](#videos)
 - [📚 Books](#books)
 - [💡 Other Resources](#other-resources)
