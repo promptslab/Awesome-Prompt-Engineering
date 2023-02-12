@@ -52,9 +52,9 @@
 
 - **Prompt Engineering Techniques**:
 
-  - [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery](https://arxiv.org/abs/2302.03668) [2023] [Arxiv]
-  - [Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models](https://arxiv.org/abs/2302.00618) [2023][Arxiv] 
-  - [Progressive Prompts: Continual Learning for Language Models](https://arxiv.org/abs/2301.12314) [2023] [Arxiv] 
+  - [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery](https://arxiv.org/abs/2302.03668) [2023] (Arxiv)
+  - [Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models](https://arxiv.org/abs/2302.00618) [2023](Arxiv) 
+  - [Progressive Prompts: Continual Learning for Language Models](https://arxiv.org/abs/2301.12314) [2023] (Arxiv) 
   - [Arxiv] [Batch Prompting: Efficient Inference with LLM APIs](https://arxiv.org/abs/2301.08721) [2023]
   - [Arxiv] [Successive Prompting for Decompleting Complex Questions](https://arxiv.org/abs/2212.04092) [2022]
   - [Arxiv] [Structured Prompting: Scaling In-Context Learning to 1,000 Examples](https://arxiv.org/abs/2212.06713) [2022]
