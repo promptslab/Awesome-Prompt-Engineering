@@ -146,6 +146,10 @@
 
 ## Tools & Libraries 🔧
 
+|      Name                | Description  | Github |
+| :-------------------- | :----------: | :----------: |
+| **GPT Index** | GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs | [[Github]](https://github.com/jerryjliu/gpt_index) |
+
 - **GPT Index**
 
   - GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs
