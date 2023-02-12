@@ -151,9 +151,9 @@
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
-| GPT Index | GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. | [[Github]](https://github.com/jerryjliu/gpt_index) |
-| Promptify | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[Github]](https://github.com/promptslab/Promptify) |
-| Better Prompt | Test suite for LLM prompts before pushing them to PROD | [[Github]](https://github.com/krrishdholakia/betterprompt) |
+| **GPT Index** | GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. | [[Github]](https://github.com/jerryjliu/gpt_index) |
+| **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[Github]](https://github.com/promptslab/Promptify) |
+| **Better Prompt** | Test suite for LLM prompts before pushing them to PROD | [[Github]](https://github.com/krrishdholakia/betterprompt) |
 | **Interactive Composition Explorerx** | ICE is a Python library and trace visualizer for language model programs. | [[Github]](https://github.com/oughtinc/ice) |
 | **LangChainx** | Building applications with LLMs through composability | [[Github]](https://github.com/hwchase17/langchain) |
 | **OpenPrompt** | An Open-Source Framework for Prompt-learning | [[Github]](https://github.com/thunlp/OpenPrompt) |
@@ -163,6 +163,14 @@
 | **Prompt Source** | PromptSource is a toolkit for creating, sharing and using natural language prompts. | [[Github]](https://github.com/bigscience-workshop/promptsource) |
 | **ThoughtSource** | A framework for the science of machine thinking | [[Github]](https://github.com/OpenBioLink/ThoughtSource) |
 
+
+## Datasets 💾
+
+
+|      Name                | Description  | Url |
+| :-------------------- | :----------: | :----------: |
+| **P3 (Public Pool of Prompts)** | P3 (Public Pool of Prompts) is a collection of prompted English datasets covering a diverse set of NLP tasks. | [[HugginFace]](https://huggingface.co/datasets/bigscience/P3) |
+| **Awesome ChatGPT Prompts** | Repo includes ChatGPT prompt curation to use ChatGPT better. | [[Github]](https://github.com/f/awesome-chatgpt-prompts) |
 
 <h6 align="center">
 <small><small>Image Source: docs.cohere.ai </small> </small>
