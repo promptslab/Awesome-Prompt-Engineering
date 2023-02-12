@@ -32,7 +32,7 @@
 # Table of Contents
 
 - [Papers](#papers)
-- [Tools & Code](#tools-&-code)
+- [Tools & Code](#tools--code)
 - [Datasets](#datasets)
 - [Models](#datasets)
 - [Articles](#articles)
