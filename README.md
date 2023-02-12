@@ -1,4 +1,4 @@
-<h2 align="center">Awesome Prompt Engineering 🧙‍♂️ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</h2>
+<h2 align="center">Awesome Prompt Engineering 🧙‍♂️</h2>
 <p align="center">
   <p align="center">This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 
@@ -6,6 +6,11 @@
 
 
  <h4 align="center">
+  
+    <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome" />
+  </a>
+  
   <a href="https://github.com/promptslab/Awesome-Prompt-Engineering/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="Awesome-Prompt-Engineering is released under the Apache 2.0 license." />
   </a>
