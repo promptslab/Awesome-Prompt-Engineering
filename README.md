@@ -32,11 +32,15 @@
 # Table of Contents
 
 - [📄 Papers ](#papers)
-- [📝 Tasks](#tasks)
 - [🔧 Tools/Libraries](#tools)
 - [💾 Datasets](#datasets)
 - [🧠 Models](#datasets)
 - [📰 Articles](#articles)
+- [📝 Tasks](#tasks)
+  - [Named-Entity Recognition (NER)](#named-entity-recognition-ner)
+  - [Classification](#classification)
+  - [Text Generation](#text-generation)
+  - [Question Answering (QA)](#question-answering-qa)
 - [📚 Educational](#educational)
   - [Tutorials](#tutorials)
 - [🎥 Videos](#videos)
