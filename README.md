@@ -6,6 +6,11 @@
 
 
  <h4 align="center">
+  
+  ```
+     Prompt Engineering Course is coming soon..
+  ```
+  
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome" />
   </a>
