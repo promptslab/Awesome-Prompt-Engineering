@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" style="font-size:0.5px">
-<small>Image Source: docs.cohere.ai </small>
+<small><small>Image Source: docs.cohere.ai </small> </small>
 </p>
 
 <p align="center">
