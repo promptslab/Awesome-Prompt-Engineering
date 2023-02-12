@@ -50,7 +50,7 @@
 
 ## Papers 📄
 
-- Prompt Engineering Techniques:
+- **Prompt Engineering Techniques**:
 
   - [Arxiv] [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery](https://arxiv.org/abs/2302.03668) [2023]
   - [Arxiv] [Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models](https://arxiv.org/abs/2302.00618) [2023]
@@ -72,7 +72,7 @@
   - [Arxiv] [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) [2021]
   
  
-- Reasoning and In-Context Learning:
+- **Reasoning and In-Context Learning**:
 
   - [Arxiv] [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923) [2023]
   - [Arxiv] [On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning](https://arxiv.org/abs/2212.08061) [2022]
@@ -88,7 +88,7 @@
   - [ACL] [BERTese: Learning to Speak to BERT](https://aclanthology.org/2021.eacl-main.316) [2021]
   
   
-- Evaluating and Improving Language Models:
+- **Evaluating and Improving Language Models**:
 
 
   - [Arxiv] [Large Language Models Can Be Easily Distracted by Irrelevant Context](https://arxiv.org/abs/2302.00093) [2023]
@@ -97,7 +97,7 @@
   - [Arxiv] [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690) [2021]
   
   
-- Applications of Language Models:
+- **Applications of Language Models**:
 
 
   - [Arxiv] [Prompting for Multimodal Hateful Meme Classification](https://arxiv.org/abs/2302.04156) [2023]
@@ -110,7 +110,7 @@
   - [Arxiv] [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) [2020]
   
   
-- Threat Detection and Adversarial Examples:
+- **Threat Detection and Adversarial Examples**:
 
 
   - [Arxiv] [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) [2022]
@@ -121,7 +121,7 @@
   - [Mit] [How Can We Know What Language Models Know?](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00324/96460/How-Can-We-Know-What-Language-Models-Know) [2020]
   
   
-- Few-shot Learning and Performance Optimization:
+- **Few-shot Learning and Performance Optimization**:
 
 
   - [Arxiv] [Promptagator: Few-shot Dense Retrieval From 8 Examples](https://arxiv.org/abs/2209.11755) [2022]
@@ -130,13 +130,13 @@
   - [Arxiv] [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) [2020]
   
   
-- Text-to-Image Generation:
+- **Text-to-Image Generation**:
 
 
   - [Arxiv] [A Taxonomy of Prompt Modifiers for Text-To-Image Generation](https://arxiv.org/abs/2204.13988) [2022]
   - [Arxiv] [Design Guidelines for Prompt Engineering Text-to-Image Generative Models](https://arxiv.org/abs/2109.06977) [2021]
   
   
-- Overviews:
+- **Overviews**:
 
   - [Arxiv] [Piloting Copilot and Codex: Hot Temperature, Cold Prompts, or Black Magic?](https://arxiv.org/abs/2210.14699) [2022]
