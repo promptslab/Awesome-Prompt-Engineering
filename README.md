@@ -4,10 +4,6 @@
   <img width="650" src="https://raw.githubusercontent.com/promptslab/Awesome-Prompt-Engineering/main/_source/prompt.png">
 </p>
 
-<h6 align="center">
-<small><small>Image Source: docs.cohere.ai </small> </small>
-</h6>
-
 <p align="center">
   <p align="center"> This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 
@@ -166,3 +162,8 @@
 | **Prompts AI** | Advanced playground for GPT-3 | [[Github]](https://github.com/sevazhidkov/prompts-ai) |
 | **Prompt Source** | PromptSource is a toolkit for creating, sharing and using natural language prompts. | [[Github]](https://github.com/bigscience-workshop/promptsource) |
 | **ThoughtSource** | A framework for the science of machine thinking | [[Github]](https://github.com/OpenBioLink/ThoughtSource) |
+
+
+<h6 align="center">
+<small><small>Image Source: docs.cohere.ai </small> </small>
+</h6>
