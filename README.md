@@ -1,13 +1,12 @@
 <h2 align="center">Awesome Prompt Engineering 🧙‍♂️ </h2>
 
-
-
-<div class="img-with-text-below">
-    <p align="center">
+<p align="center">
   <img width="650" src="https://raw.githubusercontent.com/promptslab/Awesome-Prompt-Engineering/main/_source/prompt.png">
 </p>
-<p> Image Source: docs.cohere.ai </p>
-</div>
+
+<p align="center">
+ Image Source: docs.cohere.ai 
+</p>
 
 <p align="center">
   <p align="center"> This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
