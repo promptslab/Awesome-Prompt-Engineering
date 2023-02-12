@@ -146,7 +146,74 @@
 
 ## Tools & Libraries 🔧
 
+- **GPT Index**
+
+  - GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs
+  - [[Github]](https://github.com/jerryjliu/gpt_index)
+
+
 - **Promptify**
 
   - Prompt Engineering, Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify
   - [[Github]](https://github.com/promptslab/Promptify)
+
+
+- **Better Prompt**
+
+  - Test suite for LLM prompts before pushing them to PROD
+  - [[Github]](https://github.com/krrishdholakia/betterprompt)
+
+
+- **Interactive Composition Explorerx**
+
+  - ICE is a Python library and trace visualizer for language model programs.
+  - [[Github]](https://github.com/oughtinc/ice)
+
+
+
+- **LangChainx**
+
+  - Building applications with LLMs through composability
+  - [[Github]](https://github.com/hwchase17/langchain)
+
+
+- **OpenPrompt**
+
+  - An Open-Source Framework for Prompt-learning
+  - [[Github]](https://github.com/thunlp/OpenPrompt)
+
+
+- **Prompt Engine**
+
+  - This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs).
+  - [[Github]](https://github.com/microsoft/prompt-engine)
+
+- **PromptInject**
+
+  - PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks.
+  - [[Github]](https://github.com/agencyenterprise/PromptInject)
+
+
+- **Prompts AI**
+
+  - Advanced playground for GPT-3
+  - [[Github]](https://github.com/sevazhidkov/prompts-ai)
+
+
+- **Prompt Source**
+
+  - PromptSource is a toolkit for creating, sharing and using natural language prompts.
+  - [[Github]](https://github.com/bigscience-workshop/promptsource)
+
+
+- **ThoughtSource**
+
+  - A framework for the science of machine thinking
+  - [[Github]](https://github.com/OpenBioLink/ThoughtSource)
+
+
+
+- **ThoughtSource**
+
+  - A framework for the science of machine thinking
+  - [[Github]](https://github.com/OpenBioLink/ThoughtSource)
