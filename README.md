@@ -169,9 +169,13 @@
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
-| **P3 (Public Pool of Prompts)** | P3 (Public Pool of Prompts) is a collection of prompted English datasets covering a diverse set of NLP tasks. | [[HugginFace]](https://huggingface.co/datasets/bigscience/P3) |
+| **P3 (Public Pool of Prompts)** | P3 (Public Pool of Prompts) is a collection of prompted English datasets covering a diverse set of NLP tasks. | [[HuggingFace]](https://huggingface.co/datasets/bigscience/P3) |
 | **Awesome ChatGPT Prompts** | Repo includes ChatGPT prompt curation to use ChatGPT better. | [[Github]](https://github.com/f/awesome-chatgpt-prompts) |
+| **Writing Prompts** | Collection of a large dataset of 300K human-written stories paired with writing prompts from an online forum(reddit) | [[Kaggle]](https://www.kaggle.com/datasets/ratthachat/writing-prompts) |
+| **Midjourney Prompts** | Text prompts and image URLs scraped from MidJourney's public Discord server | [[HuggingFace]](https://huggingface.co/datasets/succinctly/midjourney-prompts) |
 
 <h6 align="center">
 <small><small>Image Source: docs.cohere.ai </small> </small>
 </h6>
+
+
