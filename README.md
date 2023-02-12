@@ -1,13 +1,12 @@
 <h2 align="center">Awesome Prompt Engineering 🧙‍♂️ </h2>
 
-<p align="center">
+
+
+<div class="img-with-text-below">
+    <p align="center">
   <img width="650" src="https://raw.githubusercontent.com/promptslab/Awesome-Prompt-Engineering/main/_source/prompt.png">
 </p>
 <p> Image Source: docs.cohere.ai </p>
-
-<div class="img-with-text-below">
-    <img src="your-image.jpg" alt="alt-text" />
-    <p><center>Your text</center></p>
 </div>
 
 <p align="center">
