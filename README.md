@@ -5,10 +5,13 @@ This repository contains a hand-curated resources for Prompt Engineering with a 
 
 - [Papers](#papers)
 - [Tasks](#tasks)
+- [Tools/Libraries](#tools)
+- [Datasets](#datasets)
+- [Models](#datasets)
 - [Articles](#articles)
 - [Educational](#educational)
   - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Books](#books)
 - [Other Resources](#other-resources)
-- [Tools](#tools)
+
