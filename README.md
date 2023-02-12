@@ -144,7 +144,7 @@
   
 
 
-## Tools/Libraries 🔧
+## Tools & Libraries 🔧
 
 - **Promptify**
   - Prompt Engineering, Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify
