@@ -182,7 +182,7 @@
 ## 🧠 Models
 
 
-|      Name                | Description  | Url | Open Source | Paid Api |
+|      Name                | Description  | Url | 
 | :-------------------- | :----------: | :----------: |
 | **ChatGPT** | ChatGPT  | [[Github]](https://chat.openai.com/) |
 | **Codex** | The Codex models are descendants of our GPT-3 models that can understand and generate code. Their training data contains both natural language and billions of lines of public code from GitHub  | [[Github]](https://platform.openai.com/docs/models/codex) |
