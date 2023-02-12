@@ -38,14 +38,13 @@
 - [Tools & Code](#tools--code)
 - [Datasets](#datasets)
 - [Models](#datasets)
-- [Articles](#articles)
+- [Educational](#educational)
+  - [Tutorials](#tutorials)
 - [Tasks](#tasks)
   - [Text to Text Generation](#text-to-text-generation)
   - [Text to Image Generation](#text-to-image-generation)
   - [Text to Sound Generation](#text-to-sound-generation)
   - [Text to Video Generation](#text-to-video-generation)
-- [Educational](#educational)
-  - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Books](#books)
 - [Other Resources](#other-resources)
@@ -197,3 +196,10 @@
 | **LaMDA-rlhf-pytorch** | Open-source pre-training implementation of Google's LaMDA in PyTorch. Adding RLHF similar to ChatGPT. | [[Github]](https://github.com/conceptofmind/LaMDA-rlhf-pytorch) |
 | **RLHF** | Implementation of Reinforcement Learning from Human Feedback (RLHF) | [[Github]](https://github.com/xrsrke/instructGOOSE) |
 | **GLM-130B** | GLM-130B: An Open Bilingual Pre-Trained Model | [[Github]](https://github.com/THUDM/GLM-130B) |
+
+
+## Tutorials 📰
+
+- [Generative AI with Cohere: Part 1 - Model Prompting](https://txt.cohere.ai/generative-ai-part-1)
+- [Giving GPT-3 a Turing Test](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
+- [GPT3 and Prompts: A quick primer](https://buildspace.so/notes/intro-to-gpt3-prompts)
