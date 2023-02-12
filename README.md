@@ -4,7 +4,7 @@
   <img width="650" src="https://raw.githubusercontent.com/promptslab/Awesome-Prompt-Engineering/main/_source/prompt.png">
 </p>
 
-<p align="center" style="font-size:5px">
+<p align="center" style="font-size:1px">
 Image Source: docs.cohere.ai 
 </p>
 
