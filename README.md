@@ -1,4 +1,4 @@
-<h2 align="center">🧙‍ Awesome Prompt Engineering♂️</h2>
+<h2 align="center">Awesome Prompt Engineering 🧙‍ </h2>
 <p align="center">
   <p align="center">This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 
