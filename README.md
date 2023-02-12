@@ -179,7 +179,7 @@
 </h6>
 
 
-## 🧠 Models
+## Models 🧠 
 
 
 |      Name                | Description  | Url | 
