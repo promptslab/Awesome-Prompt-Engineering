@@ -192,7 +192,7 @@
 | **FLAN-T5 XXL** | Flan-T5 is an instruction-tuned model, meaning that it exhibits zero-shot-like behavior when given instructions as part of the prompt.  | [[HuggingFace/Google]](https://huggingface.co/google/flan-t5-xxl) |
 | **XLM-RoBERTa-XL** | XLM-RoBERTa-XL model pre-trained on 2.5TB of filtered CommonCrawl data containing 100 languages.  | [[HuggingFace]](https://huggingface.co/facebook/xlm-roberta-xxl) |
 | **GPT-J** | It is a GPT-2-like causal language model trained on the Pile dataset  | [[HuggingFace]](https://huggingface.co/docs/transformers/model_doc/gptj) |
-| **PaLM-rlhf-pytorch** | Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM | [[https://github.com/lucidrains/PaLM-rlhf-pytorch]]
+| **PaLM-rlhf-pytorch** | Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM | [[Github]](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 | **GPT-Neo** | An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library. | [[Github]](https://github.com/EleutherAI/gpt-neo) |
 | **LaMDA-rlhf-pytorch** | Open-source pre-training implementation of Google's LaMDA in PyTorch. Adding RLHF similar to ChatGPT. | [[Github]](https://github.com/conceptofmind/LaMDA-rlhf-pytorch) |
 | **RLHF** | Implementation of Reinforcement Learning from Human Feedback (RLHF) | [[Github]](https://github.com/xrsrke/instructGOOSE) |
