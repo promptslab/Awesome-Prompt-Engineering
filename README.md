@@ -31,7 +31,7 @@
 
 # Table of Contents
 
-- [Papers ](#papers)
+- [Papers](#papers)
 - [Tools/Libraries](#tools)
 - [Datasets](#datasets)
 - [Models](#datasets)
