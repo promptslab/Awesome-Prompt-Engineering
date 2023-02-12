@@ -32,7 +32,7 @@
 # Table of Contents
 
 - [Papers](#papers)
-- [Tools/Libraries](#tools)
+- [Tools & Code](#tools)
 - [Datasets](#datasets)
 - [Models](#datasets)
 - [Articles](#articles)
@@ -144,7 +144,7 @@
   
 
 
-## Tools & Libraries 🔧
+## Tools & Code 🔧
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
