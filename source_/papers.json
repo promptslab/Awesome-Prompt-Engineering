@@ -1,0 +1,332 @@
+[
+   {
+      "p":"Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery",
+      "i":"https://arxiv.org/abs/2302.03668",
+      "y":2023,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Multimodal Chain-of-Thought Reasoning in Language Models",
+      "i":"https://arxiv.org/abs/2302.00923",
+      "y":2023,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"Large Language Models Can Be Easily Distracted by Irrelevant Context",
+      "i":"https://arxiv.org/abs/2302.00093",
+      "y":2023,
+      "cc":"Evaluating and Improving Language Models"
+   },
+   {
+      "p":"Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models",
+      "i":"https://arxiv.org/abs/2302.00618",
+      "y":2023,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Progressive Prompts: Continual Learning for Language Models",
+      "i":"https://arxiv.org/abs/2301.12314",
+      "y":2023,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Batch Prompting: Efficient Inference with LLM APIs",
+      "i":"https://arxiv.org/abs/2301.08721",
+      "y":2023,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Prompting for Multimodal Hateful Meme Classification",
+      "i":"https://arxiv.org/abs/2302.04156",
+      "y":2023,
+      "cc":"Applications of Language Models"
+   },
+   {
+      "p":"PLACES: Prompting Language Models for Social Conversation Synthesis",
+      "i":"https://arxiv.org/abs/2302.03269",
+      "y":2023,
+      "cc":"Applications of Language Models"
+   },
+   {
+      "p":"Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation",
+      "i":"https://arxiv.org/abs/2302.01441",
+      "y":2023,
+      "cc":"Applications of Language Models"
+   },
+   {
+      "p":"Crawling the Internal Knowledge-Base of Language Models",
+      "i":"https://arxiv.org/abs/2301.12810",
+      "y":2023,
+      "cc":"Evaluating and Improving Language Models"
+   },
+   {
+      "p":"On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning",
+      "i":"https://arxiv.org/abs/2212.08061",
+      "y":2022,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"Constitutional AI: Harmlessness from AI Feedback",
+      "i":"https://arxiv.org/abs/2212.08073",
+      "y":2022,
+      "cc":"Threat Detection and Adversarial Examples"
+   },
+   {
+      "p":"Successive Prompting for Decompleting Complex Questions",
+      "i":"https://arxiv.org/abs/2212.04092",
+      "y":2022,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Discovering Language Model Behaviors with Model-Written Evaluations",
+      "i":"https://arxiv.org/abs/2212.09251",
+      "y":2022,
+      "cc":"Evaluating and Improving Language Models"
+   },
+   {
+      "p":"Structured Prompting: Scaling In-Context Learning to 1,000 Examples",
+      "i":"https://arxiv.org/abs/2212.06713",
+      "y":2022,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"PAL: Program-aided Language Models",
+      "i":"https://arxiv.org/abs/2211.10435",
+      "y":2022,
+      "cc":"Applications of Language Models"
+   },
+   {
+      "p":"Large Language Models Are Human-Level Prompt Engineers",
+      "i":"https://arxiv.org/abs/2211.01910",
+      "y":2022,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Ignore Previous Prompt: Attack Techniques For Language Models",
+      "i":"https://arxiv.org/abs/2211.09527",
+      "y":2022,
+      "cc":"Threat Detection and Adversarial Examples"
+   },
+   {
+      "p":"Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods",
+      "i":"https://arxiv.org/abs/2210.07321",
+      "y":2022,
+      "cc":"Threat Detection and Adversarial Examples"
+   },
+   {
+      "p":"Ask Me Anything: A simple strategy for prompting language models",
+      "i":"https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for",
+      "y":2022,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"ReAct: Synergizing Reasoning and Acting in Language Models",
+      "i":"https://arxiv.org/abs/2210.03629",
+      "y":2022,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"Prompting GPT-3 To Be Reliable",
+      "i":"https://arxiv.org/abs/2210.09150",
+      "y":2022,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Decomposed Prompting: A Modular Approach for Solving Complex Tasks",
+      "i":"https://arxiv.org/abs/2210.02406",
+      "y":2022,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought",
+      "i":"https://arxiv.org/abs/2210.01240v3",
+      "y":2022,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"Evaluating the Susceptibility of Pre-Trained Language Models via Handcrafted Adversarial Examples",
+      "i":"https://arxiv.org/abs/2209.02128",
+      "y":2022,
+      "cc":"Threat Detection and Adversarial Examples"
+   },
+   {
+      "p":"Promptagator: Few-shot Dense Retrieval From 8 Examples",
+      "i":"https://arxiv.org/abs/2209.11755",
+      "y":2022,
+      "cc":"Few-shot Learning and Performance Optimization"
+   },
+   {
+      "p":"On the Advance of Making Language Models Better Reasoners",
+      "i":"https://arxiv.org/abs/2206.02336",
+      "y":2022,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"Large Language Models are Zero-Shot Reasoners",
+      "i":"https://arxiv.org/abs/2205.11916",
+      "y":2022,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"Toxicity Detection with Generative Prompt-based Inference",
+      "i":"https://arxiv.org/abs/2205.12390",
+      "y":2022,
+      "cc":"Threat Detection and Adversarial Examples"
+   },
+   {
+      "p":"The Unreliability of Explanations in Few-shot Prompting for Textual Reasoning",
+      "i":"https://arxiv.org/abs/2205.03401",
+      "y":2022,
+      "cc":"Few-shot Learning and Performance Optimization"
+   },
+   {
+      "p":"A Taxonomy of Prompt Modifiers for Text-To-Image Generation",
+      "i":"https://arxiv.org/abs/2204.13988",
+      "y":2022,
+      "cc":"Text-to-Image Generation"
+   },
+   {
+      "p":"PromptChainer: Chaining Large Language Model Prompts through Visual Programming",
+      "i":"https://arxiv.org/abs/2203.06566",
+      "y":2022,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+      "i":"https://arxiv.org/abs/2203.11171",
+      "y":2022,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?",
+      "i":"https://arxiv.org/abs/2202.12837",
+      "y":2022,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"Legal Prompt Engineering for Multilingual Legal Judgement Prediction",
+      "i":"https://arxiv.org/abs/2212.02199",
+      "y":2022,
+      "cc":"Applications of Language Models"
+   },
+   {
+      "p":"Investigating Prompt Engineering in Diffusion Models",
+      "i":"https://arxiv.org/abs/2211.15462",
+      "y":2022,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering",
+      "i":"https://arxiv.org/abs/2209.09513v2",
+      "y":2022,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language",
+      "i":"https://arxiv.org/abs/2210.15157",
+      "y":2022,
+      "cc":"Applications of Language Models"
+   },
+   {
+      "p":"Piloting Copilot and Codex: Hot Temperature, Cold Prompts, or Black Magic?",
+      "i":"https://arxiv.org/abs/2210.14699",
+      "y":2022,
+      "cc":"Overviews"
+   },
+   {
+      "p":"Plot Writing From Scratch Pre-Trained Language Models",
+      "i":"https://aclanthology.org/2022.inlg-main.5",
+      "y":2022,
+      "cc":"Applications of Language Models"
+   },
+   {
+      "p":"Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+      "i":"https://arxiv.org/abs/2201.11903",
+      "y":2021,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"Show Your Work: Scratchpads for Intermediate Computation with Language Models",
+      "i":"https://arxiv.org/abs/2112.00114",
+      "y":2021,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Generated Knowledge Prompting for Commonsense Reasoning",
+      "i":"https://arxiv.org/abs/2110.08387",
+      "y":2021,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"Reframing Instructional Prompts to GPTk's Language",
+      "i":"https://arxiv.org/abs/2109.07830",
+      "y":2021,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Design Guidelines for Prompt Engineering Text-to-Image Generative Models",
+      "i":"https://arxiv.org/abs/2109.06977",
+      "y":2021,
+      "cc":"Text-to-Image Generation"
+   },
+   {
+      "p":"Making Pre-trained Language Models Better Few-shot Learners",
+      "i":"https://aclanthology.org/2021.acl-long.295",
+      "y":2021,
+      "cc":"Few-shot Learning and Performance Optimization"
+   },
+   {
+      "p":"Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity",
+      "i":"https://arxiv.org/abs/2104.08786",
+      "y":2021,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"BERTese: Learning to Speak to BERT",
+      "i":"https://aclanthology.org/2021.eacl-main.316",
+      "y":2021,
+      "cc":"Reasoning and In-Context Learning"
+   },
+   {
+      "p":"The Power of Scale for Parameter-Efficient Prompt Tuning",
+      "i":"https://arxiv.org/abs/2104.08691",
+      "y":2021,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm",
+      "i":"https://arxiv.org/abs/2102.07350",
+      "y":2021,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"Calibrate Before Use: Improving Few-Shot Performance of Language Models",
+      "i":"https://arxiv.org/abs/2102.09690",
+      "y":2021,
+      "cc":"Evaluating and Improving Language Models"
+   },
+   {
+      "p":"Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+      "i":"https://arxiv.org/abs/2101.00190",
+      "y":2021,
+      "cc":"Prompt Engineering Techniques"
+   },
+   {
+      "p":"AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts",
+      "i":"https://arxiv.org/abs/2010.15980",
+      "y":2020,
+      "cc":"Applications of Language Models"
+   },
+   {
+      "p":"Language Models are Few-Shot Learners",
+      "i":"https://arxiv.org/abs/2005.14165",
+      "y":2020,
+      "cc":"Few-shot Learning and Performance Optimization"
+   },
+   {
+      "p":"How Can We Know What Language Models Know?",
+      "i":"https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00324/96460/How-Can-We-Know-What-Language-Models-Know",
+      "y":2020,
+      "cc":"Threat Detection and Adversarial Examples"
+   }
+]
