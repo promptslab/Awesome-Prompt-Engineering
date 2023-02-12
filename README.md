@@ -1,16 +1,16 @@
-<h2 align="center">🧙‍♂️ Awesome Prompt Engineering</h2>
+<h2 align="center">Awesome Prompt Engineering 🧙‍♂️ </h2>
 <p align="center">
-  <p align="center">🔍 A hand-curated repository of resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM and more!
-  </p>
+  <p align="center"> 🔍 This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
+
 </p>
-<h4 align="center">
-  <br />
-  <br />
-  <b>
-    🚧 Prompt Engineering Course is coming soon! 🚧
-  </b>
-  <br />
-  <br />
+
+
+ <h4 align="center">
+  
+  ```
+     Prompt Engineering Course is coming soon..
+  ```
+  
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome" />
   </a>
@@ -27,19 +27,22 @@
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab" />
   </a>
 </h4>
-📚 Table of Contents
-📄 Papers
-🔧 Tools/Libraries
-💾 Datasets
-🧠 Models
-📰 Articles
-📝 Tasks
-  🏷️ Named-Entity Recognition (NER)
-  📈 Classification
-  💬 Text Generation
-  ❓ Question Answering (QA)
-📚 Educational
-🎓 Tutorials
-🎥 Videos
-📚 Books
-💡 Other Resources
+
+
+# Table of Contents
+
+- [📄 Papers ](#papers)
+- [🔧 Tools/Libraries](#tools)
+- [💾 Datasets](#datasets)
+- [🧠 Models](#datasets)
+- [📰 Articles](#articles)
+- [📝 Tasks](#tasks)
+  - [🏷️ Named-Entity Recognition (NER)](#named-entity-recognition-ner)
+  - [📈 Classification](#classification)
+  - [💬 Text Generation](#text-generation)
+  - [❓ Question Answering (QA)](#question-answering-qa)
+- [📚 Educational](#educational)
+  - [🎓 Tutorials](#tutorials)
+- [🎥 Videos](#videos)
+- [📚 Books](#books)
+- [💡 Other Resources](#other-resources)
