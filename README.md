@@ -4,9 +4,9 @@
   <img width="650" src="https://raw.githubusercontent.com/promptslab/Awesome-Prompt-Engineering/main/_source/prompt.png">
 </p>
 
-<h7 align="center">
- Image Source: docs.cohere.ai 
-</h7>
+<p align="center" style="font-size:5px">
+Image Source: docs.cohere.ai 
+</p>
 
 <p align="center">
   <p align="center"> This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
