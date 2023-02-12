@@ -6,11 +6,9 @@
 
 
  <h4 align="center">
-  
-    <a href="https://awesome.re">
+  <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome" />
   </a>
-  
   <a href="https://github.com/promptslab/Awesome-Prompt-Engineering/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="Awesome-Prompt-Engineering is released under the Apache 2.0 license." />
   </a>
