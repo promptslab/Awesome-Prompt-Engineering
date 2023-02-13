@@ -35,7 +35,7 @@
 # Table of Contents
 
 - [Papers](#papers)
-- [Tools & Code](#tools--code)
+- [Tools & Code 🔧](#tools--code)
 - [Apis](#apis)
 - [Datasets](#datasets)
 - [Models](#datasets)
@@ -184,9 +184,6 @@
 | **CohereAI** | Cohere provides access to advanced Large Language Models and NLP tools through one API | [[CohereAI]](https://cohere.ai/) | Paid |
 | **Anthropic** | Coming soon | [[Anthropic]](https://www.anthropic.com/) | Paid |
 | **FLAN-T5 XXL** | Coming soon | [[HugginFace]](https://huggingface.co/docs/api-inference/index) | Open-Source |
-
-
-
 
 
 
