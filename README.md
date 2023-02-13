@@ -133,7 +133,7 @@
   - [A Taxonomy of Prompt Modifiers for Text-To-Image Generation](https://arxiv.org/abs/2204.13988) [2022] (Arxiv) 
   - [Design Guidelines for Prompt Engineering Text-to-Image Generative Models](https://arxiv.org/abs/2109.06977) [2021] (Arxiv)
   - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) [2021] (Arxiv)
-  - [DALL·E: Creating Images from Text] (https://arxiv.org/abs/2102.12092) [2021] (Arxiv)
+  - [DALL·E: Creating Images from Text](https://arxiv.org/abs/2102.12092) [2021] (Arxiv)
   
 - **Text-to-Music Generation**:
 
