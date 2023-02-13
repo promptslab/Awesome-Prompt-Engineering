@@ -129,14 +129,14 @@
   - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) [2020] (Arxiv) 
   
   
-- **Text-to-Image Generation**:
+- **Text to Image Generation**:
 
   - [A Taxonomy of Prompt Modifiers for Text-To-Image Generation](https://arxiv.org/abs/2204.13988) [2022] (Arxiv) 
   - [Design Guidelines for Prompt Engineering Text-to-Image Generative Models](https://arxiv.org/abs/2109.06977) [2021] (Arxiv)
   - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) [2021] (Arxiv)
   - [DALL·E: Creating Images from Text](https://arxiv.org/abs/2102.12092) [2021] (Arxiv)
   
-- **Text-to-Music Generation**:
+- **Text to Music/Sound Generation**:
 
   - [MusicLM: Generating Music From Text](https://arxiv.org/abs/2301.11325) [2023] (Arxiv) 
   - [ERNIE-Music: Text-to-Waveform Music Generation with Diffusion Models](https://arxiv.org/pdf/2302.04456) [2023] (Arxiv)
@@ -187,7 +187,7 @@
 
 
 
-## Datasets 💾
+## Datasets
 
 
 |      Name                | Description  | Url |
@@ -202,7 +202,7 @@
 </h6>
 
 
-## Models 🧠 
+## Models
 
 
 |      Name                | Description  | Url | 
@@ -222,7 +222,7 @@
 | **GLM-130B** | GLM-130B: An Open Bilingual Pre-Trained Model | [[Github]](https://github.com/THUDM/GLM-130B) |
 
 
-## Tutorials 📰
+## Tutorials
   - **Introduction to Prompt Engineering**
 
     - [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain)
@@ -257,7 +257,7 @@
     - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
     - [Prompt Engineering by Microsoft](https://microsoft.github.io/prompt-engineering)
 
-## Videos 🎥
+## Videos
 
 - [Advanced ChatGPT Prompt Engineering](https://www.youtube.com/watch?v=bBiTR_1sEmI)
 - [ChatGPT: 5 Prompt Engineering Secrets For Beginners](https://www.youtube.com/watch?v=2zg3V66-Fzs)
