@@ -48,6 +48,7 @@
   - [Text to Video Generation](#text-to-video-generation)
 - [Videos](#videos)
 - [Books](#books)
+- [Communities](#communities)
 - [Other Resources](#other-resources)
 
 
@@ -271,3 +272,13 @@
 - [ChatGPT Guide: 10x Your Results with Better Prompts](https://www.youtube.com/watch?v=os-JX1ZQwIA)
 - [Language Models and Prompt Engineering: Systematic Survey of Prompting Methods in NLP](https://youtube.com/watch?v=OsbUfL8w-mo&feature=shares)
 - [Prompt Engineering 101: Autocomplete, Zero-shot, One-shot, and Few-shot prompting](https://youtube.com/watch?v=v2gD8BHOaX4&feature=shares)
+
+
+## Communities
+🤝
+
+- [OpenAI Discord](https://discord.com/invite/openai)
+- [PromptsLab Discord](https://discord.gg/m88xfYMbK6)
+- [Learn Prompting](https://discord.gg/7enStJXQzD)
+- [r/ChatGPT](https://discord.com/invite/r-chatgpt-1050422060352024636)
+- [MidJourney](https://discord.com/invite/MidJourney)
