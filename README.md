@@ -51,7 +51,7 @@
 - [Other Resources](#other-resources)
 
 
-## Papers 📄
+## Papers
 
 - **Prompt Engineering Techniques**:
 
@@ -159,7 +159,7 @@
   
 
 
-## Tools & Code 🔧
+## Tools & Code
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
@@ -176,7 +176,7 @@
 | **ThoughtSource** | A framework for the science of machine thinking | [[Github]](https://github.com/OpenBioLink/ThoughtSource) |
 
 
-## Apis 💻
+## Apis
 
 |      Name                | Description  | Url | Paid or Open-Source |
 | :-------------------- | :----------: | :----------: | :----------: |
