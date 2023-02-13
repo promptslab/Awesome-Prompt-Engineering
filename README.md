@@ -225,37 +225,37 @@
 ## Tutorials 📰
   - **Introduction to Prompt Engineering**
 
-    - [Prompt Engineering 101 - Introduction and resources](##https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain)
-    - [Prompt Engineering 101](##https://humanloop.com/blog/prompt-engineering-101)
+    - [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain)
+    - [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101)
 
   - **Beginner's Guide to Generative Language Models**
 
-    - [A beginner-friendly guide to generative language models - LaMBDA guide](##https://aitestkitchen.withgoogle.com/how-lamda-works)
-    - [Generative AI with Cohere: Part 1 - Model Prompting](##https://txt.cohere.ai/generative-ai-part-1)
+    - [A beginner-friendly guide to generative language models - LaMBDA guide](https://aitestkitchen.withgoogle.com/how-lamda-works)
+    - [Generative AI with Cohere: Part 1 - Model Prompting](https://txt.cohere.ai/generative-ai-part-1)
 
   - **Best Practices for Prompt Engineering**
 
-    - [Best practices for prompt engineering with OpenAI API](##https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-    - [How to write good prompts](##https://andymatuschak.org/prompts)
+    - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+    - [How to write good prompts](https://andymatuschak.org/prompts)
 
   - **Complete Guide to Prompt Engineering**
 
-    - [A Complete Introduction to Prompt Engineering for Large Language Models](##https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering)
-    - [Prompt Engineering Guide: How to Engineer the Perfect Prompts](##https://richardbatt.co.uk/prompt-engineering-guide-how-to-engineer-the-perfect-prompts)
+    - [A Complete Introduction to Prompt Engineering for Large Language Models](https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering)
+    - [Prompt Engineering Guide: How to Engineer the Perfect Prompts](https://richardbatt.co.uk/prompt-engineering-guide-how-to-engineer-the-perfect-prompts)
 
   - **Technical Aspects of Prompt Engineering**
 
-    - [3 Principles for prompt engineering with GPT-3](##https://www.linkedin.com/pulse/3-principles-prompt-engineering-gpt-3-ben-whately)
-    - [A Generic Framework for ChatGPT Prompt Engineering](##https://medium.com/@thorbjoern.heise/a-generic-framework-for-chatgpt-prompt-engineering-7097f6513a0b)
-    - [Methods of prompt programming](##https://generative.ink/posts/methods-of-prompt-programming)
+    - [3 Principles for prompt engineering with GPT-3](https://www.linkedin.com/pulse/3-principles-prompt-engineering-gpt-3-ben-whately)
+    - [A Generic Framework for ChatGPT Prompt Engineering](https://medium.com/@thorbjoern.heise/a-generic-framework-for-chatgpt-prompt-engineering-7097f6513a0b)
+    - [Methods of prompt programming](https://generative.ink/posts/methods-of-prompt-programming)
 
   - **Resources for Prompt Engineering**
 
-    - [Awesome ChatGPT Prompts](##https://github.com/f/awesome-chatgpt-prompts)
-    - [Best 100+ Stable Diffusion Prompts](##https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts)
-    - [DALLE Prompt Book](##https://dallery.gallery/the-dalle-2-prompt-book)
-    - [OpenAI Cookbook](##https://github.com/openai/openai-cookbook)
-    - [Prompt Engineering by Microsoft](##https://microsoft.github.io/prompt-engineering)
+    - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+    - [Best 100+ Stable Diffusion Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts)
+    - [DALLE Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book)
+    - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+    - [Prompt Engineering by Microsoft](https://microsoft.github.io/prompt-engineering)
 
 ## Videos 🎥
 
