@@ -160,6 +160,7 @@
 
 
 ## Tools & Code
+🔧
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
@@ -177,6 +178,7 @@
 
 
 ## Apis
+💻
 
 |      Name                | Description  | Url | Paid or Open-Source |
 | :-------------------- | :----------: | :----------: | :----------: |
@@ -188,7 +190,7 @@
 
 
 ## Datasets
-
+💾
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
@@ -203,7 +205,7 @@
 
 
 ## Models
-
+🧠
 
 |      Name                | Description  | Url | 
 | :-------------------- | :----------: | :----------: |
@@ -223,6 +225,8 @@
 
 
 ## Tutorials
+📚
+
   - **Introduction to Prompt Engineering**
 
     - [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain)
@@ -258,6 +262,7 @@
     - [Prompt Engineering by Microsoft](https://microsoft.github.io/prompt-engineering)
 
 ## Videos
+🎥
 
 - [Advanced ChatGPT Prompt Engineering](https://www.youtube.com/watch?v=bBiTR_1sEmI)
 - [ChatGPT: 5 Prompt Engineering Secrets For Beginners](https://www.youtube.com/watch?v=2zg3V66-Fzs)
