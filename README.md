@@ -280,5 +280,5 @@
 - [OpenAI Discord](https://discord.com/invite/openai)
 - [PromptsLab Discord](https://discord.gg/m88xfYMbK6)
 - [Learn Prompting](https://discord.gg/7enStJXQzD)
-- [r/ChatGPT](https://discord.com/invite/r-chatgpt-1050422060352024636)
-- [MidJourney](https://discord.com/invite/MidJourney)
+- [r/ChatGPT Discord](https://discord.com/invite/r-chatgpt-1050422060352024636)
+- [MidJourney Discord](https://discord.com/invite/MidJourney)
