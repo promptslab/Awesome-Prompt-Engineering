@@ -36,6 +36,7 @@
 
 - [Papers](#papers)
 - [Tools & Code](#tools--code)
+- [Apis](#apis)
 - [Datasets](#datasets)
 - [Models](#datasets)
 - [Educational](#educational)
@@ -173,6 +174,20 @@
 | **Prompts AI** | Advanced playground for GPT-3 | [[Github]](https://github.com/sevazhidkov/prompts-ai) |
 | **Prompt Source** | PromptSource is a toolkit for creating, sharing and using natural language prompts. | [[Github]](https://github.com/bigscience-workshop/promptsource) |
 | **ThoughtSource** | A framework for the science of machine thinking | [[Github]](https://github.com/OpenBioLink/ThoughtSource) |
+
+
+## Apis 💻
+
+|      Name                | Description  | Url | Paid or Open-Source |
+| :-------------------- | :----------: | :----------: | :----------: |
+| **OpenAI** | GPT-n for natural language tasks, Codex for translates natural language to code, and DALL·E for creates and edits original images | [[OpenAI]](https://openai.com/api/) | Paid |
+| **CohereAI** | Cohere provides access to advanced Large Language Models and NLP tools through one API | [[CohereAI]](https://cohere.ai/) | Paid |
+| **Anthropic** | Coming soon | [[Anthropic]](https://www.anthropic.com/) | Paid |
+| **FLAN-T5 XXL** | Coming soon | [[HugginFace]](https://huggingface.co/docs/api-inference/index) | Open-Source |
+
+
+
+
 
 
 ## Datasets 💾
