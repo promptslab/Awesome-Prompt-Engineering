@@ -195,10 +195,6 @@
 | **Writing Prompts** | Collection of a large dataset of 300K human-written stories paired with writing prompts from an online forum(reddit) | [[Kaggle]](https://www.kaggle.com/datasets/ratthachat/writing-prompts) |
 | **Midjourney Prompts** | Text prompts and image URLs scraped from MidJourney's public Discord server | [[HuggingFace]](https://huggingface.co/datasets/succinctly/midjourney-prompts) |
 
-<h6 align="center">
-<small><small>Image Source: docs.cohere.ai </small> </small>
-</h6>
-
 
 ## Models
 🧠
@@ -277,3 +273,8 @@
 - [Learn Prompting](https://discord.gg/7enStJXQzD)
 - [r/ChatGPT Discord](https://discord.com/invite/r-chatgpt-1050422060352024636)
 - [MidJourney Discord](https://discord.com/invite/MidJourney)
+
+
+<h6 align="center">
+<small><small>Image Source: docs.cohere.ai </small> </small>
+</h6>
