@@ -43,7 +43,7 @@
 - [Tasks](#tasks)
   - [Text to Text Generation](#text-to-text-generation)
   - [Text to Image Generation](#text-to-image-generation)
-  - [Text to Sound Generation](#text-to-sound-generation)
+  - [Text to Music/Sound Generation](#text-to-sound-generation)
   - [Text to Video Generation](#text-to-video-generation)
 - [Videos](#videos)
 - [Books](#books)
@@ -92,7 +92,6 @@
   
 - **Evaluating and Improving Language Models**:
 
-
   - [Large Language Models Can Be Easily Distracted by Irrelevant Context](https://arxiv.org/abs/2302.00093) [2023] (Arxiv) 
   - [Crawling the Internal Knowledge-Base of Language Models](https://arxiv.org/abs/2301.12810) [2023] (Arxiv) 
   - [Discovering Language Model Behaviors with Model-Written Evaluations](https://arxiv.org/abs/2212.09251) [2022] (Arxiv) 
@@ -100,7 +99,6 @@
   
   
 - **Applications of Language Models**:
-
 
   - [Prompting for Multimodal Hateful Meme Classification](https://arxiv.org/abs/2302.04156) [2023] (Arxiv) 
   - [PLACES: Prompting Language Models for Social Conversation Synthesis](https://arxiv.org/abs/2302.03269) [2023] (Arxiv) 
@@ -114,7 +112,6 @@
   
 - **Threat Detection and Adversarial Examples**:
 
-
   - [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) [2022] (Arxiv) 
   - [Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527) [2022] (Arxiv) 
   - [Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods](https://arxiv.org/abs/2210.07321) [2022] (Arxiv) 
@@ -125,7 +122,6 @@
   
 - **Few-shot Learning and Performance Optimization**:
 
-
   - [Promptagator: Few-shot Dense Retrieval From 8 Examples](https://arxiv.org/abs/2209.11755) [2022] (Arxiv) 
   - [The Unreliability of Explanations in Few-shot Prompting for Textual Reasoning](https://arxiv.org/abs/2205.03401) [2022] (Arxiv) 
   - [Making Pre-trained Language Models Better Few-shot Learners](https://aclanthology.org/2021.acl-long.295) [2021] (Acl) 
@@ -134,9 +130,25 @@
   
 - **Text-to-Image Generation**:
 
-
   - [A Taxonomy of Prompt Modifiers for Text-To-Image Generation](https://arxiv.org/abs/2204.13988) [2022] (Arxiv) 
-  - [Design Guidelines for Prompt Engineering Text-to-Image Generative Models](https://arxiv.org/abs/2109.06977) [2021] (Arxiv) 
+  - [Design Guidelines for Prompt Engineering Text-to-Image Generative Models](https://arxiv.org/abs/2109.06977) [2021] (Arxiv)
+  - [High-Resolution Image Synthesis with Latent Diffusion Models] (https://arxiv.org/abs/2112.10752) [2021] (Arxiv)
+  - [DALL·E: Creating Images from Text] (https://arxiv.org/abs/2102.12092) [2021] (Arxiv)
+  
+- **Text-to-Music Generation**:
+
+  - [MusicLM: Generating Music From Text](https://arxiv.org/abs/2301.11325) [2023] (Arxiv) 
+  - [ERNIE-Music: Text-to-Waveform Music Generation with Diffusion Models](https://arxiv.org/pdf/2302.04456) [2023] (Arxiv)
+  - [Noise2Music: Text-conditioned Music Generation with Diffusion Models](https://arxiv.org/abs/2301.11325) [2023) (Arxiv)
+  - [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/pdf/2209.03143) [2023] (Arxiv)
+  - [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://arxiv.org/pdf/2301.12661.pdf) [2023] (Arxiv)
+  
+- **Text to Video Generation**:
+
+  - [Dreamix: Video Diffusion Models are General Video Editors](https://arxiv.org/pdf/2302.01329.pdf) [2023] (Arxiv) 
+  - [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/pdf/2212.11565.pdf) [2022] (Arxiv)
+  - [Noise2Music: Text-conditioned Music Generation with Diffusion Models](https://arxiv.org/abs/2301.11325) [2023) (Arxiv)
+  - [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/pdf/2209.03143) [2023] (Arxiv)
   
   
 - **Overviews**:
