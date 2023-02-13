@@ -223,6 +223,7 @@
 
     - [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain)
     - [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101)
+    - [Prompt Engineering Guide by SudalaiRajkumar](https://github.com/SudalaiRajkumar/Talks_Webinars/blob/master/Slides/PromptEngineering_20230208.pdf)
 
   - **Beginner's Guide to Generative Language Models**
 
