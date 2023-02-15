@@ -276,6 +276,14 @@
 - [MidJourney Discord](https://discord.com/invite/MidJourney)
 
 
+
+# Contribute
+
+We welcome contributions to this list! In fact, that's the main reason why I created it - to encourage contributions and encourage people to subscribe to changes in order to stay informed about new and exciting developments in the world of Large Language Models(LLMs) & Prompt-Engineering.
+
+Before contributing, please take a moment to review our [contribution guidelines](contributing.md). These guidelines will help ensure that your contributions align with our objectives and meet our standards for quality and relevance. Thank you for your interest in contributing to this project!
+
+
 <h6 align="center">
 <small><small>Image Source: docs.cohere.ai </small> </small>
 </h6>
