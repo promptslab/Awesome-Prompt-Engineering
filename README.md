@@ -45,7 +45,7 @@
 - [Videos](#videos)
 - [Books](#books)
 - [Communities](#communities)
-- [Other Resources](#other-resources)
+- [How to Contribute](#how-to-contribute)
 
 
 ## Papers
@@ -288,7 +288,7 @@
 
 
 
-# Contribute
+# How to Contribute
 
 We welcome contributions to this list! In fact, that's the main reason why I created it - to encourage contributions and encourage people to subscribe to changes in order to stay informed about new and exciting developments in the world of Large Language Models(LLMs) & Prompt-Engineering.
 
