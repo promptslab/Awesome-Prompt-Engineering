@@ -39,7 +39,7 @@
 - [Apis](#apis)
 - [Datasets](#datasets)
 - [Models](#models)
-- [AI Content Detectors](#ai-content-detector)
+- [AI Content Detectors](#ai-content-detectors)
 - [Educational](#educational)
   - [Tutorials](#tutorials)
 - [Videos](#videos)
