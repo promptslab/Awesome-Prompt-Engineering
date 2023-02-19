@@ -38,7 +38,7 @@
 - [Tools & Code](#tools--code)
 - [Apis](#apis)
 - [Datasets](#datasets)
-- [Models](#datasets)
+- [Models](#models)
 - [AI Content Detectors](#ai-content-detector)
 - [Educational](#educational)
   - [Tutorials](#tutorials)
