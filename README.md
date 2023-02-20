@@ -80,6 +80,7 @@
   - [Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://arxiv.org/abs/2210.01240v3) [2022] (Arxiv) 
   - [On the Advance of Making Language Models Better Reasoners](https://arxiv.org/abs/2206.02336) [2022] (Arxiv) 
   - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) [2022] (Arxiv) 
+  - [Reasoning Like Program Executors](https://arxiv.org/abs/2201.11473) [2022] (Arxiv)
   - [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171) [2022] (Arxiv) 
   - [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837) [2022] (Arxiv) 
   - [Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering](https://arxiv.org/abs/2209.09513v2) [2022] (Arxiv) 
