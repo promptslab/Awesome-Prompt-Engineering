@@ -51,7 +51,7 @@
 ## Papers
 📄
 - **Prompt Engineering Techniques**:
-
+  - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382) [2023] (Arxiv)
   - [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery](https://arxiv.org/abs/2302.03668) [2023] (Arxiv)
   - [Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models](https://arxiv.org/abs/2302.00618) [2023] (Arxiv) 
   - [Progressive Prompts: Continual Learning for Language Models](https://arxiv.org/abs/2301.12314) [2023] (Arxiv) 
