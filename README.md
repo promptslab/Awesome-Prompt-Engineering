@@ -41,6 +41,7 @@
 - [Models](#models)
 - [AI Content Detectors](#ai-content-detectors)
 - [Educational](#educational)
+  - [Courses](#courses)
   - [Tutorials](#tutorials)
 - [Videos](#videos)
 - [Books](#books)
@@ -229,6 +230,10 @@
 | **GPT-2 Output Detector** | This is an online demo of the GPT-2 output detector model, based on the 🤗/Transformers implementation of RoBERTa.  | [[HuggingFace]](https://huggingface.co/spaces/openai/openai-detector) |
 | **Openai Detector** | AI classifier for indicating AI-written text (OpenAI Detector Python wrapper)  | [[GitHub]](https://github.com/promptslab/openai-detector) |
 
+## Courses
+👩‍🏫
+
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), by [deeplearning.ai](https://www.deeplearning.ai/)
 
 
 ## Tutorials
