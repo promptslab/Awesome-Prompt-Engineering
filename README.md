@@ -167,6 +167,7 @@
 | **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[Github]](https://github.com/promptslab/Promptify) |
 | **Arize-Phoenix** | Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models. | [[Github]](https://github.com/Arize-ai/phoenix) |
 | **Better Prompt** | Test suite for LLM prompts before pushing them to PROD | [[Github]](https://github.com/krrishdholakia/betterprompt) |
+| **Embedchain** | Framework to create ChatGPT like bots over your dataset | [[Github]](https://github.com/embedchain/embedchain) |
 | **Interactive Composition Explorerx** | ICE is a Python library and trace visualizer for language model programs. | [[Github]](https://github.com/oughtinc/ice) |
 | **Haystack** | Open source NLP framework to interact with your data using LLMs and Transformers. | [[Github]](https://github.com/deepset-ai/haystack) |
 | **LangChainx** | Building applications with LLMs through composability | [[Github]](https://github.com/hwchase17/langchain) |
