@@ -180,6 +180,7 @@
 | **Prompt Source** | PromptSource is a toolkit for creating, sharing and using natural language prompts. | [[Github]](https://github.com/bigscience-workshop/promptsource) |
 | **ThoughtSource** | A framework for the science of machine thinking | [[Github]](https://github.com/OpenBioLink/ThoughtSource) |
 | **PROMPTMETHEUS** | One-shot Prompt Engineering Toolkit | [[Tool]](https://promptmetheus.com) |
+| **Promptotype** | Develop, test, and monitor your LLM { structured } tasks | [[Tool]](https://www.promptotype.io) |
 
 
 ## Apis
