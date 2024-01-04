@@ -165,7 +165,7 @@
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
-| **GPT Index** | GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. | [[Github]](https://github.com/jerryjliu/gpt_index) |
+| **LlamaIndex** | LlamaIndex is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. | [[Github]](https://github.com/jerryjliu/gpt_index) |
 | **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[Github]](https://github.com/promptslab/Promptify) |
 | **Arize-Phoenix** | Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models. | [[Github]](https://github.com/Arize-ai/phoenix) |
 | **Better Prompt** | Test suite for LLM prompts before pushing them to PROD | [[Github]](https://github.com/krrishdholakia/betterprompt) |
@@ -181,6 +181,8 @@
 | **Prompt Source** | PromptSource is a toolkit for creating, sharing and using natural language prompts. | [[Github]](https://github.com/bigscience-workshop/promptsource) |
 | **ThoughtSource** | A framework for the science of machine thinking | [[Github]](https://github.com/OpenBioLink/ThoughtSource) |
 | **PROMPTMETHEUS** | One-shot Prompt Engineering Toolkit | [[Tool]](https://promptmetheus.com) |
+| **AI Config** | An Open-Source configuration based framework for building applications with LLMs | [[Github]](https://github.com/lastmile-ai/aiconfig) | 
+| **LastMile AI** | Notebook-like playground for interacting with LLMs across different modalities (text, speech, audio, image) | [[Tool]](https://lastmileai.dev/) |
 
 
 ## Apis
@@ -224,6 +226,7 @@
 | **LaMDA-rlhf-pytorch** | Open-source pre-training implementation of Google's LaMDA in PyTorch. Adding RLHF similar to ChatGPT. | [[Github]](https://github.com/conceptofmind/LaMDA-rlhf-pytorch) |
 | **RLHF** | Implementation of Reinforcement Learning from Human Feedback (RLHF) | [[Github]](https://github.com/xrsrke/instructGOOSE) |
 | **GLM-130B** | GLM-130B: An Open Bilingual Pre-Trained Model | [[Github]](https://github.com/THUDM/GLM-130B) |
+| **Mixtral-84B** | Mixtral-84B is a Mixture of Expert (MOE) model with 8 experts per MLP. | [[HuggingFace]](https://huggingface.co/docs/transformers/model_doc/mixtral) |
 
 ## AI Content Detectors
 🔎
