@@ -183,6 +183,7 @@
 | **PROMPTMETHEUS** | One-shot Prompt Engineering Toolkit | [[Tool]](https://promptmetheus.com) |
 | **AI Config** | An Open-Source configuration based framework for building applications with LLMs | [[Github]](https://github.com/lastmile-ai/aiconfig) | 
 | **LastMile AI** | Notebook-like playground for interacting with LLMs across different modalities (text, speech, audio, image) | [[Tool]](https://lastmileai.dev/) |
+| **XpulsAI** | Effortlessly build scalable AI Apps. AutoOps platform for AI & ML | [[Tool]](https://xpuls.ai/) |
 
 
 ## Apis
