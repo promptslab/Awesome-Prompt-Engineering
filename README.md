@@ -165,6 +165,7 @@
 
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
+| **Agenta** | Agenta is an open-source LLM developer platform with the tools for prompt management, evaluation, human feedback, and deployment all in one place.  | [[Github]](https://github.com/agenta-ai/agenta) |
 | **LlamaIndex** | LlamaIndex is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. | [[Github]](https://github.com/jerryjliu/gpt_index) |
 | **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[Github]](https://github.com/promptslab/Promptify) |
 | **Arize-Phoenix** | Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models. | [[Github]](https://github.com/Arize-ai/phoenix) |
