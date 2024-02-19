@@ -185,6 +185,7 @@
 | **LastMile AI** | Notebook-like playground for interacting with LLMs across different modalities (text, speech, audio, image) | [[Tool]](https://lastmileai.dev/) |
 | **XpulsAI** | Effortlessly build scalable AI Apps. AutoOps platform for AI & ML | [[Tool]](https://xpuls.ai/) |
 | **Agenta** | Agenta is an open-source LLM developer platform with the tools for prompt management, evaluation, human feedback, and deployment all in one place.  | [[Github]](https://github.com/agenta-ai/agenta) |
+| **Promptotype** | Develop, test, and monitor your LLM { structured } tasks | [[Tool]](https://www.promptotype.io) |
 
 ## Apis
 💻
