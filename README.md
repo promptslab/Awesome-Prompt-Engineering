@@ -244,6 +244,7 @@
 
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), by [deeplearning.ai](https://www.deeplearning.ai/)
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) by [DeepLearning.AI](https://www.deeplearning.ai/)
+- [Developer's guide to LLM prompting](https://www.wandb.courses/courses/prompting) by [Weights & Biases](wandb.ai/site)
 
 
 ## Tutorials
