@@ -166,6 +166,7 @@
 |      Name                | Description  | Url |
 | :-------------------- | :----------: | :----------: |
 | **LlamaIndex** | LlamaIndex is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. | [[Github]](https://github.com/jerryjliu/gpt_index) |
+| **PromptDX** | A declarative, extensible, and composable approach for developing LLM prompts using Markdown and JSX. | [[Github]](https://github.com/puzzlet-ai/promptdx) |
 | **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[Github]](https://github.com/promptslab/Promptify) |
 | **Arize-Phoenix** | Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models. | [[Github]](https://github.com/Arize-ai/phoenix) |
 | **Better Prompt** | Test suite for LLM prompts before pushing them to PROD | [[Github]](https://github.com/krrishdholakia/betterprompt) |
