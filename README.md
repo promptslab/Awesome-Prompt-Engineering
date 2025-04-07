@@ -101,6 +101,7 @@
   
 - **Applications of Language Models**:
 
+  - [E2TP: Element to Tuple Prompting Improves Aspect Sentiment Tuple Prediction](https://arxiv.org/pdf/2405.06454) [2024] (Arxiv)
   - [Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves](https://arxiv.org/abs/2311.04205) [2023] (Arxiv)
   - [Prompting for Multimodal Hateful Meme Classification](https://arxiv.org/abs/2302.04156) [2023] (Arxiv) 
   - [PLACES: Prompting Language Models for Social Conversation Synthesis](https://arxiv.org/abs/2302.03269) [2023] (Arxiv) 
