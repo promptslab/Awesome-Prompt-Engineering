@@ -52,6 +52,7 @@
 ## Papers
 📄
 - **Prompt Engineering Techniques**:
+  - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://trigaten.github.io/Prompt_Survey_Site/) [2024] (Arxiv)
   - [Text Mining for Prompt Engineering: Text-Augmented Open Knowledge Graph Completion via PLMs](https://aclanthology.org/2023.findings-acl.709.pdf) [2023] (ACL)
   - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382) [2023] (Arxiv)
   - [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery](https://arxiv.org/abs/2302.03668) [2023] (Arxiv)
@@ -72,6 +73,7 @@
   - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) [2021] (Arxiv) 
   - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350) [2021] (Arxiv) 
   - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) [2021] (Arxiv) 
+  
   
  
 - **Reasoning and In-Context Learning**:
@@ -248,6 +250,21 @@
 
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), by [deeplearning.ai](https://www.deeplearning.ai/)
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) by [DeepLearning.AI](https://www.deeplearning.ai/)
+- [ChatGPT for Everyone](https://learnprompting.org/courses/chatgpt-for-everyone) by Learn Prompting
+- [Introduction to Prompt Engineering](https://learnprompting.org/courses/introduction_to_prompt_engineering) by Learn Prompting
+- [Advanced Prompt Engineering](https://learnprompting.org/courses/advanced-prompt-engineering) by Learn Prompting
+- [Introduction to Generative AI Agents for Business Professionals](https://learnprompting.org/courses/introduction-to-agents) by Learn Prompting
+- [Introduction to Prompt Hacking](https://learnprompting.org/courses/intro-to-prompt-hacking) by Learn Prompting
+- [Introduction to Generative AI in Marketing](https://learnprompting.org/courses/introduction-to-generative-ai-in-marketing) by Learn Prompting
+- [Advanced Prompt Hacking](https://learnprompting.org/courses/advanced-prompt-hacking) by Learn Prompting
+- [Image Creation with DALL·E 3](https://learnprompting.org/courses/image-creation-with-dalle3) by Learn Prompting
+- [AI Safety](https://learnprompting.org/courses/ai-safety) by Learn Prompting
+- [Runway ML for Everyone](https://learnprompting.org/courses/runway-ml-for-everyone) by Learn Prompting
+- [Advanced OpenAI Playground](https://learnprompting.org/courses/advanced-openai-playground) by Learn Prompting
+- [Boost Your Day-to-Day Efficiency With Generative AI](https://learnprompting.org/courses/boost-your-day-to-day-efficiency-with-generative-ai) by Learn Prompting
+- [Introduction to Large Language Models (LLMs) for Business Professionals](https://learnprompting.org/courses/introduction-to-llms) by Learn Prompting
+- [Introduction to Retrieval-Augmented Generation (RAG) for Business Professionals](https://learnprompting.org/courses/introduction-to-rag) by Learn Prompting
+- [Introduction to Generative AI for Business Professionals](https://learnprompting.org/courses/intro-to-gen-ai) by Learn Prompting
 
 
 ## Tutorials
@@ -273,6 +290,7 @@
 
     - [A Complete Introduction to Prompt Engineering for Large Language Models](https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering)
     - [Prompt Engineering Guide: How to Engineer the Perfect Prompts](https://richardbatt.co.uk/prompt-engineering-guide-how-to-engineer-the-perfect-prompts)
+    - [Prompt Engineering Guide by Learn Prompting](https://learnprompting.org/docs/introduction)
 
   - **Technical Aspects of Prompt Engineering**
 
