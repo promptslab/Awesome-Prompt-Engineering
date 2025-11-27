@@ -176,6 +176,7 @@
 | **Embedchain** | Framework to create ChatGPT like bots over your dataset | [[Github]](https://github.com/embedchain/embedchain) |
 | **Interactive Composition Explorerx** | ICE is a Python library and trace visualizer for language model programs. | [[Github]](https://github.com/oughtinc/ice) |
 | **Haystack** | Open source NLP framework to interact with your data using LLMs and Transformers. | [[Github]](https://github.com/deepset-ai/haystack) |
+| **Hypersigil** | Open-source prompt lifecycle management and gateway with a Web UI. | [[Github]](https://github.com/hypersigilhq/hypersigil) |
 | **LangChainx** | Building applications with LLMs through composability | [[Github]](https://github.com/hwchase17/langchain) |
 | **Neurolink** | Multi-provider AI agent framework unifying 12+ providers with workflow orchestration and edge-first deployment. Production-ready with streaming, tool calling, Redis caching, and enterprise features. | [[Github]](https://github.com/juspay/neurolink) |
 | **OpenPrompt** | An Open-Source Framework for Prompt-learning | [[Github]](https://github.com/thunlp/OpenPrompt) |
