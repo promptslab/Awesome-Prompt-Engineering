@@ -192,6 +192,7 @@
 | **Agenta** | Agenta is an open-source LLM developer platform with the tools for prompt management, evaluation, human feedback, and deployment all in one place.  | [[Github]](https://github.com/agenta-ai/agenta) |
 | **Promptotype** | Develop, test, and monitor your LLM { structured } tasks | [[Tool]](https://www.promptotype.io) |
 | **AI Agent System Prompts Library** | A curated collection of system prompts and tool definitions from production AI coding agents (Claude Code, Gemini CLI, Cline, Aider, Roo Code, Zed, Codex CLI) | [[Github]](https://github.com/tallesborges/agentic-system-prompts) |
+| **LaikaTest** | Laika Test helps AI teams A/B test, analyze, and secure prompts in real time so they can ship reliable AI faster. | [[Tool]](https://laikatest.com/) |
 
 ## Apis
 💻
