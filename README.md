@@ -173,6 +173,7 @@
 | **Arize-Phoenix** | Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models. | [[Github]](https://github.com/Arize-ai/phoenix) |
 | **Better Prompt** | Test suite for LLM prompts before pushing them to PROD | [[Github]](https://github.com/krrishdholakia/betterprompt) |
 | **Opik** | Evaluate, test, and ship LLM applications across your dev and production lifecycles. | [[Github]](https://github.com/comet-ml/opik) |
+| **promptfoo** | Test and evaluate LLM prompts, agents, and RAG pipelines. Compare models, detect regressions, and catch prompt injection vulnerabilities before production. | [[Github]](https://github.com/promptfoo/promptfoo) |
 | **Embedchain** | Framework to create ChatGPT like bots over your dataset | [[Github]](https://github.com/embedchain/embedchain) |
 | **Interactive Composition Explorerx** | ICE is a Python library and trace visualizer for language model programs. | [[Github]](https://github.com/oughtinc/ice) |
 | **Haystack** | Open source NLP framework to interact with your data using LLMs and Transformers. | [[Github]](https://github.com/deepset-ai/haystack) |
