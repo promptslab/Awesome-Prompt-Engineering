@@ -190,6 +190,7 @@
 | **LastMile AI** | Notebook-like playground for interacting with LLMs across different modalities (text, speech, audio, image) | [[Tool]](https://lastmileai.dev/) |
 | **XpulsAI** | Effortlessly build scalable AI Apps. AutoOps platform for AI & ML | [[Tool]](https://xpuls.ai/) |
 | **Agenta** | Agenta is an open-source LLM developer platform with the tools for prompt management, evaluation, human feedback, and deployment all in one place.  | [[Github]](https://github.com/agenta-ai/agenta) |
+| **promptfoo** | Test and evaluate LLM applications. Compare prompts and models, red team with adversarial attacks, and integrate into CI/CD. | [[Github]](https://github.com/promptfoo/promptfoo) |
 | **Promptotype** | Develop, test, and monitor your LLM { structured } tasks | [[Tool]](https://www.promptotype.io) |
 | **AI Agent System Prompts Library** | A curated collection of system prompts and tool definitions from production AI coding agents (Claude Code, Gemini CLI, Cline, Aider, Roo Code, Zed, Codex CLI) | [[Github]](https://github.com/tallesborges/agentic-system-prompts) |
 
