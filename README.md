@@ -178,6 +178,7 @@
 | **Haystack** | Open source NLP framework to interact with your data using LLMs and Transformers. | [[Github]](https://github.com/deepset-ai/haystack) |
 | **LangChainx** | Building applications with LLMs through composability | [[Github]](https://github.com/hwchase17/langchain) |
 | **Neurolink** | Multi-provider AI agent framework unifying 12+ providers with workflow orchestration and edge-first deployment. Production-ready with streaming, tool calling, Redis caching, and enterprise features. | [[Github]](https://github.com/juspay/neurolink) |
+| **PraisonAI** | Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows, and built-in memory. Features self-reflection and fastest agent instantiation. | [[Github]](https://github.com/MervinPraison/PraisonAI) |
 | **OpenPrompt** | An Open-Source Framework for Prompt-learning | [[Github]](https://github.com/thunlp/OpenPrompt) |
 | **Prompt Engine** | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs). | [[Github]](https://github.com/microsoft/prompt-engine) |
 | **PromptInject** | PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. | [[Github]](https://github.com/agencyenterprise/PromptInject) |
