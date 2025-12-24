@@ -1,0 +1,44 @@
+name: Update Website
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  trigger-website-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Awesome-Prompt-Engineering
+        uses: actions/checkout@v4
+        with:
+          repository: promptslab/Awesome-Prompt-Engineering
+          
+      - name: Trigger GitHub Pages Rebuild
+        run: |
+          echo "✅ README.md updated! Website will automatically fetch latest content."
+          echo "The promptslab.github.io website fetches content directly from this repo."
+          echo "Users will see updates within 30 minutes (cache duration) or immediately on hard refresh."
+          
+      - name: Repository Dispatch to Website Repo (Optional)
+        if: github.event_name == 'push'
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.WEBSITE_UPDATE_TOKEN }}" \
+            https://api.github.com/repos/promptslab/promptslab.github.io/dispatches \
+            -d '{"event_type":"content-update"}'
+        continue-on-error: true
+
+      - name: Summary
+        run: |
+          echo "## 🎉 Website Update Triggered" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "The website at https://promptslab.github.io will automatically display the latest content." >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ README.md changes detected" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ Content is fetched directly from GitHub" >> $GITHUB_STEP_SUMMARY
+          echo "- ⏰ Updates visible within 30 minutes or on hard refresh" >> $GITHUB_STEP_SUMMARY
