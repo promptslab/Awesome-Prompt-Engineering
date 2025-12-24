@@ -6,7 +6,7 @@
 
 <p align="center">
   <p align="center"> This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
-
+  https://promptslab.github.io/
 </p>
  <h4 align="center">
   
