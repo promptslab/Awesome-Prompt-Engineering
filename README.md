@@ -76,7 +76,7 @@ https://promptslab.github.io
   - [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/abs/2104.08786) [2021] (Arxiv) 
   - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) [2021] (Arxiv) 
   - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350) [2021] (Arxiv) 
-  - [Prefix-Tuning: Optimizing Continuous Prompts for generation](https://arxiv.org/abs/2101.00190) [2021] (Arxiv) 
+  - [Prefix-Tuning: Optimizing Continuous prompts for Generation](https://arxiv.org/abs/2101.00190) [2021] (Arxiv) 
   
   
  
