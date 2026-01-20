@@ -184,6 +184,7 @@ https://promptslab.github.io
 | **Neurolink** | Multi-provider AI agent framework unifying 12+ providers with workflow orchestration and edge-first deployment. Production-ready with streaming, tool calling, Redis caching, and enterprise features. | [[Github]](https://github.com/juspay/neurolink) |
 | **PraisonAI** | Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows, and built-in memory. Features self-reflection and fastest agent instantiation. | [[Github]](https://github.com/MervinPraison/PraisonAI) |
 | **OpenPrompt** | An Open-Source Framework for Prompt-learning | [[Github]](https://github.com/thunlp/OpenPrompt) |
+| **PAL** | Prompt Assembly Language - A framework for developing LLM prompts as versioned, composable software artifacts | [[Github]](https://github.com/cyqlelabs/pal) |
 | **Prompt Engine** | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs). | [[Github]](https://github.com/microsoft/prompt-engine) |
 | **PromptInject** | PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. | [[Github]](https://github.com/agencyenterprise/PromptInject) |
 | **Prompts AI** | Advanced playground for GPT-3 | [[Github]](https://github.com/sevazhidkov/prompts-ai) |
