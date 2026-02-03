@@ -346,3 +346,5 @@ Before contributing, please take a moment to review our [contribution guidelines
 <h6 align="center">
 <small><small>Image Source: docs.cohere.ai </small> </small>
 </h6>
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, real energy data (28M+ records), discovery API, LangChain/MCP integration.
