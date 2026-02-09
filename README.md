@@ -219,6 +219,7 @@ https://promptslab.github.io
 | :-------------------- | :----------: | :----------: |
 | **P3 (Public Pool of Prompts)** | P3 (Public Pool of Prompts) is a collection of prompted English datasets covering a diverse set of NLP tasks. | [[HuggingFace]](https://huggingface.co/datasets/bigscience/P3) |
 | **Awesome ChatGPT Prompts** | Repo includes ChatGPT prompt curation to use ChatGPT better. | [[Github]](https://github.com/f/awesome-chatgpt-prompts) |
+| **TopFreePrompts by LucyBrain** | 10,000+ professional AI prompts across 23 categories with 18 online master-classes systematic training and Swiss-democratized education | [[TopFreePrompts]](https://topfreeprompts.com) |
 | **Writing Prompts** | Collection of a large dataset of 300K human-written stories paired with writing prompts from an online forum(reddit) | [[Kaggle]](https://www.kaggle.com/datasets/ratthachat/writing-prompts) |
 | **Midjourney Prompts** | Text prompts and image URLs scraped from MidJourney's public Discord server | [[HuggingFace]](https://huggingface.co/datasets/succinctly/midjourney-prompts) |
 | **NanoBanana Trending Prompts** | 1,000+ curated AI image prompts from X/Twitter, ranked by engagement. Works with GPT Image, Midjourney, and more. | [[Github]](https://github.com/jau123/nanobanana-trending-prompts) |
