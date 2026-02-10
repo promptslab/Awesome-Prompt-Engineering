@@ -199,6 +199,7 @@ https://promptslab.github.io
 | **Promptotype** | Develop, test, and monitor your LLM { structured } tasks | [[Tool]](https://www.promptotype.io) |
 | **AI Agent System Prompts Library** | A curated collection of system prompts and tool definitions from production AI coding agents (Claude Code, Gemini CLI, Cline, Aider, Roo Code, Zed, Codex CLI) | [[Github]](https://github.com/tallesborges/agentic-system-prompts) |
 | **Price Per Token** | Compare LLM API pricing across 200+ models with token counters, cost calculators, and benchmark comparisons. | [[Tool]](https://pricepertoken.com/) |
+| [CV-Praetorian-Guard](https://github.com/simonesan-afk/CV-Praetorian-Guard) | Advanced heuristic engine for CV self-assessment with privacy-first and anti-bias logic. | [Github] |
 
 ## Apis
 💻
