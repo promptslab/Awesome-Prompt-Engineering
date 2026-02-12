@@ -189,6 +189,7 @@ https://promptslab.github.io
 | **Prompts AI** | Advanced playground for GPT-3 | [[Github]](https://github.com/sevazhidkov/prompts-ai) |
 | **Prompt Source** | PromptSource is a toolkit for creating, sharing and using natural language prompts. | [[Github]](https://github.com/bigscience-workshop/promptsource) |
 | **Promptext** | "Extracts and formats code context for AI prompts with token counting" | [[GitHub]](https://github.com/1broseidon/promptext) |
+| **Awesome Vibe Coding** | A curated list of 245+ tools, platforms, and resources for vibe coding — building software through natural language prompts. | [[GitHub]](https://github.com/taskade/awesome-vibe-coding) |
 | **ThoughtSource** | A framework for the science of machine thinking | [[Github]](https://github.com/OpenBioLink/ThoughtSource) |
 | **PROMPTMETHEUS** | One-shot Prompt Engineering Toolkit | [[Tool]](https://promptmetheus.com) |
 | **AI Config** | An Open-Source configuration based framework for building applications with LLMs | [[Github]](https://github.com/lastmile-ai/aiconfig) | 
