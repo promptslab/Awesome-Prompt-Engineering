@@ -200,6 +200,8 @@ https://promptslab.github.io
 | **AI Agent System Prompts Library** | A curated collection of system prompts and tool definitions from production AI coding agents (Claude Code, Gemini CLI, Cline, Aider, Roo Code, Zed, Codex CLI) | [[Github]](https://github.com/tallesborges/agentic-system-prompts) |
 | **Price Per Token** | Compare LLM API pricing across 200+ models with token counters, cost calculators, and benchmark comparisons. | [[Tool]](https://pricepertoken.com/) |
 
+| **TubePrompter** | Free tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora, Midjourney, and Runway using computer vision frame analysis. | [[Tool]](https://tubeprompter.com) |
+
 ## Apis
 💻
 
