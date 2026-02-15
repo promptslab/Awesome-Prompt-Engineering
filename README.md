@@ -189,6 +189,7 @@ https://promptslab.github.io
 | **Prompts AI** | Advanced playground for GPT-3 | [[Github]](https://github.com/sevazhidkov/prompts-ai) |
 | **Prompt Source** | PromptSource is a toolkit for creating, sharing and using natural language prompts. | [[Github]](https://github.com/bigscience-workshop/promptsource) |
 | **Promptext** | "Extracts and formats code context for AI prompts with token counting" | [[GitHub]](https://github.com/1broseidon/promptext) |
+| **PromptVault** | 64 production-ready AI prompts across 7 categories: code review, debugging, testing, documentation, DevOps, database, and security. Actively maintained. | [[Github]](https://github.com/Wittlesus/prompt-vault) |
 | **ThoughtSource** | A framework for the science of machine thinking | [[Github]](https://github.com/OpenBioLink/ThoughtSource) |
 | **PROMPTMETHEUS** | One-shot Prompt Engineering Toolkit | [[Tool]](https://promptmetheus.com) |
 | **AI Config** | An Open-Source configuration based framework for building applications with LLMs | [[Github]](https://github.com/lastmile-ai/aiconfig) | 
