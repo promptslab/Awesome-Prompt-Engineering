@@ -14,7 +14,7 @@ https://promptslab.github.io
  <h4 align="center">
   
   ```
-     Prompt Engineering Course is coming soon..
+     Master Prompt Engineering. Join the Course at https://promptslab.github.io
   ```
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   <a href="https://github.com/promptslab/Awesome-Prompt-Engineering/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License" /></a>
