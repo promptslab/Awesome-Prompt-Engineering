@@ -454,6 +454,7 @@ Available on 25+ cloud partners, Hugging Face, and inference APIs. [Llama](https
 | **Hugging Face Open LLM Leaderboard v2** | Evaluates open models on MMLU-Pro, GPQA, IFEval, MATH. | [Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) |
 | **Artificial Analysis Intelligence Index v3** | Aggregates 10 evaluations. | [Website](https://artificialanalysis.ai/) |
 | **SEAL by Scale AI** | Hosts SWE-bench Pro and agentic evaluations. | [Leaderboard](https://scale.com/leaderboard) |
+| **Rival** | Community-driven AI model comparison with blind preference voting across 200+ models and open preference datasets. | [Website](https://rival.tips) |
 
 ### Prompt and Instruction Datasets
 
