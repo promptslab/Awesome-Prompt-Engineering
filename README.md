@@ -352,6 +352,7 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 | **NirDiamant/Prompt_Engineering** | 22 hands-on Jupyter Notebook tutorials. ~3K+ ⭐ | [GitHub](https://github.com/NirDiamant/Prompt_Engineering) |
 | **Context Engineering Repository** | First-principles handbook for moving beyond prompt engineering to context design. | [GitHub](https://github.com/davidkimai/Context-Engineering) |
 | **AI Agent System Prompts Library** | Collection of system prompts from production AI coding agents (Claude Code, Gemini CLI, Cline, Aider, Roo Code). | [GitHub](https://github.com/tallesborges/agentic-system-prompts) |
+| **Cursor Rules Collection** | 35+ framework-specific `.cursorrules` configuration files for Cursor IDE, covering React, Next.js, Python, FastAPI, Go, Rust, Vue, Angular, and more. | [GitHub](https://github.com/survivorforge/cursor-rules) |
 | **Awesome Vibe Coding** | Curated list of 245+ tools and resources for building software through natural language prompts. | [GitHub](https://github.com/taskade/awesome-vibe-coding) |
 | **OpenAI Cookbook** | Official recipes for prompts, tools, RAG, and evaluations. | [GitHub](https://github.com/openai/openai-cookbook) |
 | **Embedchain** | Framework to create ChatGPT-like bots over your dataset. | [GitHub](https://github.com/embedchain/embedchain) |
