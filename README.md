@@ -245,6 +245,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **Prompt Source** | Toolkit for creating, sharing, and using natural language prompts. | [GitHub](https://github.com/bigscience-workshop/promptsource) |
 | **Prompt Engine** | NPM utility library for creating and maintaining prompts for LLMs (Microsoft). | [GitHub](https://github.com/microsoft/prompt-engine) |
 | **PromptInject** | Framework for quantitative analysis of LLM robustness to adversarial prompt attacks. | [GitHub](https://github.com/agencyenterprise/PromptInject) |
+| **LynxPrompt** | Self-hostable platform for managing AI IDE config files (.cursorrules, CLAUDE.md, copilot-instructions.md). Web UI, REST API, CLI, and federated blueprint marketplace for 30+ AI coding assistants. | [GitHub](https://github.com/GeiserX/LynxPrompt) |
 
 ### LLM Evaluation Tools
 
