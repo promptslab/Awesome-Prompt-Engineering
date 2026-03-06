@@ -693,6 +693,7 @@ These models established key concepts but are largely superseded for practical u
 - [DALLE Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book) — Visual guide for text-to-image prompting.
 - [Best 100+ Stable Diffusion Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts) — Community-curated image generation prompts.
 - [Vibe Engineering (Manning)](https://www.manning.com/books/vibe-engineering) — Book by Tomasz Lelek & Artur Skowronski on building software through natural language prompts.
+- [Learn Agentic Patterns](https://learnagenticpatterns.com) — Free interactive curriculum covering 21 agentic AI design patterns (prompt chaining, reflection, tool use, routing, parallelization, planning, multi-agent) with code examples, architecture diagrams, and decision-making games.
 
 ---
 
