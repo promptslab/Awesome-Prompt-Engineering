@@ -338,6 +338,7 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 | **Continue** | Open-source IDE extensions for custom AI code assistants. ~22K+ ⭐ | [GitHub](https://github.com/continuedev/continue) |
 | **OpenAI Codex CLI** | Lightweight terminal coding agent. | [GitHub](https://github.com/openai/codex) |
 | **Gemini CLI** | Google's open-source terminal AI agent. | [GitHub](https://github.com/google-gemini/gemini-cli) |
+| **Autohand Code CLI** | Self-evolving autonomous terminal coding agent with multi-provider LLM support (OpenRouter, Anthropic, OpenAI, Ollama), 40+ tools, and modular skills system. | [GitHub](https://github.com/autohandai/code-cli) |
 | **Bolt.new** | Browser-based prompt-to-app generation with one-click deployment. | [Website](https://bolt.new/) |
 | **Lovable** | Full-stack apps from natural language descriptions. | [Website](https://lovable.dev/) |
 | **v0 (Vercel)** | AI assistant for building Next.js frontend components from text. | [Website](https://v0.dev/) |
