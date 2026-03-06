@@ -246,6 +246,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **Prompt Engine** | NPM utility library for creating and maintaining prompts for LLMs (Microsoft). | [GitHub](https://github.com/microsoft/prompt-engine) |
 | **PromptInject** | Framework for quantitative analysis of LLM robustness to adversarial prompt attacks. | [GitHub](https://github.com/agencyenterprise/PromptInject) |
 | **LynxPrompt** | Self-hostable platform for managing AI IDE config files (.cursorrules, CLAUDE.md, copilot-instructions.md). Web UI, REST API, CLI, and federated blueprint marketplace for 30+ AI coding assistants. | [GitHub](https://github.com/GeiserX/LynxPrompt) |
+| **flompt** | Visual AI prompt builder that decomposes prompts into 12 semantic blocks and recompiles them into Claude-optimized XML. Web app, browser extension (Chrome + Firefox), and MCP server. | [GitHub](https://github.com/Nyrok/flompt) |
 
 ### LLM Evaluation Tools
 
