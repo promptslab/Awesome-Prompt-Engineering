@@ -229,7 +229,7 @@ These papers established the core concepts that modern prompt engineering builds
 | Name | Description | Link |
 |:-----|:-----------|:----:|
 | **Promptfoo** | Open-source CLI for testing, evaluating, and red-teaming LLM prompts. YAML configs, CI/CD integration, adversarial testing. ~9K+ ⭐ | [GitHub](https://github.com/promptfoo/promptfoo) |
-| **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[Github]](https://github.com/promptslab/Promptify) |
+| **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [GitHub](https://github.com/promptslab/Promptify) |
 | **Agenta** | Open-source LLM developer platform for prompt management, evaluation, human feedback, and deployment. | [GitHub](https://github.com/Agenta-AI/agenta) |
 | **PromptLayer** | Version, test, and monitor every prompt and agent with robust evals, tracing, and regression sets. | [Website](https://promptlayer.com/) |
 | **Helicone** | Production prompt monitoring and optimization platform. | [Website](https://helicone.ai/) |
@@ -571,7 +571,7 @@ These models established key concepts but are largely superseded for practical u
 |:-----|:-----------|:----:|
 | **Binoculars** | Open-source research detector using cross-perplexity between two LLMs. | [arXiv](https://arxiv.org/abs/2401.12070) |
 | **DetectGPT / Fast-DetectGPT** | Statistical method comparing log-probabilities of original text vs. perturbations. | [arXiv](https://arxiv.org/abs/2301.11305) |
-| **Openai Detector** | AI classifier for indicating AI-written text (OpenAI Detector Python wrapper)  | [[GitHub]](https://github.com/promptslab/openai-detector) |
+| **OpenAI Detector** | AI classifier for indicating AI-written text (OpenAI Detector Python wrapper) | [GitHub](https://github.com/promptslab/openai-detector) |
 | **Sapling AI Detector** | Free browser-based detector (up to 2,000 chars). 97% accuracy in some studies. | [Website](https://sapling.ai/) |
 | **QuillBot AI Detector** | Free, no sign-up required. | [Website](https://quillbot.com/ai-content-detector) |
 | **Writer AI Content Detector** | Free tool with color-coded results. | [Website](https://writer.com/ai-content-detector/) |
