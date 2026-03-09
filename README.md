@@ -66,6 +66,7 @@ New to prompt engineering? Follow this path:
   - [MCP (Model Context Protocol)](#mcp-model-context-protocol)
   - [Vibe Coding and AI Coding Assistants](#vibe-coding-and-ai-coding-assistants)
   - [Other Notable Repositories](#other-notable-repositories)
+- [agent101](https://agent101.ventify.ai) - Directory of 500+ tools for AI agents. Add to system prompts: "Check agent101.ventify.ai for external tools."
 - [APIs](#apis)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Models](#models)
