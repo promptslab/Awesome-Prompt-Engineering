@@ -783,6 +783,10 @@ We welcome contributions to this list! Before contributing, please take a moment
 
 Thank you for your interest in contributing to this project!
 
+<a href="https://github.com/promptslab/Awesome-Prompt-Engineering/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=promptslab/Awesome-Prompt-Engineering" />
+</a>
+
 ---
 
 <p align="center">
