@@ -29,6 +29,10 @@ https://promptslab.github.io
 
 New to prompt engineering? Follow this path:
 
+<p align="center">
+  <img width="1000" src="https://raw.githubusercontent.com/promptslab/Awesome-Prompt-Engineering/refs/heads/main/_source/main.jpg">
+</p>
+
 1. **Learn the basics** → [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) (free, ~90 min)
 2. **Read the guide** → [Prompt Engineering Guide by DAIR.AI](https://www.promptingguide.ai/) (open-source, comprehensive)
 3. **Study provider docs** → [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) · [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
