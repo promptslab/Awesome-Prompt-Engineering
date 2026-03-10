@@ -49,7 +49,7 @@ New to prompt engineering? Follow this path:
   - [Prompt Compression](#prompt-compression)
   - [Reasoning Advances](#reasoning-advances)
   - [In-Context Learning](#in-context-learning)
-  - [Agentic Prompting and Multi-Agent Systems](#agentic-prompting-and-multi-agent-systems)
+  - [Agen estic Prompting and Multi-Agent Systems](#agentic-prompting-and-multi-agent-systems)
   - [Multimodal Prompting](#multimodal-prompting)
   - [Structured Output and Format Control](#structured-output-and-format-control)
   - [Prompt Injection and Security](#prompt-injection-and-security)
@@ -394,7 +394,40 @@ Key features: Responses API, Agents SDK, Structured Outputs, function calling, p
 | Claude Haiku 4.5 | 200K | Fast tier | Near-frontier, fastest model class |
 | Claude Opus 4 / Sonnet 4 | 200K | $15/$75 (Opus) | Opus: 72.5% SWE-bench, Sonnet 4 powers GitHub Copilot |
 
-Key features: Extended Thinking with tool use, Computer Use, MCP (originated here), prompt caching, Claude Code CLI, available on AWS Bedrock and Google Vertex AI. [API Docs](https://docs.anthropic.com/)
+|      Name                | Description  | Url |
+| :-------------------- | :----------: | :----------: |
+| **LlamaIndex** | LlamaIndex is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. | [[Github]](https://github.com/jerryjliu/gpt_index) |
+| **PromptDX** | A declarative, extensible, and composable approach for developing LLM prompts using Markdown and JSX. | [[Github]](https://github.com/puzzlet-ai/promptdx) |
+| **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[Github]](https://github.com/promptslab/Promptify) |
+| **Arize-Phoenix** | Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models. | [[Github]](https://github.com/Arize-ai/phoenix) |
+| **Better Prompt** | Test suite for LLM prompts before pushing them to PROD | [[Github]](https://github.com/krrishdholakia/betterprompt) |
+| **Opik** | Evaluate, test, and ship LLM applications across your dev and production lifecycles. | [[Github]](https://github.com/comet-ml/opik) |
+| **Embedchain** | Framework to create ChatGPT like bots over your dataset | [[Github]](https://github.com/embedchain/embedchain) |
+| **Interactive Composition Explorerx** | ICE is a Python library and trace visualizer for language model programs. | [[Github]](https://github.com/oughtinc/ice) |
+| **Haystack** | Open source NLP framework to interact with your data using LLMs and Transformers. | [[Github]](https://github.com/deepset-ai/haystack) |
+| **LangChainx** | Building applications with LLMs through composability | [[Github]](https://github.com/hwchase17/langchain) |
+| **Neurolink** | Multi-provider AI agent framework unifying 12+ providers with workflow orchestration and edge-first deployment. Production-ready with streaming, tool calling, Redis caching, and enterprise features. | [[Github]](https://github.com/juspay/neurolink) |
+| **PraisonAI** | Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows, and built-in memory. Features self-reflection and fastest agent instantiation. | [[Github]](https://github.com/MervinPraison/PraisonAI) |
+| **OpenPrompt** | An Open-Source Framework for Prompt-learning | [[Github]](https://github.com/thunlp/OpenPrompt) |
+| **Prompt Engine** | This repo contains an NPM utility library for creating and maintaining prompts for Large Language Models (LLMs). | [[Github]](https://github.com/microsoft/prompt-engine) |
+| **PromptInject** | PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. | [[Github]](https://github.com/agencyenterprise/PromptInject) |
+| **Prompts AI** | Advanced playground for GPT-3 | [[Github]](https://github.com/sevazhidkov/prompts-ai) |
+| **Prompt Source** | PromptSource is a toolkit for creating, sharing and using natural language prompts. | [[Github]](https://github.com/bigscience-workshop/promptsource) |
+| **Promptext** | "Extracts and formats code context for AI prompts with token counting" | [[GitHub]](https://github.com/1broseidon/promptext) |
+| **ThoughtSource** | A framework for the science of machine thinking | [[Github]](https://github.com/OpenBioLink/ThoughtSource) |
+| **PROMPTMETHEUS** | One-shot Prompt Engineering Toolkit | [[Tool]](https://promptmetheus.com) |
+| **AI Config** | An Open-Source configuration based framework for building applications with LLMs | [[Github]](https://github.com/lastmile-ai/aiconfig) | 
+| **LastMile AI** | Notebook-like playground for interacting with LLMs across different modalities (text, speech, audio, image) | [[Tool]](https://lastmileai.dev/) |
+| **XpulsAI** | Effortlessly build scalable AI Apps. AutoOps platform for AI & ML | [[Tool]](https://xpuls.ai/) |
+| **Agenta** | Agenta is an open-source LLM developer platform with the tools for prompt management, evaluation, human feedback, and deployment all in one place.  | [[Github]](https://github.com/agenta-ai/agenta) |
+| **promptfoo** | Test and evaluate LLM applications. Compare prompts and models, red team with adversarial attacks, and integrate into CI/CD. | [[Github]](https://github.com/promptfoo/promptfoo) |
+| **Promptotype** | Develop, test, and monitor your LLM { structured } tasks | [[Tool]](https://www.promptotype.io) |
+| **AI Agent System Prompts Library** | A curated collection of system prompts and tool definitions from production AI coding agents (Claude Code, Gemini CLI, Cline, Aider, Roo Code, Zed, Codex CLI) | [[Github]](https://github.com/tallesborges/agentic-system-prompts) |
+| **Price Per Token** | Compare LLM API pricing across 200+ models with token counters, cost calculators, and benchmark comparisons. | [[Tool]](https://pricepertoken.com/) |
+| [CV-Praetorian-Guard](https://github.com/simonesan-afk/CV-Praetorian-Guard) | Advanced heuristic engine for CV self-assessment with privacy-first and anti-bias logic. | [Github] |
+
+## Apis
+💻
 
 ### Google (Gemini)
 
