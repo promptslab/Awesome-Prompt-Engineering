@@ -366,6 +366,8 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 | **Promptext** | Extracts and formats code context for AI prompts with token counting. | [GitHub](https://github.com/1broseidon/promptext) |
 | **Price Per Token** | Compare LLM API pricing across 200+ models. | [Website](https://pricepertoken.com/) |
 | **OpenPaw** | CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant by generating system prompts (CLAUDE.md + SOUL.md) with personality, memory, and 38 skill routers. | [GitHub](https://github.com/daxaur/openpaw) |
+| **PM Prompts** | Practical prompt library for PMs building AI products — 53 prompts across discovery, strategy, execution, AI specs, metrics, and communication. | [GitHub](https://github.com/isumitsoni/pm-prompts) |
+| **AI Feature Specs** | Production-ready AI feature spec templates for RAG, summarization, classification, recommendations, and conversational workflows. | [GitHub](https://github.com/isumitsoni/ai-feature-specs) |
 
 ---
 
