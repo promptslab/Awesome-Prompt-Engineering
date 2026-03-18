@@ -292,6 +292,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **Neurolink** | Multi-provider AI agent framework unifying 12+ providers with workflow orchestration. | [GitHub](https://github.com/juspay/neurolink) |
 | **Composio** | Connect 100+ tools to AI agents with zero setup. | [GitHub](https://github.com/composiohq/composio) |
 
+
 ### Prompt Optimization Tools
 
 | Name | Description | Link |
@@ -368,6 +369,8 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 | **Price Per Token** | Compare LLM API pricing across 200+ models. | [Website](https://pricepertoken.com/) |
 | **OpenPaw** | CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant by generating system prompts (CLAUDE.md + SOUL.md) with personality, memory, and 38 skill routers. | [GitHub](https://github.com/daxaur/openpaw) |
 | **Think Better** | Open-source CLI that permanently injects 10 structured decision frameworks (MECE, Issue Trees, Pre-Mortems) and 12 cognitive bias detectors into AI assistant prompts. Go, MIT. | [GitHub](https://github.com/HoangTheQuyen/think-better) |
+
+| **OpenSymbolicAI** | Framework for building cost effective and deterministic agents. | [GitHub](https://github.com/OpenSymbolicAI) |
 
 ---
 
