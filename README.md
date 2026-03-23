@@ -300,6 +300,8 @@ These papers established the core concepts that modern prompt engineering builds
 | **TextGrad** | Automatic differentiation via text (Stanford). ~2K+ ⭐ | [GitHub](https://github.com/zou-group/textgrad) |
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
 
+| **sinc-LLM** | Signal-theoretic prompt decomposition into 6 Nyquist bands (PERSONA, CONTEXT, DATA, CONSTRAINTS, FORMAT, TASK). Formal JSON Schema, published research (275 observations, 97% cost reduction). Available on [npm](https://www.npmjs.com/package/sinc-prompt) and [PyPI](https://pypi.org/project/sinc-prompt/). | [Spec](https://tokencalc.pro/spec) | [GitHub](https://github.com/mdalexandre/sinc-llm) | [Paper](https://doi.org/10.5281/zenodo.19152668) |
+
 ### Red Teaming and Prompt Security
 
 | Name | Description | Link |
