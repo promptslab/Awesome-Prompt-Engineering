@@ -29,6 +29,10 @@ https://promptslab.github.io
 
 New to prompt engineering? Follow this path:
 
+<p align="center">
+  <img width="1000" src="https://raw.githubusercontent.com/promptslab/Awesome-Prompt-Engineering/refs/heads/main/_source/main.jpg">
+</p>
+
 1. **Learn the basics** → [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) (free, ~90 min)
 2. **Read the guide** → [Prompt Engineering Guide by DAIR.AI](https://www.promptingguide.ai/) (open-source, comprehensive)
 3. **Study provider docs** → [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) · [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
@@ -245,6 +249,8 @@ These papers established the core concepts that modern prompt engineering builds
 | **Prompt Source** | Toolkit for creating, sharing, and using natural language prompts. | [GitHub](https://github.com/bigscience-workshop/promptsource) |
 | **Prompt Engine** | NPM utility library for creating and maintaining prompts for LLMs (Microsoft). | [GitHub](https://github.com/microsoft/prompt-engine) |
 | **PromptInject** | Framework for quantitative analysis of LLM robustness to adversarial prompt attacks. | [GitHub](https://github.com/agencyenterprise/PromptInject) |
+| **LynxPrompt** | Self-hostable platform for managing AI IDE config files (.cursorrules, CLAUDE.md, copilot-instructions.md). Web UI, REST API, CLI, and federated blueprint marketplace for 30+ AI coding assistants. | [GitHub](https://github.com/GeiserX/LynxPrompt) |
+| **flompt** | Visual AI prompt builder that decomposes prompts into 12 semantic blocks (role, context, constraints, examples, etc.) and compiles them into optimized XML. Browser extension for ChatGPT/Claude/Gemini, and MCP server for Claude Code agents. Free, open-source. | [Website](https://flompt.dev) |
 
 ### LLM Evaluation Tools
 
@@ -259,6 +265,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **TruLens** | Evaluating and explaining LLM apps; tracks hallucinations, relevance, groundedness. | [GitHub](https://github.com/truera/trulens) |
 | **InspectAI** | Purpose-built for evaluating agents against benchmarks (UK AISI). | [GitHub](https://github.com/UKGovernmentBEIS/inspect_ai) |
 | **Opik** | Evaluate, test, and ship LLM applications across dev and production lifecycles. | [GitHub](https://github.com/comet-ml/opik) |
+| **EvalView** | CLI tool for testing multi-step AI agents with YAML test cases, regression detection, and production monitoring. |[GitHub](https://github.com/hidai25/eval-view) |
 
 ### Agent Frameworks
 
@@ -307,6 +314,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **Purple Llama (Meta)** | Open-source LLM safety evaluation including CyberSecEval. | [GitHub](https://github.com/meta-llama/PurpleLlama) |
 | **GPTFuzz** | Automated jailbreak template generation achieving >90% success rates. | [GitHub](https://github.com/sherdencooper/GPTFuzz) |
 | **Rebuff** | Open-source tool for detection and prevention of prompt injection. | [GitHub](https://github.com/protectai/rebuff) |
+| **AgentSeal** | "Open-source scanner that runs 150 attack probes to test AI agents for prompt injection and extraction vulnerabilities." | [GitHub](https://github.com/agentseal/agentseal) |
 
 ### MCP (Model Context Protocol)
 
@@ -336,6 +344,7 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 | **Continue** | Open-source IDE extensions for custom AI code assistants. ~22K+ ⭐ | [GitHub](https://github.com/continuedev/continue) |
 | **OpenAI Codex CLI** | Lightweight terminal coding agent. | [GitHub](https://github.com/openai/codex) |
 | **Gemini CLI** | Google's open-source terminal AI agent. | [GitHub](https://github.com/google-gemini/gemini-cli) |
+| **Autohand Code CLI** | Self-evolving autonomous terminal coding agent with multi-provider LLM support (OpenRouter, Anthropic, OpenAI, Ollama), 40+ tools, and modular skills system. | [GitHub](https://github.com/autohandai/code-cli) |
 | **Bolt.new** | Browser-based prompt-to-app generation with one-click deployment. | [Website](https://bolt.new/) |
 | **Lovable** | Full-stack apps from natural language descriptions. | [Website](https://lovable.dev/) |
 | **v0 (Vercel)** | AI assistant for building Next.js frontend components from text. | [Website](https://v0.dev/) |
@@ -358,6 +367,7 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 | **Promptext** | Extracts and formats code context for AI prompts with token counting. | [GitHub](https://github.com/1broseidon/promptext) |
 | **Price Per Token** | Compare LLM API pricing across 200+ models. | [Website](https://pricepertoken.com/) |
 | **OpenPaw** | CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant by generating system prompts (CLAUDE.md + SOUL.md) with personality, memory, and 38 skill routers. | [GitHub](https://github.com/daxaur/openpaw) |
+| **Think Better** | Open-source CLI that permanently injects 10 structured decision frameworks (MECE, Issue Trees, Pre-Mortems) and 12 cognitive bias detectors into AI assistant prompts. Go, MIT. | [GitHub](https://github.com/HoangTheQuyen/think-better) |
 
 ---
 
@@ -774,6 +784,10 @@ We welcome contributions to this list! Before contributing, please take a moment
 - Please include a one-line description explaining why the resource is valuable
 
 Thank you for your interest in contributing to this project!
+
+<a href="https://github.com/promptslab/Awesome-Prompt-Engineering/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=promptslab/Awesome-Prompt-Engineering" />
+</a>
 
 ---
 
