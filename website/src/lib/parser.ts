@@ -141,7 +141,7 @@ function parseToolsTable(
     .map((row) => {
       const nameCell = row.cells[0];
       const descCell = row.cells[1];
-      const linkCell = row.cells[2];
+      const linkCell = row.cells[row.cells.length - 1];
 
       const boldMatch = nameCell.match(/\*\*([^*]+)\*\*/);
       const name = boldMatch ? boldMatch[1] : stripMarkdown(nameCell);
