@@ -65,6 +65,11 @@ New to prompt engineering? Follow this path:
   - [Red Teaming and Prompt Security](#red-teaming-and-prompt-security)
   - [MCP (Model Context Protocol)](#mcp-model-context-protocol)
   - [Vibe Coding and AI Coding Assistants](#vibe-coding-and-ai-coding-assistants)
+    - [CLI-Based Coding Agents](#cli-based-coding-agents)
+    - [AI Code Editors / IDEs](#ai-code-editors--ides)
+    - [IDE Extensions / Plugins](#ide-extensions--plugins)
+    - [AI Coding Platforms / Cloud Agents](#ai-coding-platforms--cloud-agents)
+    - [Open-Source Coding Agent Frameworks](#open-source-coding-agent-frameworks)
   - [Other Notable Repositories](#other-notable-repositories)
 - [APIs](#apis)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
@@ -75,6 +80,7 @@ New to prompt engineering? Follow this path:
 - [Tutorials and Guides](#tutorials-and-guides)
 - [Videos](#videos)
 - [Communities](#communities)
+- [Autonomous Research & Self-Improving Agents](#autonomous-research--self-improving-agents)
 - [How to Contribute](#how-to-contribute)
 
 ---
@@ -333,22 +339,91 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 
 ### Vibe Coding and AI Coding Assistants
 
-| Name | Description | Link |
-|:-----|:-----------|:----:|
-| **Claude Code** | Anthropic's command-line AI coding tool; widely considered one of the best AI coding assistants (2026). | [Docs](https://docs.anthropic.com/en/docs/claude-code) |
-| **Cursor** | AI-native code editor; Composer feature generates entire applications from natural language. | [Website](https://cursor.sh/) |
-| **Windsurf (Codeium)** | "First agentic IDE" with multi-file editing and project-wide context. | [Website](https://codeium.com/windsurf) |
-| **GitHub Copilot** | AI pair programmer; ~30% of new GitHub code comes from Copilot. | [Website](https://github.com/features/copilot) |
-| **Aider** | Open-source terminal AI pair programmer with Git integration. ~25K+ ⭐ | [GitHub](https://github.com/paul-gauthier/aider) |
-| **Cline** | Open-source VS Code AI assistant connecting editor and terminal through MCP. ~20K+ ⭐ | [GitHub](https://github.com/cline/cline) |
-| **Continue** | Open-source IDE extensions for custom AI code assistants. ~22K+ ⭐ | [GitHub](https://github.com/continuedev/continue) |
-| **OpenAI Codex CLI** | Lightweight terminal coding agent. | [GitHub](https://github.com/openai/codex) |
-| **Gemini CLI** | Google's open-source terminal AI agent. | [GitHub](https://github.com/google-gemini/gemini-cli) |
-| **Autohand Code CLI** | Self-evolving autonomous terminal coding agent with multi-provider LLM support (OpenRouter, Anthropic, OpenAI, Ollama), 40+ tools, and modular skills system. | [GitHub](https://github.com/autohandai/code-cli) |
-| **Bolt.new** | Browser-based prompt-to-app generation with one-click deployment. | [Website](https://bolt.new/) |
-| **Lovable** | Full-stack apps from natural language descriptions. | [Website](https://lovable.dev/) |
-| **v0 (Vercel)** | AI assistant for building Next.js frontend components from text. | [Website](https://v0.dev/) |
-| **Firebase Studio** | Google's agentic cloud-based development environment. | [Website](https://firebase.google.com/studio) |
+> 🟢 = Open Source · 🔵 = Commercial · 🟣 = Open Source + Commercial (open core with paid cloud/API)
+
+#### CLI-Based Coding Agents
+
+Terminal-native agentic tools that understand your codebase and execute multi-step tasks.
+
+| Name | Description | Type | Link |
+|:-----|:-----------|:----:|:----:|
+| **Claude Code** | Anthropic's agentic coding CLI; understands full codebases and executes complex multi-step tasks via natural language. | 🔵 | [Docs](https://docs.anthropic.com/en/docs/claude-code) |
+| **OpenAI Codex CLI** | Open-source terminal coding agent from OpenAI; lightweight, local-first, with sandboxed code execution. ~68K+ ⭐ | 🟣 | [GitHub](https://github.com/openai/codex) |
+| **Gemini CLI** | Google's open-source terminal AI agent with 1M-token context window and Google Search grounding. ~96K+ ⭐ | 🟣 | [GitHub](https://github.com/google-gemini/gemini-cli) |
+| **Qwen Code** | Open-source terminal AI agent optimized for Qwen3-Coder; multi-protocol support (OpenAI/Anthropic/Gemini APIs), 1,000 free requests/day. ~21K+ ⭐ | 🟢 | [GitHub](https://github.com/QwenLM/qwen-code) |
+| **Aider** | AI pair programming in terminal with deep Git integration; maps entire codebases and auto-commits changes. ~42K+ ⭐ | 🟢 | [GitHub](https://github.com/Aider-AI/aider) |
+| **OpenCode** | Powerful open-source AI coding agent with beautiful TUI; supports nearly all AI model providers. ~120K+ ⭐ | 🟢 | [GitHub](https://github.com/opencode-ai/opencode) |
+| **Goose** | Extensible open-source AI agent from Block (Square/Cash App); installs, executes, edits, and tests with any LLM. ~29K+ ⭐ | 🟢 | [GitHub](https://github.com/block/goose) |
+| **Crush** | Glamorous agentic coding agent from Charmbracelet with multi-model support, LSP integration, and beautiful terminal UI. ~9K+ ⭐ | 🟢 | [GitHub](https://github.com/charmbracelet/crush) |
+| **Amazon Q Developer CLI** | Agentic chat experience in terminal from AWS; transitioning to Kiro CLI. | 🟣 | [GitHub](https://github.com/aws/amazon-q-developer-cli) |
+| **Amp** | Sourcegraph's agentic coding tool (Cody successor); works across CLI and IDE. | 🔵 | [Website](https://ampcode.com) |
+| **Junie CLI** | JetBrains' LLM-agnostic coding agent CLI (beta 2026); supports all major model providers. | 🔵 | [Website](https://www.jetbrains.com/junie/) |
+| **Autohand Code CLI** | Self-evolving autonomous terminal coding agent with multi-provider LLM support, 40+ tools, and modular skills system. | 🟢 | [GitHub](https://github.com/autohandai/code-cli) |
+
+#### AI Code Editors / IDEs
+
+Standalone editors or IDE forks with deep AI integration.
+
+| Name | Description | Type | Link |
+|:-----|:-----------|:----:|:----:|
+| **Cursor** | Leading AI-native code editor (VS Code fork); Composer generates entire apps from natural language, agentic multi-file edits. | 🔵 | [Website](https://cursor.com) |
+| **Windsurf** | AI-powered IDE (VS Code fork) with proprietary Cascade agent and SWE-1.5 model; acquired by Cognition AI. | 🔵 | [Website](https://windsurf.com) |
+| **Zed** | High-performance editor in Rust with native AI features, Zeta edit prediction, and Agent Client Protocol support. ~77K+ ⭐ | 🟢 | [GitHub](https://github.com/zed-industries/zed) |
+| **Trae** | Free AI-powered IDE from ByteDance ("The Real AI Engineer") with Builder Mode; provides free access to Claude, GPT-4o, and DeepSeek. | 🔵 | [Website](https://www.trae.ai) |
+| **Google Antigravity** | Google's agent-first IDE (VS Code fork) with Manager view for orchestrating multiple agents in parallel; powered by Gemini. | 🔵 | [Website](https://antigravity.google) |
+| **Kiro** | AWS's spec-driven agentic AI IDE (VS Code fork); turns prompts into specs, then working code, docs, and tests. | 🔵 | [Website](https://kiro.dev) |
+| **PearAI** | Open-source AI code editor (VS Code fork) with Continue-based chat and completions. ~40K+ ⭐ | 🟢 | [GitHub](https://github.com/trypear/pearai-app) |
+| **Void** | Open-source Cursor alternative (VS Code fork); any model or local hosting with change visualization. ~28K+ ⭐ | 🟢 | [GitHub](https://github.com/voideditor/void) |
+| **Melty** | Open-source chat-first AI code editor with multi-file editing and deep Git integration. ~7K+ ⭐ | 🟢 | [GitHub](https://github.com/meltylabs/melty) |
+| **Emdash** | Open-source agentic dev environment (YC W26) for running multiple coding agents in parallel in isolated Git worktrees. | 🟢 | [GitHub](https://github.com/generalaction/emdash) |
+
+#### IDE Extensions / Plugins
+
+Plugins for VS Code, JetBrains, Neovim, and other editors.
+
+| Name | Description | Type | Link |
+|:-----|:-----------|:----:|:----:|
+| **GitHub Copilot** | Most widely adopted AI coding assistant; inline completions, chat, and agentic coding agent across VS Code, JetBrains, Neovim. | 🔵 | [Website](https://github.com/features/copilot) |
+| **Cline** | Autonomous coding agent in VS Code with human-in-the-loop approvals; file editing, terminal commands, and browser use. ~59K+ ⭐ | 🟢 | [GitHub](https://github.com/cline/cline) |
+| **Continue** | Open-source VS Code and JetBrains extension for creating custom, modular AI dev systems; any model. ~32K+ ⭐ | 🟢 | [GitHub](https://github.com/continuedev/continue) |
+| **Cody** | Sourcegraph-powered AI assistant that pulls context from local and remote codebases; VS Code, JetBrains, Visual Studio. | 🔵 | [Website](https://sourcegraph.com/cody) |
+| **Codeium** | Free AI coding extension for 40+ IDEs with completions, chat, and search across 70+ languages. | 🟣 | [Website](https://codeium.com) |
+| **Amazon Q Developer** | AWS's AI coding assistant with completions, inline chat, and agent mode; deep AWS integration. | 🟣 | [Website](https://aws.amazon.com/q/developer/) |
+| **Gemini Code Assist** | Google's IDE extension powered by Gemini with completions, Next Edit Predictions, and inline diffs; free for individuals. | 🟣 | [Website](https://codeassist.google) |
+| **Tabnine** | Privacy-focused AI assistant trained on permissive-licensed OSS; supports all major IDEs with on-premises deployment. | 🔵 | [Website](https://www.tabnine.com) |
+| **Augment Code** | Enterprise AI coding assistant with 200K-token Context Engine for deep codebase understanding. | 🔵 | [Website](https://www.augmentcode.com) |
+| **Qodo** | AI code review and quality platform with multi-agent architecture; test generation, code review, CI/CD enforcement. | 🟣 | [Website](https://www.qodo.ai) |
+| **CodeGeeX** | Open-source multilingual code generation model supporting 20+ languages with VS Code and JetBrains extensions. ~11K+ ⭐ | 🟢 | [GitHub](https://github.com/zai-org/CodeGeeX) |
+| **Tabby** | Self-hosted open-source AI coding assistant (Copilot alternative); runs entirely on your infrastructure. ~25K+ ⭐ | 🟢 | [GitHub](https://github.com/TabbyML/tabby) |
+
+#### AI Coding Platforms / Cloud Agents
+
+Browser-based or cloud-hosted agents that build, test, and deploy autonomously.
+
+| Name | Description | Type | Link |
+|:-----|:-----------|:----:|:----:|
+| **Devin** | First fully autonomous cloud-based AI software engineer; plans, codes, tests, and opens PRs independently. | 🔵 | [Website](https://devin.ai) |
+| **Replit Agent** | Cloud-native AI agent that autonomously builds, tests, and deploys full-stack apps in-browser; 50+ languages. | 🔵 | [Website](https://replit.com/products/agent) |
+| **bolt.new** | AI-powered web dev agent; prompt, run, edit, and deploy full-stack apps directly in the browser via WebContainers. ~15K+ ⭐ | 🟢 | [GitHub](https://github.com/stackblitz/bolt.new) |
+| **bolt.diy** | Community fork of bolt.new with extended features and broader LLM flexibility. ~12K+ ⭐ | 🟢 | [GitHub](https://github.com/stackblitz-labs/bolt.diy) |
+| **Lovable** | Full-stack apps from natural language with built-in Supabase, auth, and one-click deploy; fastest European startup to $20M ARR. | 🔵 | [Website](https://lovable.dev) |
+| **v0** | Vercel's AI platform for generating high-quality React/Next.js UI components from natural language. | 🔵 | [Website](https://v0.dev) |
+| **GitHub Copilot Workspace** | Cloud-based coding environment with plan, brainstorm, and repair agents; included with paid Copilot plans. | 🔵 | [Website](https://githubnext.com/projects/copilot-workspace) |
+| **Firebase Studio** | Google's agentic cloud-based development environment. | 🔵 | [Website](https://firebase.google.com/studio) |
+
+#### Open-Source Coding Agent Frameworks
+
+Frameworks and research projects for building autonomous coding agents.
+
+| Name | Description | Type | Link |
+|:-----|:-----------|:----:|:----:|
+| **OpenHands** | Leading open-source platform for cloud coding agents; consistently top on SWE-bench. Formerly OpenDevin. ~69K+ ⭐ | 🟢 | [GitHub](https://github.com/OpenHands/OpenHands) |
+| **SWE-agent** | Takes a GitHub issue and automatically fixes it using a custom agent-computer interface. [NeurIPS 2024] ~19K+ ⭐ | 🟢 | [GitHub](https://github.com/SWE-agent/SWE-agent) |
+| **Open SWE** | LangChain's async cloud-hosted coding agent framework built on LangGraph with Slack/Linear integration. ~8K+ ⭐ | 🟢 | [GitHub](https://github.com/langchain-ai/open-swe) |
+| **Devika** | Open-source agentic software engineer; breaks down instructions, researches, and writes code. Devin alternative. ~18K+ ⭐ | 🟢 | [GitHub](https://github.com/stitionai/devika) |
+| **AutoCodeRover** | Autonomous program improvement combining LLMs with fault localization for GitHub issue resolution. ~2.8K+ ⭐ | 🟢 | [GitHub](https://github.com/nus-apr/auto-code-rover) |
+| **Agentless** | Simple three-phase approach (localize → repair → validate) to solving software development problems. ~2K+ ⭐ | 🟢 | [GitHub](https://github.com/OpenAutoCoder/Agentless) |
+| **Devon** | Open-source pair programmer SWE agent with code writing, planning, and research; supports Claude, GPT-4, Llama, Ollama. ~3.5K+ ⭐ | 🟢 | [GitHub](https://github.com/entropy-research/Devon) |
 
 ### Other Notable Repositories
 
@@ -764,6 +839,96 @@ These models established key concepts but are largely superseded for practical u
 - [Hugging Face](https://github.com/huggingface) — Central hub: Transformers, Diffusers, Datasets, TRL.
 - [DSPy (Stanford NLP)](https://github.com/stanfordnlp/dspy) — Growing community for systematic prompt optimization.
 - [OpenAI](https://github.com/openai) — Open-source models, benchmarks, and tools.
+
+---
+
+<!-- AUTORESEARCH-START -->
+## 🔬 Autonomous Research & Self-Improving Agents
+> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-03-27
+
+### General-Purpose Descendants
+
+- [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) — Claude Code skill that generalizes autoresearch into a reusable loop for software, docs, security, shipping, debugging, and other measurable goals.
+- [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) — Codex-native autoresearch skill with resume support, lessons across runs, optional parallel experiments, and mode-specific workflows.
+- [supratikpm/gemini-autoresearch](https://github.com/supratikpm/gemini-autoresearch) — Gemini CLI skill that generalises autoresearch to any measurable goal. Gemini-native: uses Google Search grounding as a live verification source inside the loop, true headless overnight mode via --yolo --prompt, and 1M token context. Also works in Antigravity IDE via .agents/skills/.
+- [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) — `pi` extension plus dashboard for persistent experiment loops, live metrics, confidence tracking, and resumable autoresearch sessions.
+- [drivelineresearch/autoresearch-claude-code](https://github.com/drivelineresearch/autoresearch-claude-code) — Claude Code plugin/skill port of `pi-autoresearch`, with a clean experiment-loop workflow and a concrete biomechanics case study.
+- [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) — Closed-loop control plane for repeated agent improvement, with evaluation, persistent knowledge, staged validation, and optional distillation into cheaper local runtimes.
+- [jmilinovich/goal-md](https://github.com/jmilinovich/goal-md) — Generalizes autoresearch into a `GOAL.md` pattern for repos where the agent must first construct a measurable fitness function before it can optimize.
+- [mutable-state-inc/autoresearch-at-home](https://github.com/mutable-state-inc/autoresearch-at-home) — Collaborative fork of upstream autoresearch that adds experiment claiming, shared best-config syncing, hypothesis exchange, and swarm-style coordination across many single-GPU agents.
+- [zkarimi22/autoresearch-anything](https://github.com/zkarimi22/autoresearch-anything) — Generalizes autoresearch to **any measurable metric** — system prompts, API performance, landing pages, test suites, config tuning, SQL queries. "If you can measure it, you can optimize it."
+- [Entrpi/autoresearch-everywhere](https://github.com/Entrpi/autoresearch-everywhere) — Cross-platform expansion that auto-detects hardware config and starts the loop. The "glue and generalization" half of autoresearch.
+- [ShengranHu/ADAS](https://github.com/ShengranHu/ADAS) — **Automated Design of Agentic Systems** — ICLR 2025. Meta-agents that invent novel agent architectures by programming them in code.
+- [MaximeRobeyns/self_improving_coding_agent](https://github.com/MaximeRobeyns/self_improving_coding_agent) — **SICA**: Self-Improving Coding Agent that edits its own codebase. ICLR 2025 Workshop paper demonstrating scaffold-level self-improvement on coding benchmarks.
+- [peterskoett/self-improving-agent](https://github.com/peterskoett/self-improving-agent) — Alternative self-improving agent architecture with reflection and meta-learning cycles.
+- [metauto-ai/HGM](https://github.com/metauto-ai/HGM) — **Huxley-Gödel Machine** for coding agents — applies self-improvement to SWE-bench performance via meta-level optimization.
+- [gepa-ai/gepa](https://github.com/gepa-ai/gepa) — **GEPA (Genetic-Pareto)** — ICLR 2026 Oral. Reflective prompt evolution that outperforms RL (GRPO) on benchmarks. Optimizes any textual parameters against any metric using natural language reflection.
+- [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) — Agent swarm intelligence for autoresearch — spawns parallel GPU research directions, distributes work across agents, aggregates results.
+- [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) — Comprehensive skill library including autoresearch orchestration with two-loop architecture (inner optimization + outer synthesis).
+
+### Research-Agent Systems
+
+- [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) — End-to-end research pipeline that turns a topic into literature review, experiments, analysis, peer review, and paper drafts; broader than autoresearch, but clearly in the same lineage.
+- [OpenRaiser/NanoResearch](https://github.com/OpenRaiser/NanoResearch) — End-to-end autonomous research engine that plans experiments, generates code, runs jobs locally or on SLURM, analyzes real results, and writes papers grounded in those outputs.
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) — Markdown-first research workflows for Claude Code and other agents, centered on autonomous literature review, experiments, paper iteration, and cross-model critique.
+- [Sibyl-Research-Team/AutoResearch-SibylSystem](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) — Fully autonomous AI scientist built on Claude Code, with explicit AutoResearch lineage, multi-agent research iteration, GPU experiment execution, and a self-evolving outer loop.
+- [eimenhmdt/autoresearcher](https://github.com/eimenhmdt/autoresearcher) — Early open-source package for automating scientific workflows, currently centered on literature-review generation with an ambition toward broader autonomous research.
+- [hyperspaceai/agi](https://github.com/hyperspaceai/agi) — Distributed, peer-to-peer research network where autonomous agents run experiments, gossip findings, maintain CRDT leaderboards, and archive results to GitHub across multiple research domains.
+- [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) — **The AI Scientist**: First comprehensive system for fully automatic scientific discovery. From idea generation to paper writing with minimal human supervision.
+- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — Workshop-level automated scientific discovery via agentic tree search. Removes template dependency from v1, generalizes across research domains.
+- [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) — NeurIPS 2025 paper. Full end-to-end research automation: hypothesis → experiments → manuscript → peer review. Production version at [novix.science](https://novix.science/chat).
+- [openags/Auto-Research](https://github.com/openags/Auto-Research) — **OpenAGS**: Orchestrates a team of AI agents across the full research lifecycle — lit review, hypothesis generation, experiments, manuscript writing, and peer review.
+- [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) — End-to-end autonomous research workflow: idea → literature review → experiments → report. Supports both autonomous and co-pilot modes.
+- [AgentRxiv](https://agentrxiv.github.io/) — Collaborative autonomous research framework where agent laboratories share a preprint server to build on each other's work iteratively.
+- [JinheonBaek/ResearchAgent](https://github.com/JinheonBaek/ResearchAgent) — Iterative research idea generation over scientific literature with LLMs. Multi-agent review and feedback loops.
+- [du-nlp-lab/MLR-Copilot](https://github.com/du-nlp-lab/MLR-Copilot) — Autonomous ML research framework — generates ideas, implements experiments, analyzes results.
+- [MASWorks/ML-Agent](https://github.com/MASWorks/ML-Agent) — Reinforcing LLM agents for autonomous ML engineering. Learns from trial and error to improve model performance.
+- [PouriaRouzrokh/LatteReview](https://github.com/PouriaRouzrokh/LatteReview) — Low-code Python package for **automated systematic literature reviews** via AI-powered agents.
+- [LitLLM/LitLLM](https://github.com/LitLLM/LitLLM) — AI-powered literature review assistant using RAG for accurate, well-structured related-work sections in academic writing.
+- [Agent Laboratory](https://agentlaboratory.github.io/) — Three-phase research pipeline: Literature Review → Experimentation → Report Writing, with specialized agents for each phase.
+- [WecoAI/aideml](https://github.com/WecoAI/aideml) — **AIDE**: AI-Driven Exploration — tree-search-based ML engineering agent that automates experiment design, code generation, and evaluation. Treats ML engineering as code optimization against any metric.
+
+### Platform Ports & Hardware Forks
+
+- [miolini/autoresearch-macos](https://github.com/miolini/autoresearch-macos) — Widely adopted macOS fork that adapts upstream autoresearch for Apple Silicon / MPS while preserving the original loop shape.
+- [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) — MLX-native Apple Silicon port that keeps the upstream fixed-budget `val_bpb` loop while removing the PyTorch/CUDA dependency entirely.
+- [jsegov/autoresearch-win-rtx](https://github.com/jsegov/autoresearch-win-rtx) — Windows-native RTX fork focused on consumer NVIDIA GPUs, with explicit VRAM floors and a practical desktop setup path.
+- [iii-hq/n-autoresearch](https://github.com/iii-hq/n-autoresearch) — Multi-GPU autoresearch infrastructure with structured experiment tracking, adaptive search strategy, crash recovery, and queryable orchestration around the classic `train.py` loop.
+- [lucasgelfond/autoresearch-webgpu](https://github.com/lucasgelfond/autoresearch-webgpu) — Browser/WebGPU port that lets agents generate training code, run experiments in-browser, and feed results back into the loop without a Python setup.
+- [tonitangpotato/autoresearch-engram](https://github.com/tonitangpotato/autoresearch-engram) — Fork with **persistent cognitive memory** — frequency-weighted retrieval of cross-session knowledge for improved experiment continuity.
+- **Colab/Kaggle T4 port** - Adapts autoresearch for free T4 GPUs (Google Colab / Kaggle) with zero cost and zero local setup. Key changes: Flash Attention 3 → PyTorch SDPA, removes H100-only kernel dependency. ([upstream issue #208](https://github.com/karpathy/autoresearch/issues/208))
+
+### Domain-Specific Adaptations
+
+- [mattprusak/autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy) — Applies the autoresearch pattern to genealogy, using structured prompts, archive guides, source checks, and vault workflows to iteratively expand and verify family-history research.
+- [ArchishmanSengupta/autovoiceevals](https://github.com/ArchishmanSengupta/autovoiceevals) — Uses adversarial callers plus keep-or-revert prompt edits to harden voice AI agents across Vapi, Smallest AI, and ElevenLabs.
+- [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) — Applies the autoresearch keep-or-revert loop to trading agents, optimizing prompts and portfolio orchestration against rolling Sharpe ratio instead of model loss.
+- [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) — Applies the autoresearch loop to GPU kernel optimization: profile bottlenecks, edit one kernel, benchmark, keep or revert, repeat.
+- [Rkcr7/autoresearch-sudoku](https://github.com/Rkcr7/autoresearch-sudoku) — Enhanced autoresearch workflow where an AI agent iteratively rewrites and benchmarks a Rust sudoku solver, ultimately beating leading human-built solvers on hard benchmark sets.
+
+### Evaluation & Benchmarks
+
+- [snap-stanford/MLAgentBench](https://github.com/snap-stanford/MLAgentBench) — Benchmark suite for evaluating AI agents on ML experimentation tasks. 13 tasks from CIFAR-10 to BabyLM.
+- [openai/mle-bench](https://github.com/openai/mle-bench) — OpenAI's benchmark for measuring how well AI agents perform at ML engineering.
+- [chchenhui/mlrbench](https://github.com/chchenhui/mlrbench) — MLR-Bench: Evaluating AI agents on open-ended ML research. 201 tasks from NeurIPS/ICLR/ICML workshops.
+- [gersteinlab/ML-Bench](https://github.com/gersteinlab/ML-Bench) — Evaluates LLMs and agents for ML tasks on repository-level code.
+- [THUDM/AgentBench](https://github.com/THUDM/AgentBench) — Comprehensive benchmark for LLM-as-Agent evaluation across 8 distinct environments. ICLR 2024.
+
+### Related Resources
+
+- [ai-agents-2030/awesome-deep-research-agent](https://github.com/ai-agents-2030/awesome-deep-research-agent) — Curated list of deep research agent papers and systems.
+- [YoungDubbyDu/LLM-Agent-Optimization](https://github.com/YoungDubbyDu/LLM-Agent-Optimization) — Papers on LLM agent optimization methods.
+- [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) — Curated AI agent papers from 2026 — agent engineering, memory, evaluation, workflows, and autonomous systems.
+- [masamasa59/ai-agent-papers](https://github.com/masamasa59/ai-agent-papers) — AI agent research papers updated biweekly via automated arxiv search with curated selection.
+- [tmgthb/Autonomous-Agents](https://github.com/tmgthb/Autonomous-Agents) — Autonomous agents research papers, updated daily.
+- [HKUST-KnowComp/Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) — EMNLP 2025 survey on LLMs in scientific discovery.
+- [openags/Awesome-AI-Scientist-Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) — Collection of AI Scientist / Robot Scientist papers.
+- [agenticscience.github.io](https://agenticscience.github.io/) — Survey: "From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery."
+- [dspy.ai/GEPA](https://dspy.ai/api/optimizers/GEPA/overview/) — DSPy integration of GEPA reflective prompt optimizer for compound AI systems.
+- [OpenAI Cookbook: Self-Evolving Agents](https://developers.openai.com/cookbook/examples/partners/self_evolving_agents/autonomous_agent_retraining) — Cookbook for autonomous agent retraining using GEPA-style reflective evolution.
+- [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) — Curated list of AutoResearch use cases with verifiable traces and progress charts, organized by domain (LLM training, GPU kernels, voice agents, trading, etc.).
+
+<!-- AUTORESEARCH-END -->
 
 ---
 
