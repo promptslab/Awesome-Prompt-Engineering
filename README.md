@@ -624,7 +624,6 @@ These models established key concepts but are largely superseded for practical u
 
 | Model | Provider | Significance |
 |:------|:---------|:-------------|
-| BLOOM 176B | BigScience | First major open multilingual LLM (2022) |
 | GLM-130B | Tsinghua | Open bilingual English/Chinese LLM (2023) |
 | Falcon 180B | TII | Large open generative model (2023) |
 | Mixtral 8x7B | Mistral AI | Pioneered MoE architecture for open models (2023) |
