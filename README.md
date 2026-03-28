@@ -843,7 +843,7 @@ These models established key concepts but are largely superseded for practical u
 
 <!-- AUTORESEARCH-START -->
 ## 🔬 Autonomous Research & Self-Improving Agents
-> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-03-27
+> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-03-28
 
 ### General-Purpose Descendants
 
@@ -864,6 +864,8 @@ These models established key concepts but are largely superseded for practical u
 - [gepa-ai/gepa](https://github.com/gepa-ai/gepa) — **GEPA (Genetic-Pareto)** — ICLR 2026 Oral. Reflective prompt evolution that outperforms RL (GRPO) on benchmarks. Optimizes any textual parameters against any metric using natural language reflection.
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) — Agent swarm intelligence for autoresearch — spawns parallel GPU research directions, distributes work across agents, aggregates results.
 - [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) — Comprehensive skill library including autoresearch orchestration with two-loop architecture (inner optimization + outer synthesis).
+- [WecoAI/aideml](https://github.com/WecoAI/aideml) — **AIDE**: Tree-search ML engineering agent that autonomously improves model performance via iterative code generation and evaluation.
+- [weco.ai](https://weco.ai) — **Weco**: Cloud platform for AIDE with observability, experiment tracking, and managed runs — brings the autoresearch loop into production.
 
 ### Research-Agent Systems
 
