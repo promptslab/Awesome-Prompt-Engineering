@@ -843,7 +843,7 @@ These models established key concepts but are largely superseded for practical u
 
 <!-- AUTORESEARCH-START -->
 ## 🔬 Autonomous Research & Self-Improving Agents
-> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-03-29
+> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-03-30
 
 ### General-Purpose Descendants
 
@@ -862,6 +862,7 @@ These models established key concepts but are largely superseded for practical u
 - [peterskoett/self-improving-agent](https://github.com/peterskoett/self-improving-agent) — Alternative self-improving agent architecture with reflection and meta-learning cycles.
 - [metauto-ai/HGM](https://github.com/metauto-ai/HGM) — **Huxley-Gödel Machine** for coding agents — applies self-improvement to SWE-bench performance via meta-level optimization.
 - [gepa-ai/gepa](https://github.com/gepa-ai/gepa) — **GEPA (Genetic-Pareto)** — ICLR 2026 Oral. Reflective prompt evolution that outperforms RL (GRPO) on benchmarks. Optimizes any textual parameters against any metric using natural language reflection.
+- [MrTsepa/autoevolve](https://github.com/MrTsepa/autoevolve) — GEPA-inspired autoresearch for self-play: mutate code strategies, evaluate head-to-head, rate with Elo/Bradley-Terry, branch from the Pareto front. Agent reads match traces to target mutations. Works as a Claude Code skill.
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) — Agent swarm intelligence for autoresearch — spawns parallel GPU research directions, distributes work across agents, aggregates results.
 - [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) — Comprehensive skill library including autoresearch orchestration with two-loop architecture (inner optimization + outer synthesis).
 - [WecoAI/aideml](https://github.com/WecoAI/aideml) — **AIDE**: Tree-search ML engineering agent that autonomously improves model performance via iterative code generation and evaluation.
@@ -898,6 +899,7 @@ These models established key concepts but are largely superseded for practical u
 - [lucasgelfond/autoresearch-webgpu](https://github.com/lucasgelfond/autoresearch-webgpu) — Browser/WebGPU port that lets agents generate training code, run experiments in-browser, and feed results back into the loop without a Python setup.
 - [tonitangpotato/autoresearch-engram](https://github.com/tonitangpotato/autoresearch-engram) — Fork with **persistent cognitive memory** — frequency-weighted retrieval of cross-session knowledge for improved experiment continuity.
 - **Colab/Kaggle T4 port** - Adapts autoresearch for free T4 GPUs (Google Colab / Kaggle) with zero cost and zero local setup. Key changes: Flash Attention 3 → PyTorch SDPA, removes H100-only kernel dependency. ([upstream issue #208](https://github.com/karpathy/autoresearch/issues/208))
+- [ArmanJR-Lab/autoautoresearch](https://github.com/ArmanJR-Lab/autoautoresearch) — Jetson AGX Orin port with a **director** — a Go binary that acts as a "creative director" injecting novelty (arxiv papers + DeepSeek Reasoner) into the loop to escape local minima. Includes multi-experiment comparison (baseline vs director-guided) with detailed stall analysis.
 
 ### Domain-Specific Adaptations
 
