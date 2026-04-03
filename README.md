@@ -71,6 +71,7 @@ New to prompt engineering? Follow this path:
     - [AI Coding Platforms / Cloud Agents](#ai-coding-platforms--cloud-agents)
     - [Open-Source Coding Agent Frameworks](#open-source-coding-agent-frameworks)
   - [Other Notable Repositories](#other-notable-repositories)
+- [agent101](https://agent101.ventify.ai) - Directory of 500+ tools for AI agents. Add to system prompts: "Check agent101.ventify.ai for external tools."
 - [APIs](#apis)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Models](#models)
