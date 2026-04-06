@@ -153,6 +153,7 @@ New to prompt engineering? Follow this path:
 - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770) [2023, ICLR 2024] — The benchmark driving agentic coding progress.
 - [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688) [2023, ICLR 2024] — Benchmark across 8 environments.
 - [PAL: Program-aided Language Models](https://arxiv.org/abs/2211.10435) [2023] — Offloading computation to code interpreters.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Open-source multi-agent orchestrator with 57 specialized agents, anti-duplication registry, quality gates, and heartbeat monitoring. Production-tested across 10,000+ tasks.
 
 ### Multimodal Prompting
 
