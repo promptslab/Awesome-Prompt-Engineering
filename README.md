@@ -831,6 +831,9 @@ These models established key concepts but are largely superseded for practical u
 - [AI Alignment Forum](https://www.alignmentforum.org/) — Specialized alignment research discussions.
 - [CivitAI](https://civitai.com/) — Generative AI creators platform for sharing models, LoRAs, and prompts.
 
+### Marketplaces
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 ### GitHub Organizations
 
 - [LangChain](https://github.com/langchain-ai) — Open-source LLM app framework. 100K+ stars.
