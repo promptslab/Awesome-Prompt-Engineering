@@ -234,6 +234,7 @@ These papers established the core concepts that modern prompt engineering builds
 ## Tools and Code
 🔧
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=promptslab_Awesome-Prompt-Engineering) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ### Prompt Management and Testing
 
 | Name | Description | Link |
