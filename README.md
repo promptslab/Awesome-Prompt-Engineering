@@ -58,6 +58,8 @@ New to prompt engineering? Follow this path:
   - [Text-to-Music/Audio Generation](#text-to-musicaudio-generation)
   - [Foundational Papers (Pre-2024)](#foundational-papers-pre-2024)
 - [Tools and Code](#tools-and-code)
+
+- [STCO Prompt Builder](https://github.com/lukefryer1234/stco-prompt-builder) - A lightweight TypeScript engine to enforce the STCO (System, Task, Context, Output) heuristic structure for deterministic AI results, eliminating magic strings in codebases.
   - [Prompt Management and Testing](#prompt-management-and-testing)
   - [LLM Evaluation Tools](#llm-evaluation-tools)
   - [Agent Frameworks](#agent-frameworks)
