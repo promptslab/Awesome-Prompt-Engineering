@@ -190,6 +190,7 @@ New to prompt engineering? Follow this path:
 - [PLACES: Prompting Language Models for Social Conversation Synthesis](https://arxiv.org/abs/2302.03269) [2023]
 - [Medical Image Segmentation Using Transformer Encoders and Prompt-Based Learning: A Systematic Review](https://ieeexplore.ieee.org/document/11313186/) [2025]
 - [TableRAG: A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning](https://arxiv.org/abs/2506.10380) [2025] — SQL-based interface preserving tabular structure for multi-hop queries.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### Text-to-Image Generation
 
