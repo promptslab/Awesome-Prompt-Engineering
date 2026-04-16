@@ -102,6 +102,9 @@ New to prompt engineering? Follow this path:
 
 ### Prompt Optimization and Automatic Prompting
 
+- [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
+- [FutureAGI futureagi-sdk](https://github.com/future-agi/futureagi-sdk)
+
 - [OPRO: Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409) [2023, NeurIPS 2024] — Uses LLMs as optimizers via meta-prompts; optimized prompts outperform human-designed ones by up to 50% on BBH.
 - [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714) [2023, ICLR 2024] — Framework for programming (not prompting) LLMs with automatic prompt optimization.
 - [MIPRO: Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs](https://arxiv.org/abs/2406.11695) [2024, EMNLP 2024] — Bayesian optimization for multi-stage LM programs; up to 13% accuracy gains.
