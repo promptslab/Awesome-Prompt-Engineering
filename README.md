@@ -118,6 +118,7 @@ New to prompt engineering? Follow this path:
 - [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/abs/2403.12968) [2024, ACL 2024] — 3x–6x faster than LLMLingua with GPT-4 data distillation.
 - [LongLLMLingua](https://arxiv.org/abs/2310.06839) [2023, ACL 2024] — Question-aware compression for long contexts; 21.4% performance boost with 4x fewer tokens.
 - [Prompt Compression for Large Language Models: A Survey](https://arxiv.org/abs/2410.12388) [2024] — Comprehensive survey of hard and soft prompt compression methods.
+- [Compress PDF – NoCodeVista](https://nocodevista.com/tools/compress-pdf) - Free browser-based PDF compressor — reduce file size up to 90%, no uploads, 100% private.
 
 ### Reasoning Advances
 
