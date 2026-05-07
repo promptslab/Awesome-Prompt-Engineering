@@ -359,6 +359,7 @@ Terminal-native agentic tools that understand your codebase and execute multi-st
 | **Amp** | Sourcegraph's agentic coding tool (Cody successor); works across CLI and IDE. | 🔵 | [Website](https://ampcode.com) |
 | **Junie CLI** | JetBrains' LLM-agnostic coding agent CLI (beta 2026); supports all major model providers. | 🔵 | [Website](https://www.jetbrains.com/junie/) |
 | **Autohand Code CLI** | Self-evolving autonomous terminal coding agent with multi-provider LLM support, 40+ tools, and modular skills system. | 🟢 | [GitHub](https://github.com/autohandai/code-cli) |
+| **Bernstein** | Deterministic Python orchestrator that runs Claude Code, Codex, Gemini CLI and 37 other CLI coding agents in parallel; git-worktree isolation, signed audit log, MCP+A2A support. | 🟢 | [GitHub](https://github.com/sipyourdrink-ltd/bernstein) |
 
 #### AI Code Editors / IDEs
 
