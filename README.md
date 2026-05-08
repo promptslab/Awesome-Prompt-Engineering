@@ -843,7 +843,7 @@ These models established key concepts but are largely superseded for practical u
 
 <!-- AUTORESEARCH-START -->
 ## 🔬 Autonomous Research & Self-Improving Agents
-> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-05-07
+> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-05-08
 
 ### General-Purpose Descendants
 
@@ -876,12 +876,14 @@ These models established key concepts but are largely superseded for practical u
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) — End-to-end research pipeline that turns a topic into literature review, experiments, analysis, peer review, and paper drafts; broader than autoresearch, but clearly in the same lineage.
 - [OpenRaiser/NanoResearch](https://github.com/OpenRaiser/NanoResearch) — End-to-end autonomous research engine that plans experiments, generates code, runs jobs locally or on SLURM, analyzes real results, and writes papers grounded in those outputs.
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) — Markdown-first research workflows for Claude Code and other agents, centered on autonomous literature review, experiments, paper iteration, and cross-model critique.
+- [skyllwt/OmegaWiki](https://github.com/skyllwt/OmegaWiki) — Wiki-centric full-lifecycle research platform built on Claude Code, realizing Karpathy's LLM-Wiki vision. 20+ skills cover the full loop: ingest → ideate → novelty check → experiment design / run / eval → paper writing. Research state lives in a structured knowledge wiki with an interactive graph.
 - [Sibyl-Research-Team/AutoResearch-SibylSystem](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) — Fully autonomous AI scientist built on Claude Code, with explicit AutoResearch lineage, multi-agent research iteration, GPU experiment execution, and a self-evolving outer loop.
 - [eimenhmdt/autoresearcher](https://github.com/eimenhmdt/autoresearcher) — Early open-source package for automating scientific workflows, currently centered on literature-review generation with an ambition toward broader autonomous research.
 - [hyperspaceai/agi](https://github.com/hyperspaceai/agi) — Distributed, peer-to-peer research network where autonomous agents run experiments, gossip findings, maintain CRDT leaderboards, and archive results to GitHub across multiple research domains.
 - [Human-Agent-Society/CORAL](https://github.com/Human-Agent-Society/CORAL) — **CORAL**: Autonomous multi-agent evolution for open-ended discovery ([arXiv:2604.01658](https://arxiv.org/abs/2604.01658)). Long-running agents with shared persistent memory, asynchronous execution, and heartbeat-based interventions; SOTA on 10 math/algorithmic/systems tasks.
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) — **The AI Scientist**: First comprehensive system for fully automatic scientific discovery. From idea generation to paper writing with minimal human supervision.
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — Workshop-level automated scientific discovery via agentic tree search. Removes template dependency from v1, generalizes across research domains.
+- [AweAI-Team/AiScientist](https://github.com/AweAI-Team/AiScientist) — **AiScientist**: long-horizon ML research lab with hierarchical orchestration and File-as-Bus coordination — workspace files act as the durable system of record. Drives autonomous paper-reproduction (PaperBench) and competition-style MLE-Bench iteration loops under fixed compute/time budgets. ([arXiv 2604.13018](https://arxiv.org/abs/2604.13018))
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) — NeurIPS 2025 paper. Full end-to-end research automation: hypothesis → experiments → manuscript → peer review. Production version at [novix.science](https://novix.science/chat).
 - [openags/Auto-Research](https://github.com/openags/Auto-Research) — **OpenAGS**: Orchestrates a team of AI agents across the full research lifecycle — lit review, hypothesis generation, experiments, manuscript writing, and peer review.
 - [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) — End-to-end autonomous research workflow: idea → literature review → experiments → report. Supports both autonomous and co-pilot modes.
@@ -912,6 +914,7 @@ These models established key concepts but are largely superseded for practical u
 - [ArchishmanSengupta/autovoiceevals](https://github.com/ArchishmanSengupta/autovoiceevals) — Uses adversarial callers plus keep-or-revert prompt edits to harden voice AI agents across Vapi, Smallest AI, and ElevenLabs.
 - [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) — Applies the autoresearch keep-or-revert loop to trading agents, optimizing prompts and portfolio orchestration against rolling Sharpe ratio instead of model loss.
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) — Applies the autoresearch loop to GPU kernel optimization: profile bottlenecks, edit one kernel, benchmark, keep or revert, repeat.
+- [Agent-Analytics/autoresearch-growth](https://github.com/Agent-Analytics/autoresearch-growth) — Applies autoresearch to landing-page positioning and A/B test candidates, using analytics snapshots and measured experiment results to seed subsequent rounds.
 - [Rkcr7/autoresearch-sudoku](https://github.com/Rkcr7/autoresearch-sudoku) — Enhanced autoresearch workflow where an AI agent iteratively rewrites and benchmarks a Rust sudoku solver, ultimately beating leading human-built solvers on hard benchmark sets.
 - [jeongph/autospec](https://github.com/jeongph/autospec) — Reads natural-language business rules and autonomously builds a Spring Boot service with tests via the keep-or-revert loop. Evaluates with Gradle build + JUnit XML. 119-line skeleton to 950 lines in 5 cycles.
 
