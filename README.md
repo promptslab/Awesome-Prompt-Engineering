@@ -272,6 +272,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **InspectAI** | Purpose-built for evaluating agents against benchmarks (UK AISI). | [GitHub](https://github.com/UKGovernmentBEIS/inspect_ai) |
 | **Opik** | Evaluate, test, and ship LLM applications across dev and production lifecycles. | [GitHub](https://github.com/comet-ml/opik) |
 | **EvalView** | CLI tool for testing multi-step AI agents with YAML test cases, regression detection, and production monitoring. |[GitHub](https://github.com/hidai25/eval-view) |
+| **Future AGI** | Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evals, simulations, datasets, gateway, and guardrails. | [GitHub](https://github.com/future-agi/future-agi) |
 
 ### Agent Frameworks
 
