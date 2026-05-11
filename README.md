@@ -417,6 +417,7 @@ Frameworks and research projects for building autonomous coding agents.
 
 | Name | Description | Type | Link |
 |:-----|:-----------|:----:|:----:|
+| **agentkit-seo** | Context engineering framework for professional identity (GitHub, LinkedIn, CV/ATS, Portfolios). Uses a structured agent-context-file for factual grounding. | 🟢 | [GitHub](https://github.com/agentkit-seo/agentkit-seo) |
 | **OpenHands** | Leading open-source platform for cloud coding agents; consistently top on SWE-bench. Formerly OpenDevin. ~69K+ ⭐ | 🟢 | [GitHub](https://github.com/OpenHands/OpenHands) |
 | **SWE-agent** | Takes a GitHub issue and automatically fixes it using a custom agent-computer interface. [NeurIPS 2024] ~19K+ ⭐ | 🟢 | [GitHub](https://github.com/SWE-agent/SWE-agent) |
 | **Open SWE** | LangChain's async cloud-hosted coding agent framework built on LangGraph with Slack/Linear integration. ~8K+ ⭐ | 🟢 | [GitHub](https://github.com/langchain-ai/open-swe) |
