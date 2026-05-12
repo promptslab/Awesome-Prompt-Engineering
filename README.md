@@ -843,7 +843,7 @@ These models established key concepts but are largely superseded for practical u
 
 <!-- AUTORESEARCH-START -->
 ## 🔬 Autonomous Research & Self-Improving Agents
-> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-05-11
+> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-05-12
 
 ### General-Purpose Descendants
 
@@ -865,6 +865,7 @@ These models established key concepts but are largely superseded for practical u
 - [peterskoett/self-improving-agent](https://github.com/peterskoett/self-improving-agent) — Alternative self-improving agent architecture with reflection and meta-learning cycles.
 - [metauto-ai/HGM](https://github.com/metauto-ai/HGM) — **Huxley-Gödel Machine** for coding agents — applies self-improvement to SWE-bench performance via meta-level optimization.
 - [gepa-ai/gepa](https://github.com/gepa-ai/gepa) — **GEPA (Genetic-Pareto)** — ICLR 2026 Oral. Reflective prompt evolution that outperforms RL (GRPO) on benchmarks. Optimizes any textual parameters against any metric using natural language reflection.
+- [sentient-agi/EvoSkill](https://github.com/sentient-agi/EvoSkill) — Automated skill discovery for coding agents: evolves reusable skills and prompts from failed trajectories against benchmarks, with support for Claude Code, Codex CLI, OpenCode, OpenHands, and Goose.
 - [MrTsepa/autoevolve](https://github.com/MrTsepa/autoevolve) — GEPA-inspired autoresearch for self-play: mutate code strategies, evaluate head-to-head, rate with Elo/Bradley-Terry, branch from the Pareto front. Agent reads match traces to target mutations. Works as a Claude Code skill.
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) — Agent swarm intelligence for autoresearch — spawns parallel GPU research directions, distributes work across agents, aggregates results.
 - [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) — Comprehensive skill library including autoresearch orchestration with two-loop architecture (inner optimization + outer synthesis).
