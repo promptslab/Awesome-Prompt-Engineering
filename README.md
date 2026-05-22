@@ -744,6 +744,7 @@ These models established key concepts but are largely superseded for practical u
 - [Advanced Prompt Hacking](https://learnprompting.org/courses/advanced-prompt-hacking)
 - [Introduction to Generative AI Agents for Business Professionals](https://learnprompting.org/courses/introduction-to-agents)
 - [AI Safety](https://learnprompting.org/courses/ai-safety)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ---
 
