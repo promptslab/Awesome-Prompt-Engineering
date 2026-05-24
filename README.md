@@ -180,6 +180,7 @@ New to prompt engineering? Follow this path:
 - [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) [2022]
 - [Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527) [2022]
 - [Artificial Intelligence and Cybersecurity: Documented Risks, Enterprise Guardrails, and Emerging Threats in 2024–2025](https://www.ijfmr.com/research-paper.php?id=62200) [2025] — Survey of real prompt-injection incidents with practical governance prompt patterns.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ### Applications of Prompt Engineering
 
