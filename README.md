@@ -509,6 +509,7 @@ Available on 25+ cloud partners, Hugging Face, and inference APIs. [Llama](https
 | **Perplexity AI** | Search-augmented API with citations. | [Website](https://perplexity.ai) |
 | **Amazon Bedrock** | Managed multi-model service with Claude, Llama, Mistral, Cohere. | [Website](https://aws.amazon.com/bedrock/) |
 | **Hugging Face Inference** | Access to open models via API. | [Website](https://huggingface.co/docs/api-inference/index) |
+| **RunAPI** | Unified API for 130+ AI models across image, video, music, audio, and LLM from 18 providers. MCP server for Claude Code, Cursor, Codex. | [Website](https://runapi.ai) / [GitHub](https://github.com/runapi-ai/mcp) |
 
 ---
 
