@@ -336,6 +336,7 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 | **Context7** | MCP server providing version-specific documentation to reduce code hallucination. | [GitHub](https://github.com/upstash/context7) |
 | **GitMCP** | Creates remote MCP servers for any GitHub repo by changing the domain. | [Website](https://gitmcp.io/) |
 | **MCP Inspector** | Visual testing tool for MCP server development. | [GitHub](https://github.com/modelcontextprotocol/inspector) |
+| **TWZRD Agent Intel** | Trust infrastructure MCP server for AI agents. On-chain agent scoring, pre-dispatch trust gating, and signed V5 receipts on Solana. Zero-install Streamable HTTP. Free + paid tools via x402. | [Website](https://intel.twzrd.xyz) |
 
 ### Vibe Coding and AI Coding Assistants
 
