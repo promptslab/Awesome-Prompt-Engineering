@@ -231,7 +231,10 @@ These papers established the core concepts that modern prompt engineering builds
 
 ---
 
-## Tools and Code
+## Tools
+
+- [Perseus](https://github.com/tcconnally/perseus) - Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.
+ and Code
 🔧
 
 ### Prompt Management and Testing
