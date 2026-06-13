@@ -112,7 +112,6 @@ New to prompt engineering? Follow this path:
 - [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910) [2022] — Automatic prompt generation via APE.
 - [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning](https://arxiv.org/abs/2302.03668) [2023]
 - [SPO: Self-Supervised Prompt Optimization](https://arxiv.org/abs/2502.06855) [2025] — Competitive performance at 1–6% of the cost of prior methods.
-- [ImaginPrompt](https://imaginprompt.com) - Free, web-based tool suite to reverse-engineer images into optimized Midjourney, DALL-E 3, and Stable Diffusion prompts.
 
 ### Prompt Compression
 
@@ -306,6 +305,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **DSPy** | Multiple optimizers (MIPROv2, BootstrapFewShot, COPRO) for automatic prompt tuning. ~22K+ ⭐ | [GitHub](https://github.com/stanfordnlp/dspy) |
 | **TextGrad** | Automatic differentiation via text (Stanford). ~2K+ ⭐ | [GitHub](https://github.com/zou-group/textgrad) |
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
+| **ImaginPrompt** | A free, web-based tool suite to reverse-engineer images into optimized prompts for Midjourney, DALL-E, and Stable Diffusion. | [Website](https://imaginprompt.com) |
 
 ### Red Teaming and Prompt Security
 
