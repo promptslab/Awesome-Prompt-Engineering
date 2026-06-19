@@ -843,7 +843,7 @@ These models established key concepts but are largely superseded for practical u
 
 <!-- AUTORESEARCH-START -->
 ## 🔬 Autonomous Research & Self-Improving Agents
-> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-06-18
+> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-06-19
 
 ### General-Purpose Descendants
 
@@ -897,7 +897,6 @@ These models established key concepts but are largely superseded for practical u
 - [PouriaRouzrokh/LatteReview](https://github.com/PouriaRouzrokh/LatteReview) — Low-code Python package for **automated systematic literature reviews** via AI-powered agents.
 - [LitLLM/LitLLM](https://github.com/LitLLM/LitLLM) — AI-powered literature review assistant using RAG for accurate, well-structured related-work sections in academic writing.
 - [Agent Laboratory](https://agentlaboratory.github.io/) — Three-phase research pipeline: Literature Review → Experimentation → Report Writing, with specialized agents for each phase.
-- [WecoAI/aideml](https://github.com/WecoAI/aideml) — **AIDE**: AI-Driven Exploration — tree-search-based ML engineering agent that automates experiment design, code generation, and evaluation. Treats ML engineering as code optimization against any metric.
 
 ### Platform Ports & Hardware Forks
 
@@ -908,7 +907,7 @@ These models established key concepts but are largely superseded for practical u
 - [iii-hq/n-autoresearch](https://github.com/iii-hq/n-autoresearch) — Multi-GPU autoresearch infrastructure with structured experiment tracking, adaptive search strategy, crash recovery, and queryable orchestration around the classic `train.py` loop.
 - [lucasgelfond/autoresearch-webgpu](https://github.com/lucasgelfond/autoresearch-webgpu) — Browser/WebGPU port that lets agents generate training code, run experiments in-browser, and feed results back into the loop without a Python setup.
 - [tonitangpotato/autoresearch-engram](https://github.com/tonitangpotato/autoresearch-engram) — Fork with **persistent cognitive memory** — frequency-weighted retrieval of cross-session knowledge for improved experiment continuity.
-- **Colab/Kaggle T4 port** - Adapts autoresearch for free T4 GPUs (Google Colab / Kaggle) with zero cost and zero local setup. Key changes: Flash Attention 3 → PyTorch SDPA, removes H100-only kernel dependency. ([upstream issue #208](https://github.com/karpathy/autoresearch/issues/208))
+- [Colab/Kaggle T4 port](https://github.com/karpathy/autoresearch/issues/208) — Adapts autoresearch for free T4 GPUs (Google Colab / Kaggle) with zero cost and zero local setup. Key changes: Flash Attention 3 → PyTorch SDPA, removes H100-only kernel dependency.
 - [ArmanJR-Lab/autoautoresearch](https://github.com/ArmanJR-Lab/autoautoresearch) — Jetson AGX Orin port with a **director** — a Go binary that acts as a "creative director" injecting novelty (arxiv papers + DeepSeek Reasoner) into the loop to escape local minima. Includes multi-experiment comparison (baseline vs director-guided) with detailed stall analysis.
 
 ### Domain-Specific Adaptations
@@ -925,7 +924,7 @@ These models established key concepts but are largely superseded for practical u
 ### Evaluation & Benchmarks
 
 - [snap-stanford/MLAgentBench](https://github.com/snap-stanford/MLAgentBench) — Benchmark suite for evaluating AI agents on ML experimentation tasks. 13 tasks from CIFAR-10 to BabyLM.
-- [openai/mle-bench](https://github.com/openai/mle-bench) — OpenAI's benchmark for measuring how well AI agents perform at ML engineering.
+- [OpenAI/mle-bench](https://github.com/openai/mle-bench) — OpenAI's benchmark for measuring how well AI agents perform at ML engineering.
 - [chchenhui/mlrbench](https://github.com/chchenhui/mlrbench) — MLR-Bench: Evaluating AI agents on open-ended ML research. 201 tasks from NeurIPS/ICLR/ICML workshops.
 - [gersteinlab/ML-Bench](https://github.com/gersteinlab/ML-Bench) — Evaluates LLMs and agents for ML tasks on repository-level code.
 - [THUDM/AgentBench](https://github.com/THUDM/AgentBench) — Comprehensive benchmark for LLM-as-Agent evaluation across 8 distinct environments. ICLR 2024.
