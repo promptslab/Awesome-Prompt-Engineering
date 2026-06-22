@@ -843,7 +843,7 @@ These models established key concepts but are largely superseded for practical u
 
 <!-- AUTORESEARCH-START -->
 ## 🔬 Autonomous Research & Self-Improving Agents
-> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-06-21
+> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-06-22
 
 ### General-Purpose Descendants
 
@@ -856,6 +856,7 @@ These models established key concepts but are largely superseded for practical u
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) — `pi` extension plus dashboard for persistent experiment loops, live metrics, confidence tracking, and resumable autoresearch sessions.
 - [drivelineresearch/autoresearch-claude-code](https://github.com/drivelineresearch/autoresearch-claude-code) — Claude Code plugin/skill port of `pi-autoresearch`, with a clean experiment-loop workflow and a concrete biomechanics case study.
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) — Closed-loop control plane for repeated agent improvement, with evaluation, persistent knowledge, staged validation, and optional distillation into cheaper local runtimes.
+- [Necmttn/ax](https://github.com/Necmttn/ax) — Local retro loop for AI coding agents: captures session traces, turns repeated friction into proposals, and tracks accepted fixes as experiments.
 - [jmilinovich/goal-md](https://github.com/jmilinovich/goal-md) — Generalizes autoresearch into a `GOAL.md` pattern for repos where the agent must first construct a measurable fitness function before it can optimize.
 - [james-s-tayler/lazy-developer](https://github.com/james-s-tayler/lazy-developer) — Claude Code skill that orchestrates autoresearch across a prioritized sequence of optimization goals (coverage, test speed, build speed, complexity, LOC, performance) using GOAL.md as the engine. Supports standalone and Ralph Mode multi-instance execution.
 - [mutable-state-inc/autoresearch-at-home](https://github.com/mutable-state-inc/autoresearch-at-home) — Collaborative fork of upstream autoresearch that adds experiment claiming, shared best-config syncing, hypothesis exchange, and swarm-style coordination across many single-GPU agents.
@@ -916,6 +917,7 @@ These models established key concepts but are largely superseded for practical u
 - [ArchishmanSengupta/autovoiceevals](https://github.com/ArchishmanSengupta/autovoiceevals) — Uses adversarial callers plus keep-or-revert prompt edits to harden voice AI agents across Vapi, Smallest AI, and ElevenLabs.
 - [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) — Applies the autoresearch keep-or-revert loop to trading agents, optimizing prompts and portfolio orchestration against rolling Sharpe ratio instead of model loss.
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) — Applies the autoresearch loop to GPU kernel optimization: profile bottlenecks, edit one kernel, benchmark, keep or revert, repeat.
+- [ElliotXie/autozyme](https://github.com/ElliotXie/autozyme) — Multi-agent framework that applies the autoresearch keep-or-revert loop to CPU-side scientific software: profile a target function, generate one optimization candidate, benchmark for speed while preserving the original outputs, keep or revert, repeat.
 - [Agent-Analytics/autoresearch-growth](https://github.com/Agent-Analytics/autoresearch-growth) — Applies autoresearch to landing-page positioning and A/B test candidates, using analytics snapshots and measured experiment results to seed subsequent rounds.
 - [Rkcr7/autoresearch-sudoku](https://github.com/Rkcr7/autoresearch-sudoku) — Enhanced autoresearch workflow where an AI agent iteratively rewrites and benchmarks a Rust sudoku solver, ultimately beating leading human-built solvers on hard benchmark sets.
 - [jeongph/autospec](https://github.com/jeongph/autospec) — Reads natural-language business rules and autonomously builds a Spring Boot service with tests via the keep-or-revert loop. Evaluates with Gradle build + JUnit XML. 119-line skeleton to 950 lines in 5 cycles.
