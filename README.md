@@ -152,6 +152,7 @@ New to prompt engineering? Follow this path:
 - [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-World APIs](https://arxiv.org/abs/2307.16789) [2023, ICLR 2024] — Trains LLMs to use massive real-world API collections.
 - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770) [2023, ICLR 2024] — The benchmark driving agentic coding progress.
 - [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688) [2023, ICLR 2024] — Benchmark across 8 environments.
+- [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878) [2026] — 110 scenarios across 10 topologies measuring whether LLMs can assign information and write prompts for sub-agents.
 - [PAL: Program-aided Language Models](https://arxiv.org/abs/2211.10435) [2023] — Offloading computation to code interpreters.
 
 ### Multimodal Prompting
