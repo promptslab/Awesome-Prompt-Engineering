@@ -305,6 +305,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **DSPy** | Multiple optimizers (MIPROv2, BootstrapFewShot, COPRO) for automatic prompt tuning. ~22K+ ⭐ | [GitHub](https://github.com/stanfordnlp/dspy) |
 | **TextGrad** | Automatic differentiation via text (Stanford). ~2K+ ⭐ | [GitHub](https://github.com/zou-group/textgrad) |
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
+| **Token Diet** | Free prompt token counter and optimizer. Counts tokens (OpenAI, Claude, Gemini estimates) and trims prompts to cut LLM and AI API costs. Client-side, no login. Open source. | [Website](https://ranker.co.za/token-diet) |
 
 ### Red Teaming and Prompt Security
 
