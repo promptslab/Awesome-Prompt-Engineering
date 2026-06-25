@@ -976,3 +976,5 @@ Thank you for your interest in contributing to this project!
 <p align="center">
   <sub>Maintained by <a href="https://promptslab.github.io">PromptsLab</a> · <a href="https://github.com/promptslab/Awesome-Prompt-Engineering">Star this repo</a> if you find it useful!</sub>
 </p>
+
+- [Token Diet](https://ranker.co.za/token-diet) - Free, open-source prompt token counter and optimizer. Count tokens in any prompt, trim it to cut LLM and AI API costs. Runs entirely client-side, no login required.
