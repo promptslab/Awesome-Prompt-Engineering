@@ -138,6 +138,7 @@ New to prompt engineering? Follow this path:
 ### In-Context Learning
 
 - [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018) [2024, NeurIPS 2024 Spotlight] — Significant gains scaling ICL to hundreds/thousands of examples; introduces Reinforced and Unsupervised ICL.
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [Many-Shot In-Context Learning in Multimodal Foundation Models](https://arxiv.org/abs/2405.09798) [2024] — Scales multimodal ICL to ~2,000 examples across 14 datasets.
 - [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837) [2022]
 - [Fantastically Ordered Prompts and Where to Find Them](https://arxiv.org/abs/2104.08786) [2021] — Overcoming few-shot prompt order sensitivity.
