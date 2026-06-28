@@ -304,6 +304,7 @@ These papers established the core concepts that modern prompt engineering builds
 |:-----|:-----------|:----:|
 | **DSPy** | Multiple optimizers (MIPROv2, BootstrapFewShot, COPRO) for automatic prompt tuning. ~22K+ ⭐ | [GitHub](https://github.com/stanfordnlp/dspy) |
 | **TextGrad** | Automatic differentiation via text (Stanford). ~2K+ ⭐ | [GitHub](https://github.com/zou-group/textgrad) |
+| **SuperCompress** | Learned prompt compression that reduces LLM token costs by ~65% at 100% oracle recall. ~5K-param CPU policy (~60ms). MIT license. | [GitHub](https://github.com/arjunkshah21/supercompress-tv) |
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
 
 ### Red Teaming and Prompt Security
