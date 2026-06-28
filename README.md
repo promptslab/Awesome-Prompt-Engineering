@@ -764,6 +764,7 @@ These models established key concepts but are largely superseded for practical u
 
 - [Prompt Engineering Guide (DAIR.AI / promptingguide.ai)](https://www.promptingguide.ai/) — Most comprehensive open-source guide. 18+ techniques, model-specific guides, research papers. 3M+ learners. Now includes context engineering.
 - [Learn Prompting (learnprompting.org)](https://learnprompting.org/) — Structured free platform. Beginner to advanced PE, AI security, HackAPrompt competition.
+- [AI Book: Prompt Learning (Chinese)](https://aibook.ren/categories/ai-prompt) — Chinese prompt engineering learning collection covering prompt writing, context usage, UI design prompts, AI writing style, and practical prompt examples.
 - [IBM 2026 Guide to Prompt Engineering](https://www.ibm.com/think/prompt-engineering) [2026] — Curated tools, tutorials, real-world examples with Python code.
 - [Anthropic Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) — 9-chapter Jupyter notebook course with hands-on exercises.
 - [Lilian Weng's Prompt Engineering Guide](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) [2023] — Highly respected technical blog from OpenAI researcher.
