@@ -118,6 +118,7 @@ New to prompt engineering? Follow this path:
 - [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/abs/2403.12968) [2024, ACL 2024] — 3x–6x faster than LLMLingua with GPT-4 data distillation.
 - [LongLLMLingua](https://arxiv.org/abs/2310.06839) [2023, ACL 2024] — Question-aware compression for long contexts; 21.4% performance boost with 4x fewer tokens.
 - [Prompt Compression for Large Language Models: A Survey](https://arxiv.org/abs/2410.12388) [2024] — Comprehensive survey of hard and soft prompt compression methods.
+- [SuperCompress](https://supercompress.vercel.app) — Learned prompt compression that reduces LLM token costs by ~65%% using a ~5K-param CPU policy (~60ms latency). Open-source (MIT), Python API, hosted endpoint.
 
 ### Reasoning Advances
 
