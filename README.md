@@ -257,6 +257,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **PromptInject** | Framework for quantitative analysis of LLM robustness to adversarial prompt attacks. | [GitHub](https://github.com/agencyenterprise/PromptInject) |
 | **LynxPrompt** | Self-hostable platform for managing AI IDE config files (.cursorrules, CLAUDE.md, copilot-instructions.md). Web UI, REST API, CLI, and federated blueprint marketplace for 30+ AI coding assistants. | [GitHub](https://github.com/GeiserX/LynxPrompt) |
 | **flompt** | Visual AI prompt builder that decomposes prompts into 12 semantic blocks (role, context, constraints, examples, etc.) and compiles them into optimized XML. Browser extension for ChatGPT/Claude/Gemini, and MCP server for Claude Code agents. Free, open-source. | [Website](https://flompt.dev) |
+| **Prompt Pocket** | Cross-agent prompt manager that surfaces your most-used prompts inside each agent's native slash menu. Shared store at ~/.prompt-pocket/store.json; optional auto-recording of prompts repeated 7+ times by scanning Claude Code, Codex & OpenCode session history. Works across Claude Code, Codex, OpenCode, Cursor, Copilot & Gemini CLI. Open-source. | [GitHub](https://github.com/lxb12123/prompt-pocket) |
 
 ### LLM Evaluation Tools
 
