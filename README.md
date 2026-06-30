@@ -232,6 +232,8 @@ These papers established the core concepts that modern prompt engineering builds
 
 ---
 
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Learned prompt compression for LLMs. Cuts ~65% of prompt tokens before inference using a ~5K-parameter CPU policy with 100% oracle recall. ~60ms latency, no GPU. Open source.
 ## Tools and Code
 🔧
 
