@@ -976,3 +976,6 @@ Thank you for your interest in contributing to this project!
 <p align="center">
   <sub>Maintained by <a href="https://promptslab.github.io">PromptsLab</a> · <a href="https://github.com/promptslab/Awesome-Prompt-Engineering">Star this repo</a> if you find it useful!</sub>
 </p>
+
+
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): structured Markdown templates + Claude Code skills for giving AI agents deep personal context. Used in a real 28-agent autonomous system. Open-source, MIT licensed.
