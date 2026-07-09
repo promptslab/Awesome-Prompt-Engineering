@@ -257,6 +257,10 @@ These papers established the core concepts that modern prompt engineering builds
 | **PromptInject** | Framework for quantitative analysis of LLM robustness to adversarial prompt attacks. | [GitHub](https://github.com/agencyenterprise/PromptInject) |
 | **LynxPrompt** | Self-hostable platform for managing AI IDE config files (.cursorrules, CLAUDE.md, copilot-instructions.md). Web UI, REST API, CLI, and federated blueprint marketplace for 30+ AI coding assistants. | [GitHub](https://github.com/GeiserX/LynxPrompt) |
 | **flompt** | Visual AI prompt builder that decomposes prompts into 12 semantic blocks (role, context, constraints, examples, etc.) and compiles them into optimized XML. Browser extension for ChatGPT/Claude/Gemini, and MCP server for Claude Code agents. Free, open-source. | [Website](https://flompt.dev) |
+| **PromptDrift** | Detect drift between LLM prompt versions with breaking-drift CI gates. | [GitHub](https://github.com/alvabillwu/promptdrift) |
+| **PromptLab** | Self-hosted web playground to A/B-test LLM prompt variants side-by-side. | [GitHub](https://github.com/alvabillwu/promptlab) |
+| **prompt2prompt** | Convert prompts between LLM formats (ChatML/Claude/Gemini/Llama). | [GitHub](https://github.com/alvabillwu/prompt2prompt) |
+| **Prompt Playground** | Browser-based prompt testing and iteration tool (web UI). | [GitHub](https://github.com/alvabillwu/prompt-playground) |
 
 ### LLM Evaluation Tools
 
@@ -305,6 +309,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **DSPy** | Multiple optimizers (MIPROv2, BootstrapFewShot, COPRO) for automatic prompt tuning. ~22K+ ⭐ | [GitHub](https://github.com/stanfordnlp/dspy) |
 | **TextGrad** | Automatic differentiation via text (Stanford). ~2K+ ⭐ | [GitHub](https://github.com/zou-group/textgrad) |
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
+| **prompt-minify** | Algorithmic prompt compression with 6 techniques, achieving 20-60% token savings. | [GitHub](https://github.com/alvabillwu/prompt-minify) |
 
 ### Red Teaming and Prompt Security
 
@@ -443,6 +448,13 @@ Frameworks and research projects for building autonomous coding agents.
 | **Price Per Token** | Compare LLM API pricing across 200+ models. | [Website](https://pricepertoken.com/) |
 | **OpenPaw** | CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant by generating system prompts (CLAUDE.md + SOUL.md) with personality, memory, and 38 skill routers. | [GitHub](https://github.com/daxaur/openpaw) |
 | **Think Better** | Open-source CLI that permanently injects 10 structured decision frameworks (MECE, Issue Trees, Pre-Mortems) and 12 cognitive bias detectors into AI assistant prompts. Go, MIT. | [GitHub](https://github.com/HoangTheQuyen/think-better) |
+| **prompt2api** | Convert natural language prompt into typed REST API (FastAPI/Flask). | [GitHub](https://github.com/alvabillwu/prompt2api) |
+| **prompt2dataset** | Convert prompt templates into structured training datasets. | [GitHub](https://github.com/alvabillwu/prompt2dataset) |
+| **api2prompt** | OpenAPI spec to LLM prompt converter (markdown+JSON). | [GitHub](https://github.com/alvabillwu/api2prompt) |
+| **config2llm** | Convert config files to LLM prompts (JSON/YAML/TOML). | [GitHub](https://github.com/alvabillwu/config2llm) |
+| **code2prompt-lite** | Pipe a codebase into an LLM-friendly structured prompt. | [GitHub](https://github.com/alvabillwu/code2prompt-lite) |
+| **ctxpack** | Pack documents into an LLM context-window budget with 3 strategies. | [GitHub](https://github.com/alvabillwu/ctxpack) |
+| **dep-graph** | Dependency-aware context generation for AI agents. | [GitHub](https://github.com/alvabillwu/dep-graph) |
 
 ---
 
