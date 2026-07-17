@@ -843,7 +843,7 @@ These models established key concepts but are largely superseded for practical u
 
 <!-- AUTORESEARCH-START -->
 ## 🔬 Autonomous Research & Self-Improving Agents
-> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-07-16
+> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-07-17
 
 ### General-Purpose Descendants
 
@@ -898,6 +898,8 @@ These models established key concepts but are largely superseded for practical u
 - [PouriaRouzrokh/LatteReview](https://github.com/PouriaRouzrokh/LatteReview) — Low-code Python package for **automated systematic literature reviews** via AI-powered agents.
 - [LitLLM/LitLLM](https://github.com/LitLLM/LitLLM) — AI-powered literature review assistant using RAG for accurate, well-structured related-work sections in academic writing.
 - [Agent Laboratory](https://agentlaboratory.github.io/) — Three-phase research pipeline: Literature Review → Experimentation → Report Writing, with specialized agents for each phase.
+- [happyhappy-jun/writing-driven-autoresearch](https://github.com/happyhappy-jun/writing-driven-autoresearch) — Autoresearch-style harness that keeps a submittable paper from the first minute and drives every experiment from the claims in that draft, looping modify → measure → verify → revise. 1st place at the [Ralphthon@ICML 2026](https://luma.com/hjuo7auc) autonomous-research hackathon.
+- [AutoResearch-Factory/Agon](https://github.com/AutoResearch-Factory/Agon) — End-to-end research orchestrator built on one cornerstone principle, Prompt Economy (reusable loops, not one-off prompts), plus five supporting rules; runs scientist/coder/auditor loops across 10+ disciplines, same reusable-loop lineage as autoresearch but scaled to full research programs.
 
 ### Platform Ports & Hardware Forks
 
