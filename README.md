@@ -843,7 +843,7 @@ These models established key concepts but are largely superseded for practical u
 
 <!-- AUTORESEARCH-START -->
 ## 🔬 Autonomous Research & Self-Improving Agents
-> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-08-03
+> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-08-04
 
 ### General-Purpose Descendants
 
@@ -851,6 +851,7 @@ These models established key concepts but are largely superseded for practical u
 - [vukrosic/auto-research](https://github.com/vukrosic/auto-research) — Docs-only control plane for an open autonomous AI research lab — file-based operating model for human direction and agent execution.
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) — Claude Code skill that generalizes autoresearch into a reusable loop for software, docs, security, shipping, debugging, and other measurable goals.
 - [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) — Codex-native autoresearch skill with resume support, lessons across runs, optional parallel experiments, and mode-specific workflows.
+- [junjunjunbong/research-loop](https://github.com/junjunjunbong/research-loop) — Autoresearch-style Agent Skill for Codex and Claude Code with a deterministic runner, plan-hash approval, isolated Git worktrees, authoritative metric evaluation, and an append-only experiment ledger.
 - [SeeleAI/Thoth](https://github.com/SeeleAI/Thoth) — Dashboard-first Claude Code and Codex runtime for autoresearch, with durable runs, locked work items, visible ledgers, and reviewable verdicts.
 - [supratikpm/gemini-autoresearch](https://github.com/supratikpm/gemini-autoresearch) — Gemini CLI skill that generalises autoresearch to any measurable goal. Gemini-native: uses Google Search grounding as a live verification source inside the loop, true headless overnight mode via --yolo --prompt, and 1M token context. Also works in Antigravity IDE via .agents/skills/.
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) — `pi` extension plus dashboard for persistent experiment loops, live metrics, confidence tracking, and resumable autoresearch sessions.
