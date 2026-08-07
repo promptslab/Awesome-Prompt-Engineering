@@ -232,6 +232,7 @@ These papers established the core concepts that modern prompt engineering builds
 ---
 
 ## Tools and Code
+- [AI Prompt Architect](https://aipromptarchitect.co.uk) - An enterprise-grade prompt engineering IDE and evaluation platform to design, version, test, and optimize prompts across multiple LLMs.
 🔧
 
 ### Prompt Management and Testing
