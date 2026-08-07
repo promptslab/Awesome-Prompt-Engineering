@@ -431,6 +431,7 @@ Frameworks and research projects for building autonomous coding agents.
 |:-----|:-----------|:----:|
 | **Prompt Engineering Guide (DAIR.AI)** | The definitive open-source guide and resource hub. 3M+ learners. ~55K+ ⭐ | [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide) |
 | **Awesome ChatGPT Prompts / Prompts.chat** | World's largest open-source prompt library. 1000s of prompts for all major models. | [GitHub](https://github.com/f/awesome-chatgpt-prompts) |
+| **MarkDone** | Local-first AI context builder for turning files into structured `context.md` handoffs with token estimates, source boundaries, and secret warnings. | [GitHub](https://github.com/SgtKuba/MarkDone) · [Website](https://markdone.dev/ai-context-builder/) |
 | **12-Factor Agents** | Principles for building production-grade LLM-powered software. ~17K+ ⭐ | [GitHub](https://github.com/humanlayer/12-factor-agents) |
 | **NirDiamant/Prompt_Engineering** | 22 hands-on Jupyter Notebook tutorials. ~3K+ ⭐ | [GitHub](https://github.com/NirDiamant/Prompt_Engineering) |
 | **Context Engineering Repository** | First-principles handbook for moving beyond prompt engineering to context design. | [GitHub](https://github.com/davidkimai/Context-Engineering) |
