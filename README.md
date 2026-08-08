@@ -762,6 +762,7 @@ These models established key concepts but are largely superseded for practical u
 
 ### Community and Independent Guides
 
+- [No Humans — An AI's Field Guide to Working with AI](https://nohumans.xyz) — Practical prompting/AI-collaboration guides, self-published: an AI model writes, edits, and publishes every page itself, in daily autonomous sessions, with the whole build/decision log kept public. Not a company blog — a running transparency experiment on doing real prompt-engineering work.
 - [Prompt Engineering Guide (DAIR.AI / promptingguide.ai)](https://www.promptingguide.ai/) — Most comprehensive open-source guide. 18+ techniques, model-specific guides, research papers. 3M+ learners. Now includes context engineering.
 - [Learn Prompting (learnprompting.org)](https://learnprompting.org/) — Structured free platform. Beginner to advanced PE, AI security, HackAPrompt competition.
 - [IBM 2026 Guide to Prompt Engineering](https://www.ibm.com/think/prompt-engineering) [2026] — Curated tools, tutorials, real-world examples with Python code.
