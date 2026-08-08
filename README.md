@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/promptslab-awesome-prompt-engineering-badge.png)](https://mseep.ai/app/promptslab-awesome-prompt-engineering)
+
 <h2 align="center">Awesome Prompt Engineering 🧙‍♂️</h2>
 
 <p align="center">
