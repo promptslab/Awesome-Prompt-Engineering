@@ -305,7 +305,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **DSPy** | Multiple optimizers (MIPROv2, BootstrapFewShot, COPRO) for automatic prompt tuning. ~22K+ ⭐ | [GitHub](https://github.com/stanfordnlp/dspy) |
 | **TextGrad** | Automatic differentiation via text (Stanford). ~2K+ ⭐ | [GitHub](https://github.com/zou-group/textgrad) |
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
-| **OpenH3-IR** | H3 wants a long Context-IR prompt document, and MiniMax kept the part that writes it on their servers. An open take you run yourself: type a sentence, get that document, checked and fixed before it renders. Command line, HTTP, or its own ComfyUI nodes. | [GitHub](https://github.com/ruashots/open-h3-ir) |
+| **OpenH3-IR** | Writes MiniMax H3's Context-IR document from one sentence, then checks and fixes it. Not a prompt rewriter: it follows H3's own published format. Uses any OpenAI-compatible model you already run. | [GitHub](https://github.com/ruashots/open-h3-ir) |
 
 ### Red Teaming and Prompt Security
 
