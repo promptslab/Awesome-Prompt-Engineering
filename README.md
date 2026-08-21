@@ -305,6 +305,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **DSPy** | Multiple optimizers (MIPROv2, BootstrapFewShot, COPRO) for automatic prompt tuning. ~22K+ ⭐ | [GitHub](https://github.com/stanfordnlp/dspy) |
 | **TextGrad** | Automatic differentiation via text (Stanford). ~2K+ ⭐ | [GitHub](https://github.com/zou-group/textgrad) |
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
+| **Omni-Rewriter** | Agentic prompt-expansion harness for image/video generation: schema → validate → bounded repair → dialect render (H3/Seedance/Seedream/Qwen-Image). Expand ≠ generate. | [GitHub](https://github.com/WayneJin0918/Omni-Rewriter) |
 
 ### Red Teaming and Prompt Security
 
