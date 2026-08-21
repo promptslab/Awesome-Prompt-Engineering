@@ -321,6 +321,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **GPTFuzz** | Automated jailbreak template generation achieving >90% success rates. | [GitHub](https://github.com/sherdencooper/GPTFuzz) |
 | **Rebuff** | Open-source tool for detection and prevention of prompt injection. | [GitHub](https://github.com/protectai/rebuff) |
 | **AgentSeal** | "Open-source scanner that runs 150 attack probes to test AI agents for prompt injection and extraction vulnerabilities." | [GitHub](https://github.com/agentseal/agentseal) |
+| **Sentinel AI** | Real-time safety guardrails for LLM applications. Detects prompt injection attacks (12 languages), PII leaks, harmful content, and obfuscation evasion techniques. Sub-millisecond latency, zero ML dependencies. | [GitHub](https://github.com/MaxwellCalkin/sentinel-ai) |
 
 ### MCP (Model Context Protocol)
 
