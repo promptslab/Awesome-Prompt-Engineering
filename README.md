@@ -761,6 +761,7 @@ These models established key concepts but are largely superseded for practical u
 - [Microsoft Prompt Engineering in Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering) — Tool calling, function design, few-shot prompting, prompt chaining.
 
 ### Community and Independent Guides
+- [PromptZone (promptzone.com)](https://promptzone.com/) — Community & publication for prompt engineering: practitioner guides, LLM comparisons, and AI-tool workflows. Free, built on open-source Forem.
 
 - [Prompt Engineering Guide (DAIR.AI / promptingguide.ai)](https://www.promptingguide.ai/) — Most comprehensive open-source guide. 18+ techniques, model-specific guides, research papers. 3M+ learners. Now includes context engineering.
 - [Learn Prompting (learnprompting.org)](https://learnprompting.org/) — Structured free platform. Beginner to advanced PE, AI security, HackAPrompt competition.
