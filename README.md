@@ -241,6 +241,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **Promptfoo** | Open-source CLI for testing, evaluating, and red-teaming LLM prompts. YAML configs, CI/CD integration, adversarial testing. ~9K+ ⭐ | [GitHub](https://github.com/promptfoo/promptfoo) |
 | **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[Github]](https://github.com/promptslab/Promptify) |
 | **Agenta** | Open-source LLM developer platform for prompt management, evaluation, human feedback, and deployment. | [GitHub](https://github.com/Agenta-AI/agenta) |
+| **PromptEval** | End-to-end prompt quality platform: diagnostic scoring (0–100), surgical optimization, A/B testing, and versioned library — everything to ship prompts that don't break in production. | [Website](https://prompt-eval.com/en) |
 | **PromptLayer** | Version, test, and monitor every prompt and agent with robust evals, tracing, and regression sets. | [Website](https://promptlayer.com/) |
 | **Helicone** | Production prompt monitoring and optimization platform. | [Website](https://helicone.ai/) |
 | **LangGPT** | Framework for structured and meta-prompt design. 10K+ ⭐ | [GitHub](https://github.com/langgpt/LangGPT) |
