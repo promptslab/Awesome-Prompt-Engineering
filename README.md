@@ -776,6 +776,9 @@ These models established key concepts but are largely superseded for practical u
 - [DALLE Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book) — Visual guide for text-to-image prompting.
 - [Best 100+ Stable Diffusion Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts) — Community-curated image generation prompts.
 - [Vibe Engineering (Manning)](https://www.manning.com/books/vibe-engineering) — Book by Tomasz Lelek & Artur Skowronski on building software through natural language prompts.
+- [Eugene Yan: Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/) [2023–2025] — Production-grade patterns: evals, RAG, fine-tuning, caching, guardrails, defensive UX. Continuously cited reference for shipping LLM apps.
+- [Chip Huyen: Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html) [2023] — End-to-end engineering guide covering prompt iteration, cost/latency trade-offs, RAG, fine-tuning, and the production pipeline.
+- [AI-Native Engagement Playbook](https://ai-native-agency.com/playbook) [2026] — Practical playbook for scoping, prompting, and operating production AI builds: 3-phase delivery, prompt management cadence, eval harness setup, and governance controls.
 
 ---
 
