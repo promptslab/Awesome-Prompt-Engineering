@@ -249,6 +249,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **Promptotype** | Platform for developing, testing, and managing structured LLM prompts. | [Website](https://www.promptotype.io) |
 | **PromptPanda** | AI-powered prompt management system for streamlining prompt workflows. | [Website](https://promptpanda.io) |
 | **Promptimize AI** | Browser extension to automatically improve user prompts for any AI model. | [Website](https://promptimize.ai) |
+| **prompt-defense-audit** | Deterministic system prompt defense scanner — checks 12 attack vectors (OWASP LLM Top 10) using pure regex. <5ms, zero deps, npm CLI. | [GitHub](https://github.com/ppcvote/prompt-defense-audit) |
 | **PROMPTMETHEUS** | Web-based "Prompt Engineering IDE" for iteratively creating and running prompts. | [Website](https://promptmetheus.com) |
 | **Better Prompt** | Test suite for LLM prompts before pushing to production. | [GitHub](https://github.com/krrishdholakia/betterprompt) |
 | **OpenPrompt** | Open-source framework for prompt-learning research. | [GitHub](https://github.com/thunlp/OpenPrompt) |
