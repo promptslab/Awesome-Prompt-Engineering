@@ -250,6 +250,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **PromptPanda** | AI-powered prompt management system for streamlining prompt workflows. | [Website](https://promptpanda.io) |
 | **Promptimize AI** | Browser extension to automatically improve user prompts for any AI model. | [Website](https://promptimize.ai) |
 | **PROMPTMETHEUS** | Web-based "Prompt Engineering IDE" for iteratively creating and running prompts. | [Website](https://promptmetheus.com) |
+| **Prompt Optimizer** | Desktop app (Windows/Tauri) that rewrites a raw prompt into 5 target formats for Claude & Gemini, with on-device PII anonymization before the model call. MIT, bring-your-own-key. | [GitHub](https://github.com/CalvinTTooS/prompt-optimizer) |
 | **Better Prompt** | Test suite for LLM prompts before pushing to production. | [GitHub](https://github.com/krrishdholakia/betterprompt) |
 | **OpenPrompt** | Open-source framework for prompt-learning research. | [GitHub](https://github.com/thunlp/OpenPrompt) |
 | **Prompt Source** | Toolkit for creating, sharing, and using natural language prompts. | [GitHub](https://github.com/bigscience-workshop/promptsource) |
@@ -305,7 +306,6 @@ These papers established the core concepts that modern prompt engineering builds
 | **DSPy** | Multiple optimizers (MIPROv2, BootstrapFewShot, COPRO) for automatic prompt tuning. ~22K+ ⭐ | [GitHub](https://github.com/stanfordnlp/dspy) |
 | **TextGrad** | Automatic differentiation via text (Stanford). ~2K+ ⭐ | [GitHub](https://github.com/zou-group/textgrad) |
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
-| **Prompt Optimizer** | Desktop app (Windows/Tauri) that rewrites a raw prompt into 5 target formats for Claude & Gemini, with on-device PII anonymization before the model call. MIT, bring-your-own-key. | [GitHub](https://github.com/CalvinTTooS/prompt-optimizer) |
 
 ### Red Teaming and Prompt Security
 
