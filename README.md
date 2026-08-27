@@ -979,3 +979,4 @@ Thank you for your interest in contributing to this project!
 <p align="center">
   <sub>Maintained by <a href="https://promptslab.github.io">PromptsLab</a> · <a href="https://github.com/promptslab/Awesome-Prompt-Engineering">Star this repo</a> if you find it useful!</sub>
 </p>
+- [Para-Inc Prompt Library](https://github.com/OmarAlshoaiby/prompt-library) — free, import-ready AI-automation resource.
