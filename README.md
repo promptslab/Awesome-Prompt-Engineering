@@ -335,6 +335,7 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 | **Awesome MCP Servers** | Curated list of 10,000+ community MCP servers. ~30K+ ⭐ | [GitHub](https://github.com/punkpeye/awesome-mcp-servers) |
 | **Context7** | MCP server providing version-specific documentation to reduce code hallucination. | [GitHub](https://github.com/upstash/context7) |
 | **GitMCP** | Creates remote MCP servers for any GitHub repo by changing the domain. | [Website](https://gitmcp.io/) |
+| **SandBase CLI** | Open-source command-line MCP bridge for accessing 2,000+ AI models through one interface. | [GitHub](https://github.com/sandbaseai/cli) |
 | **MCP Inspector** | Visual testing tool for MCP server development. | [GitHub](https://github.com/modelcontextprotocol/inspector) |
 
 ### Vibe Coding and AI Coding Assistants
