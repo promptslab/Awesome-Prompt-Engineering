@@ -355,6 +355,7 @@ Terminal-native agentic tools that understand your codebase and execute multi-st
 | **OpenCode** | Powerful open-source AI coding agent with beautiful TUI; supports nearly all AI model providers. ~120K+ ⭐ | 🟢 | [GitHub](https://github.com/opencode-ai/opencode) |
 | **Goose** | Extensible open-source AI agent from Block (Square/Cash App); installs, executes, edits, and tests with any LLM. ~29K+ ⭐ | 🟢 | [GitHub](https://github.com/block/goose) |
 | **Crush** | Glamorous agentic coding agent from Charmbracelet with multi-model support, LSP integration, and beautiful terminal UI. ~9K+ ⭐ | 🟢 | [GitHub](https://github.com/charmbracelet/crush) |
+| **Tura** | Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it. | 🟢 | [GitHub](https://github.com/Tura-AI/tura) |
 | **Amazon Q Developer CLI** | Agentic chat experience in terminal from AWS; transitioning to Kiro CLI. | 🟣 | [GitHub](https://github.com/aws/amazon-q-developer-cli) |
 | **Amp** | Sourcegraph's agentic coding tool (Cody successor); works across CLI and IDE. | 🔵 | [Website](https://ampcode.com) |
 | **Junie CLI** | JetBrains' LLM-agnostic coding agent CLI (beta 2026); supports all major model providers. | 🔵 | [Website](https://www.jetbrains.com/junie/) |
