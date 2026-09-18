@@ -233,6 +233,7 @@ These papers established the core concepts that modern prompt engineering builds
 
 ## Tools and Code
 🔧
+- [Consensus Engine](https://github.com/MICONNM/consensus-engine-py) - Ask one question to 11 frontier LLMs in parallel, get a synthesized consensus answer with confidence score. Open-source Python SDK + free public API.
 
 ### Prompt Management and Testing
 
