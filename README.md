@@ -843,7 +843,7 @@ These models established key concepts but are largely superseded for practical u
 
 <!-- AUTORESEARCH-START -->
 ## 🔬 Autonomous Research & Self-Improving Agents
-> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-09-20
+> Auto-synced from [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) · Last synced: 2026-09-21
 
 ### General-Purpose Descendants
 
@@ -879,11 +879,13 @@ These models established key concepts but are largely superseded for practical u
 ### Research-Agent Systems
 
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) — End-to-end research pipeline that turns a topic into literature review, experiments, analysis, peer review, and paper drafts; broader than autoresearch, but clearly in the same lineage.
+- [OpenLAIR/dr-claw](https://github.com/OpenLAIR/dr-claw) — Open-source research workspace with sequential idea-to-paper pipelines and integrated autoresearch tool packs.
 - [OpenRaiser/NanoResearch](https://github.com/OpenRaiser/NanoResearch) — End-to-end autonomous research engine that plans experiments, generates code, runs jobs locally or on SLURM, analyzes real results, and writes papers grounded in those outputs.
 - [kaust-ark/ARK](https://github.com/kaust-ark/ARK) — **ARK (Automatic Research Kit)**: idea + venue → paper pipeline orchestrating 6 agents — proposal analysis, literature search, Slurm experiments, LaTeX drafting, iterative peer review. Controlled via CLI, web dashboard, or Telegram.
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) — Markdown-first research workflows for Claude Code and other agents, centered on autonomous literature review, experiments, paper iteration, and cross-model critique.
 - [skyllwt/AutoSci](https://github.com/skyllwt/AutoSci) — Wiki-centric full-lifecycle research platform built on Claude Code, realizing Karpathy's LLM-Wiki vision. 20+ skills cover the full loop: ingest → ideate → novelty check → experiment design / run / eval → paper writing. Research state lives in a structured knowledge wiki with an interactive graph.
 - [Sibyl-Research-Team/AutoResearch-SibylSystem](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) — Fully autonomous AI scientist built on Claude Code, with explicit AutoResearch lineage, multi-agent research iteration, GPU experiment execution, and a self-evolving outer loop.
+- [wjc2830/Easy-AutoResearch-for-DeepLearning](https://github.com/wjc2830/Easy-AutoResearch-for-DeepLearning) — Claude Code skill that runs an autoresearch-style, human-gated deep-learning loop across six roles, versioned experiments, and evidence-checked completion.
 - [eimenhmdt/autoresearcher](https://github.com/eimenhmdt/autoresearcher) — Early open-source package for automating scientific workflows, currently centered on literature-review generation with an ambition toward broader autonomous research.
 - [hyperspaceai/agi](https://github.com/hyperspaceai/agi) — Distributed, peer-to-peer research network where autonomous agents run experiments, gossip findings, maintain CRDT leaderboards, and archive results to GitHub across multiple research domains.
 - [Human-Agent-Society/CORAL](https://github.com/Human-Agent-Society/CORAL) — **CORAL**: Autonomous multi-agent evolution for open-ended discovery ([arXiv:2604.01658](https://arxiv.org/abs/2604.01658)). Long-running agents with shared persistent memory, asynchronous execution, and heartbeat-based interventions; SOTA on 10 math/algorithmic/systems tasks.
