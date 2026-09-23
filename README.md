@@ -272,6 +272,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **InspectAI** | Purpose-built for evaluating agents against benchmarks (UK AISI). | [GitHub](https://github.com/UKGovernmentBEIS/inspect_ai) |
 | **Opik** | Evaluate, test, and ship LLM applications across dev and production lifecycles. | [GitHub](https://github.com/comet-ml/opik) |
 | **EvalView** | CLI tool for testing multi-step AI agents with YAML test cases, regression detection, and production monitoring. |[GitHub](https://github.com/hidai25/eval-view) |
+| **silentdrop-llm** | Zero-dep MIT TypeScript runtime guard for the silent failure modes of LLM/agent JSON outputs — missing required fields, enum drift, hallucinated IDs that look syntactically valid, claim-vs-list mismatches. Fail loudly per-call before downstream code consumes wrong state. | [GitHub](https://github.com/sravan27/silentdrop-llm) |
 
 ### Agent Frameworks
 
