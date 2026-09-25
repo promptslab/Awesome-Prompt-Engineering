@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0b0f14">
+<title>PEHO Holon Prompt Builder</title>
+<style>
+:root{--bg:#0b0f14;--p:#121820;--p2:#0a0e13;--line:#2b3642;--t:#eef4fa;--m:#8d9baa;--a:#7dd3fc;--g:#a7f3d0;--r:#fda4af}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}.wrap{max-width:1400px;margin:auto;padding:18px}.top{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-bottom:16px}h1{font-size:23px;margin:0 0 4px}.sub{font-size:12px;color:var(--m)}.ready{font-size:11px;color:var(--g);border:1px solid #295647;padding:7px 10px;border-radius:999px}.grid{display:grid;grid-template-columns:minmax(320px,.85fr) minmax(480px,1.25fr);gap:14px}.card{background:var(--p);border:1px solid var(--line);border-radius:15px;overflow:hidden}.head{padding:14px 16px;border-bottom:1px solid var(--line);font-weight:700;font-size:13px}.body{padding:16px}label{display:block;font-size:11px;font-weight:700;color:#cbd5e1;margin:0 0 6px}.field{margin-bottom:13px}textarea,input,select{width:100%;border:1px solid var(--line);background:#080c10;color:var(--t);border-radius:10px;padding:11px;font:inherit;outline:none}textarea{min-height:150px;resize:vertical;line-height:1.5}textarea.small{min-height:76px}input,select{height:41px}.two{display:grid;grid-template-columns:1fr 1fr;gap:10px}.buttons{display:flex;gap:8px;flex-wrap:wrap}button{border:1px solid var(--line);background:#18202a;color:var(--t);padding:10px 13px;border-radius:10px;font-weight:700;font-size:12px}button.primary{border-color:#3f748a;background:#13242c}.msg{min-height:16px;margin-top:10px;font-size:11px;color:var(--g)}#out{width:100%;min-height:720px;height:calc(100vh - 180px);border:0;border-radius:0;background:var(--p2);font-family:Menlo,Consolas,monospace;font-size:12px;line-height:1.55;padding:16px}.bar{padding:10px 12px;border-top:1px solid var(--line);display:flex;justify-content:space-between;align-items:center;gap:10px}.count{font-size:10px;color:var(--m)}@media(max-width:900px){.grid{grid-template-columns:1fr}.two{grid-template-columns:1fr}#out{height:650px}.top{align-items:flex-start;flex-direction:column}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="top"><div><h1>PEHO Holon Prompt Builder</h1><div class="sub">Intent → Knowledge Map → Ontology → Holarchy → Execution → Independent Verification</div></div><div class="ready">ENGINE READY · PEHO-HP/1.2</div></div>
+<div class="grid">
+<section class="card"><div class="head">Mission Compiler</div><div class="body">
+<div class="field"><label>What do you want the agent to accomplish?</label><textarea id="mission" placeholder="Example: Build a local MCP server that inspects an app, runs tests, repairs failures, and certifies completion with evidence."></textarea></div>
+<div class="two"><div class="field"><label>Execution rigor</label><select id="rigor"><option>STANDARD</option><option>STRICT</option><option>COMPACT</option></select></div><div class="field"><label>Autonomy</label><select id="autonomy"><option>BOUNDED</option><option>HIGH</option><option>SUPERVISED</option></select></div></div>
+<div class="field"><label>Known constraints</label><textarea class="small" id="constraints" placeholder="Optional"></textarea></div>
+<div class="field"><label>Evidence / source of truth</label><textarea class="small" id="evidence" placeholder="Optional: repository, logs, specification, screenshots, tests..."></textarea></div>
+<div class="two"><div class="field"><label>Primary output</label><input id="artifact" placeholder="Optional"></div><div class="field"><label>Max repair cycles</label><select id="repairs"><option>1</option><option>2</option><option selected>3</option><option>5</option></select></div></div>
+<div class="buttons"><button class="primary" onclick="generatePEHO()">Generate PEHO Prompt</button><button onclick="examplePEHO()">Load Example</button><button onclick="clearPEHO()">Clear</button></div><div id="msg" class="msg">Enter a mission and generate.</div>
+</div></section>
+<section class="card"><div class="head">Compiled Model-Agnostic Holon Prompt</div><textarea id="out" readonly placeholder="Your PEHO prompt will appear here."></textarea><div class="bar"><div class="buttons"><button onclick="copyPEHO()">Copy</button><button onclick="downloadPEHO()">Download .txt</button></div><span id="count" class="count">0 chars</span></div></section>
+</div></div>
+<script>
+function v(id){return document.getElementById(id)}
+function clean(x){return String(x||'').replace(/^\s+|\s+$/g,'')}
+function sec(t,b){return '## '+t+'\n'+b}
+function generatePEHO(){
+ try{
+  var mission=clean(v('mission').value);if(!mission){v('msg').style.color='var(--r)';v('msg').textContent='Enter a mission first.';return}
+  var rigor=v('rigor').value,aut=v('autonomy').value,rep=v('repairs').value;
+  var constraints=clean(v('constraints').value)||'[TBD — no explicit constraints supplied; derive only from evidence and surface unsupported necessities]';
+  var evidence=clean(v('evidence').value)||'[No explicit evidence supplied — discover available evidence before making decision-relevant claims]';
+  var artifact=clean(v('artifact').value)||'[DERIVED — determine the minimum artifact set required to satisfy the mission]';
+  var autonomyText=aut==='HIGH'?'Act autonomously within explicit authority and competence boundaries; escalate prohibited actions, irreducible ambiguity, missing mandatory capability, or hard blockers.':aut==='SUPERVISED'?'Prepare, implement reversible work, and verify autonomously, but stop before externally committing or consequential actions unless already authorized.':'Act autonomously inside the mission, evidence, constraints, authority, competence, and available tools; escalate when a boundary is exceeded.';
+  var parts=[];
+  parts.push('# PEHO HOLON EXECUTION CONTRACT\nProtocol: PEHO-HP/1.2\nRuntime target: model-agnostic\nExecution rigor: '+rigor+'\n\n## MISSION\n'+mission+'\n\n## PRIMARY OUTPUT\n'+artifact+'\n\n## KNOWN CONSTRAINTS\n'+constraints+'\n\n## AVAILABLE EVIDENCE / SOURCE OF TRUTH\n'+evidence);
+  parts.push(sec('EVIDENCE CONTROL',[
+   'Treat supplied evidence and directly observed runtime/tool results as the source of truth.',
+   '',
+   'Classify decision-relevant information as CONFIRMED, DERIVED, ASSUMPTION, CONFLICT, TBD, or NOT APPLICABLE.',
+   'Never invent facts, roles, rules, metrics, interfaces, targets, artifacts, tool access, test results, file contents, system state, or acceptance evidence.',
+   'Ask only blocking questions that cannot be resolved from evidence or available tools. Otherwise proceed and expose the gap.'
+  ].join('\n')));
+  parts.push(sec('KNOWLEDGE MAP HOLON',[
+   'Purpose: determine what must be known before execution and how deeply it must be known.',
+   'Build a bounded knowledge map containing required knowledge nodes, dependencies, epistemic status, evidence/provenance requirements, missing knowledge, responsible holon, and an explicit completion rule.',
+   'Use semantic granularity, domain coverage, evidence strength, freshness, provenance quality, relational/causal depth, and operational precision where relevant.',
+   'Research stops when the node completion rule is met. Model confidence is not evidence.'
+  ].join('\n\n')));
+  parts.push(sec('ONTOLOGY / WORLD MODEL HOLON',[
+   'Establish the minimum semantic and state model required for correct execution.',
+   'Define relevant canonical entities/classes, relations, actors, ownership, authority, states, state transitions, inputs, outputs, artifacts, interfaces, contracts, constraints, invariants, and terminology.',
+   'Remain implementation-neutral unless the mission or evidence fixes an implementation. Unsupported necessities remain ASSUMPTION or TBD.'
+  ].join('\n\n')));
+  parts.push(sec('HOLARCHY / CONTROL MODEL',[
+   'Operate as a Persistent Elastic Holonic Orchestrator (PEHO). A holon is simultaneously a bounded whole locally and a part of the larger mission globally.',
+   'Compile the smallest sufficient holarchy. Every holon declares identity, purpose, boundary, authority, canon/invariants, competence, inputs, outputs, dependencies, completion rule, and escalation target.',
+   'Control invariants: canon overrides strategy; child authority cannot exceed delegated authority; solve locally inside competence; escalate rather than repeatedly improvise outside competence/evidence/capability; refine goals downward; return bounded evidence upward; prefer deterministic lower-level behavior; propagate failure only through explicit dependencies; topology may reconfigure without violating invariants; producer cannot be sole verifier.',
+   'Autonomy policy: '+autonomyText,
+   'Minimum logical roles: Orchestrator Holon; Intent/Scope Holon; Knowledge Map Holon; Ontology/World Model Holon; Domain Execution Holon(s); Independent Verification Holon. Add specialists only for real competence, failure-isolation, or verification-independence boundaries.'
+  ].join('\n\n')));
+  parts.push(sec('EXECUTION PROTOCOL',[
+   '1. Convert the mission into objective end-state acceptance conditions.',
+   '2. Decompose only until leaf work is executable and independently verifiable.',
+   '3. Resolve dependencies in order; parallelize only genuinely independent branches.',
+   '4. Allocate each leaf task to a holon whose authority and competence cover it.',
+   '5. Execute against real artifacts/systems when access exists.',
+   '6. Capture observable evidence immediately after consequential actions.',
+   '7. Return bounded results to the parent holon.',
+   '8. Run independent verification.',
+   '9. Repair failed acceptance conditions and re-verify for at most '+rep+' cycle(s).',
+   '10. Stop only at a valid terminal state.',
+   '',
+   'Do not stop at a plan, scaffold, recommendation, or self-reported success when the mission asks for an implemented result and the runtime can implement it.'
+  ].join('\n')));
+  parts.push(sec('INDEPENDENT VERIFICATION HOLON',[
+   'Define acceptance conditions before final completion and map each to observable evidence.',
+   'Prefer direct inspection, deterministic tests, execution results, schema validation, or reproducible demonstrations.',
+   'Verify critical interfaces and relevant failure/recovery paths; detect assumptions that silently became facts; reject unsupported completion claims; return precise defects; re-run verification after repair.',
+   'Valid terminal states: VERIFIED_COMPLETE | PARTIAL_WITH_GAPS | BLOCKED | FAILED.'
+  ].join('\n\n')));
+  parts.push(sec('MODEL / RUNTIME COMPATIBILITY',[
+   'This contract is provider-neutral. Do not depend on vendor-specific prompt syntax, hidden reasoning format, agent API, model name, or tool protocol.',
+   'Multi-agent runtime: instantiate holons with isolated responsibilities and typed handoffs.',
+   'Single-model runtime: emulate holons sequentially as role-isolated phases while preserving each phase input/output, canon, authority, and verification boundary.',
+   'Tool-enabled runtime: use only required tools and capture observable outputs. If a required tool/capability is unavailable, mark BLOCKED and never fabricate execution.',
+   'Never claim access to files, network, credentials, APIs, systems, or actions that are not actually available.'
+  ].join('\n\n')));
+  parts.push(sec('REQUIRED FINAL RESPONSE',[
+   'Return: mission status; holarchy actually used; artifacts/actions produced; verification performed and observable evidence; assumptions/conflicts/unresolved gaps; blocked capability or authority boundaries; final state.',
+   'Do not expose private chain-of-thought. Provide decisions, structured rationale, evidence, and verification results.'
+  ].join('\n\n')));
+  var out=parts.join('\n\n---\n\n');v('out').value=out;v('count').textContent=out.length+' chars';v('msg').style.color='var(--g)';v('msg').textContent='PEHO prompt generated successfully.';
+ }catch(e){v('msg').style.color='var(--r)';v('msg').textContent='Compiler error: '+e.message}
+}
+function examplePEHO(){v('mission').value='Build a local MCP server that lets an AI coding agent inspect an existing application, modify files in a sandbox, run the real test suite, repair failures, and certify completion only when independent verification passes.';v('constraints').value='Local-first. Preserve existing interfaces unless evidence requires change. No fabricated tests or tool results.';v('evidence').value='Existing repository, source files, test suite, runtime logs, and command outputs are the source of truth.';v('artifact').value='Working MCP server implementation plus verification evidence';v('rigor').value='STRICT';generatePEHO()}
+function clearPEHO(){['mission','constraints','evidence','artifact','out'].forEach(function(x){v(x).value=''});v('count').textContent='0 chars';v('msg').textContent='Cleared.'}
+function copyPEHO(){var t=v('out').value;if(!t){v('msg').textContent='Generate a prompt first.';return}if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(function(){v('msg').textContent='Prompt copied.'})}else{v('out').select();document.execCommand('copy');v('msg').textContent='Prompt copied.'}}
+function downloadPEHO(){var t=v('out').value;if(!t){v('msg').textContent='Generate a prompt first.';return}var b=new Blob([t],{type:'text/plain;charset=utf-8'}),u=URL.createObjectURL(b),a=document.createElement('a');a.href=u;a.download='peho-holon-prompt.txt';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(u)},500)}
+</script>
+</body>
+</html>
