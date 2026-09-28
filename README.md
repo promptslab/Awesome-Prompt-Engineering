@@ -434,6 +434,7 @@ Frameworks and research projects for building autonomous coding agents.
 | **12-Factor Agents** | Principles for building production-grade LLM-powered software. ~17K+ ⭐ | [GitHub](https://github.com/humanlayer/12-factor-agents) |
 | **NirDiamant/Prompt_Engineering** | 22 hands-on Jupyter Notebook tutorials. ~3K+ ⭐ | [GitHub](https://github.com/NirDiamant/Prompt_Engineering) |
 | **Context Engineering Repository** | First-principles handbook for moving beyond prompt engineering to context design. | [GitHub](https://github.com/davidkimai/Context-Engineering) |
+| **CLAUDE.md That Works** | Framework-agnostic instruction file for disciplined AI coding sessions — encodes operating modes, hard stops, verification framework, and scope control to prevent common LLM coding pitfalls. Works with Claude Code, OpenCode, and other instruction-file tools. | [GitHub](https://github.com/zeljkoavramovic/karpathy-bernstein-avramovic) |
 | **AI Agent System Prompts Library** | Collection of system prompts from production AI coding agents (Claude Code, Gemini CLI, Cline, Aider, Roo Code). | [GitHub](https://github.com/tallesborges/agentic-system-prompts) |
 | **Awesome Vibe Coding** | Curated list of 245+ tools and resources for building software through natural language prompts. | [GitHub](https://github.com/taskade/awesome-vibe-coding) |
 | **OpenAI Cookbook** | Official recipes for prompts, tools, RAG, and evaluations. | [GitHub](https://github.com/openai/openai-cookbook) |
