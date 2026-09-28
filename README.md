@@ -650,6 +650,7 @@ These models established key concepts but are largely superseded for practical u
 
 | Name | Description | Link |
 |:-----|:-----------|:----:|
+| **Avoid AI Writing** | Open-source Claude Code skill that detects 34 categories of AI writing patterns and rewrites text to remove them. Uses tiered vocabulary (103 entries), severity levels, and content-type profiles. | [GitHub](https://github.com/conorbronsdon/avoid-ai-writing) |
 | **Binoculars** | Open-source research detector using cross-perplexity between two LLMs. | [arXiv](https://arxiv.org/abs/2401.12070) |
 | **DetectGPT / Fast-DetectGPT** | Statistical method comparing log-probabilities of original text vs. perturbations. | [arXiv](https://arxiv.org/abs/2301.11305) |
 | **Openai Detector** | AI classifier for indicating AI-written text (OpenAI Detector Python wrapper)  | [[GitHub]](https://github.com/promptslab/openai-detector) |
