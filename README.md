@@ -153,6 +153,7 @@ New to prompt engineering? Follow this path:
 - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770) [2023, ICLR 2024] — The benchmark driving agentic coding progress.
 - [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688) [2023, ICLR 2024] — Benchmark across 8 environments.
 - [PAL: Program-aided Language Models](https://arxiv.org/abs/2211.10435) [2023] — Offloading computation to code interpreters.
+- [Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime](https://www.preprints.org/manuscript/202603.1756/v2) [2026] — Frames the agent harness (the runtime loop wrapping tool execution and control) as Control, Agency, and Runtime (CAR); situates it in the arc from prompt to context to harness engineering and audits 63 harness-relevant works.
 
 ### Multimodal Prompting
 
