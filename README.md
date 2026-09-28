@@ -505,6 +505,7 @@ Available on 25+ cloud partners, Hugging Face, and inference APIs. [Llama](https
 | **Groq** | LPU hardware with ~300+ tokens/sec inference. | [Website](https://groq.com) |
 | **Fireworks AI** | Fast inference with HIPAA + SOC2 compliance. | [Website](https://fireworks.ai) |
 | **OpenRouter** | Unified API for 300+ models from all providers. | [Website](https://openrouter.ai) |
+| **Promptra** | OpenAI-compatible gateway aggregating Claude, GPT, Gemini, DeepSeek and other LLMs. Russian-market focus with ruble billing. | [Website](https://promptra.ru) |
 | **Cerebras** | Wafer-scale chips with best total response time. | [Website](https://cerebras.ai) |
 | **Perplexity AI** | Search-augmented API with citations. | [Website](https://perplexity.ai) |
 | **Amazon Bedrock** | Managed multi-model service with Claude, Llama, Mistral, Cohere. | [Website](https://aws.amazon.com/bedrock/) |
