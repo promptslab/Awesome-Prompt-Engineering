@@ -734,6 +734,7 @@ These models established key concepts but are largely superseded for practical u
 - [Microsoft Azure AI Fundamentals: Generative AI](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/) — Free learning path covering LLMs, prompts, agents, Azure OpenAI.
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) — Community-driven course covering transformers, fine-tuning, building reasoning models.
 - [Hugging Face AI Agents Course](https://huggingface.co/learn) — Agent theory to practice. 100K+ registered students.
+- [AI School: Prompt Patterns That Survive Production](https://lillytechsystems.com/ai-school/prompt-patterns-production/) — Free 8-lesson course on production prompt patterns: output contracts, failure-mode diagnosis, versioning and testing, and a pre-deploy checklist. No signup.
 
 ### Learn Prompting Courses
 
