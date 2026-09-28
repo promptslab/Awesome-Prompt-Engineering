@@ -766,6 +766,7 @@ These models established key concepts but are largely superseded for practical u
 - [Learn Prompting (learnprompting.org)](https://learnprompting.org/) — Structured free platform. Beginner to advanced PE, AI security, HackAPrompt competition.
 - [IBM 2026 Guide to Prompt Engineering](https://www.ibm.com/think/prompt-engineering) [2026] — Curated tools, tutorials, real-world examples with Python code.
 - [Anthropic Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) — 9-chapter Jupyter notebook course with hands-on exercises.
+- [The AI-Augmented Developer](https://plumbgoat.github.io/ai-dev-roadmap/) — Free skill tree of 36 skills across 6 tiers covering prompting, AI-assisted coding, agents/MCP, and shipping AI into production, with a mastery check and hands-on project per tier. Also available as a mind map or a two-track course curriculum.
 - [Lilian Weng's Prompt Engineering Guide](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) [2023] — Highly respected technical blog from OpenAI researcher.
 - [Google Prompt Engineering Guide (68-page PDF)](https://www.reddit.com/r/PromptEngineering/comments/1kggmh0/google_dropped_a_68page_prompt_engineering_guide/) [2025] — Internal-style best-practice guide for Gemini with concrete patterns.
 - [DigitalOcean: Prompt Engineering Best Practices](https://www.digitalocean.com/resources/articles/prompt-engineering-best-practices) [2025] — Updated guide summarizing techniques: few-shot, chain-of-thought, role prompting, etc.
