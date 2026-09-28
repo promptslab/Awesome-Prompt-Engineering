@@ -234,6 +234,8 @@ These papers established the core concepts that modern prompt engineering builds
 ## Tools and Code
 🔧
 
+- [Tokenometer](https://github.com/faraa2m/tokenometer) — LLM token cost + latency CLI + GitHub Action + VS Code extension + Claude Code skill. Multi-provider (Claude, GPT-4o, Gemini, Mistral, Cohere). Empirical mode, CI-native cost guardrail.
+
 ### Prompt Management and Testing
 
 | Name | Description | Link |
