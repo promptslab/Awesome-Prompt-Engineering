@@ -753,7 +753,7 @@ These models established key concepts but are largely superseded for practical u
 ### Official Provider Guides
 
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) — Comprehensive, covering GPT-4.1/5 prompting, reasoning models, structured outputs, agentic workflows. Continuously updated.
-- [OpenAI GPT-4.1 Prompting Guide](https://cookbook.openai.com/articles/gpt-4-1-prompting-guide) [2025] — Structured agent-like prompt design: goal persistence, tool integration, long-context processing.
+- [OpenAI GPT-4.1 Prompting Guide](https://cookbook.openai.com/articles/gpt-4-1-prompting-guide) (link dead) [2025] — Structured agent-like prompt design: goal persistence, tool integration, long-context processing. Replacement read: [GPT-6 doesn't answer questions anymore — it builds you tools](https://calder-brief.pages.dev/gpt-6-intelligent-ui.html).
 - [Anthropic Prompt Engineering Overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — Iterative prompt design, XML tags, chain-of-thought, role assignment. Includes prompt generator.
 - [Anthropic Claude 4 Best Practices](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices) [2025–2026] — Parallel tool execution, thinking capabilities, image processing.
 - [Anthropic: Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) [2025] — The evolution from prompt engineering to context engineering: agent state, memory, tools, MCP.
