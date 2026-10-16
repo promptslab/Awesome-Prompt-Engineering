@@ -446,6 +446,8 @@ Frameworks and research projects for building autonomous coding agents.
 
 ---
 
+- [STCO Prompt Builder](https://github.com/lukefryer1234/stco-prompt-builder) - A lightweight, type-safe builder for the STCO (System, Task, Context, Output) prompt engineering framework. Reduces AI hallucinations via deterministic prompt architecture. [NPM](https://www.npmjs.com/package/@lukefryer4/stco-prompt-builder)
+
 ## APIs
 💻
 
