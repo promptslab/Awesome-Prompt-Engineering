@@ -443,6 +443,7 @@ Frameworks and research projects for building autonomous coding agents.
 | **Price Per Token** | Compare LLM API pricing across 200+ models. | [Website](https://pricepertoken.com/) |
 | **OpenPaw** | CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant by generating system prompts (CLAUDE.md + SOUL.md) with personality, memory, and 38 skill routers. | [GitHub](https://github.com/daxaur/openpaw) |
 | **Think Better** | Open-source CLI that permanently injects 10 structured decision frameworks (MECE, Issue Trees, Pre-Mortems) and 12 cognitive bias detectors into AI assistant prompts. Go, MIT. | [GitHub](https://github.com/HoangTheQuyen/think-better) |
+| **Graph Engineering on Research** | Copy-paste multi-agent prompt templates (also a Claude Code plugin): parallel diamond research, adversarial review, Delphi consultant roundtables, self-dispatching issue trees. EN + 繁中, MIT. | [GitHub](https://github.com/InjayTseng/graph-engineering-on-research) |
 
 ---
 
