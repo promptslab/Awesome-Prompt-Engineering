@@ -776,6 +776,7 @@ These models established key concepts but are largely superseded for practical u
 - [DALLE Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book) — Visual guide for text-to-image prompting.
 - [Best 100+ Stable Diffusion Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts) — Community-curated image generation prompts.
 - [Vibe Engineering (Manning)](https://www.manning.com/books/vibe-engineering) — Book by Tomasz Lelek & Artur Skowronski on building software through natural language prompts.
+- [AI Engineer Notebooks](https://github.com/calmrocks/ai-engineer-notebooks) — Framework-free, hands-on Colab notebooks that teach prompting and structured output as an engineering discipline (few-shot, format specs, tool-forced JSON) plus prompt-injection and trust boundaries, all tied to an evals habit that catches cargo-cult prompting. Runs on the free Groq API.
 
 ---
 
