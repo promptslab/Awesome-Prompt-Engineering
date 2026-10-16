@@ -336,6 +336,7 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 | **Context7** | MCP server providing version-specific documentation to reduce code hallucination. | [GitHub](https://github.com/upstash/context7) |
 | **GitMCP** | Creates remote MCP servers for any GitHub repo by changing the domain. | [Website](https://gitmcp.io/) |
 | **MCP Inspector** | Visual testing tool for MCP server development. | [GitHub](https://github.com/modelcontextprotocol/inspector) |
+| **NotFair** | Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads ([seo](https://github.com/nowork-studio/NotFair/tree/main/seo), [google-ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [meta-ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads)); connects to live data through the Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. MIT. ~2.9K+ ⭐ | [GitHub](https://github.com/nowork-studio/NotFair) |
 
 ### Vibe Coding and AI Coding Assistants
 
