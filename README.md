@@ -440,6 +440,7 @@ Frameworks and research projects for building autonomous coding agents.
 | **Embedchain** | Framework to create ChatGPT-like bots over your dataset. | [GitHub](https://github.com/embedchain/embedchain) |
 | **ThoughtSource** | Framework for the science of machine thinking. | [GitHub](https://github.com/OpenBioLink/ThoughtSource) |
 | **Promptext** | Extracts and formats code context for AI prompts with token counting. | [GitHub](https://github.com/1broseidon/promptext) |
+| **Awesome AI Tokenomics** | Tools, research, and practices for measuring, monitoring, and optimizing token spend in LLM and agent workflows. 218 entries, each with a citation and date. | [GitHub](https://github.com/QuesmaOrg/awesome-ai-tokenomics) |
 | **Price Per Token** | Compare LLM API pricing across 200+ models. | [Website](https://pricepertoken.com/) |
 | **OpenPaw** | CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant by generating system prompts (CLAUDE.md + SOUL.md) with personality, memory, and 38 skill routers. | [GitHub](https://github.com/daxaur/openpaw) |
 | **Think Better** | Open-source CLI that permanently injects 10 structured decision frameworks (MECE, Issue Trees, Pre-Mortems) and 12 cognitive bias detectors into AI assistant prompts. Go, MIT. | [GitHub](https://github.com/HoangTheQuyen/think-better) |
