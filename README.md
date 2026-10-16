@@ -828,6 +828,7 @@ These models established key concepts but are largely superseded for practical u
 - [Hugging Face Community](https://huggingface.co/) — Hub for open-source AI collaboration.
 - [DeepLearning.AI Community](https://community.deeplearning.ai/) — Forum for learners discussing courses and AI careers.
 - [LessWrong](https://www.lesswrong.com/) — In-depth technical posts on AI capabilities and safety.
+- [Agents Launchpad](https://agents.duku.xyz) — Curated discovery hub for AI agents, prompt tools, and frameworks. Community-voted listings with daily updates and agent type taxonomy.
 - [AI Alignment Forum](https://www.alignmentforum.org/) — Specialized alignment research discussions.
 - [CivitAI](https://civitai.com/) — Generative AI creators platform for sharing models, LoRAs, and prompts.
 
