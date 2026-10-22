@@ -303,6 +303,7 @@ These papers established the core concepts that modern prompt engineering builds
 | Name | Description | Link |
 |:-----|:-----------|:----:|
 | **DSPy** | Multiple optimizers (MIPROv2, BootstrapFewShot, COPRO) for automatic prompt tuning. ~22K+ ⭐ | [GitHub](https://github.com/stanfordnlp/dspy) |
+| **God Of Prompt** | Open-source Codex Skill that turns a rough requirement into a visible six-part XML system prompt and executes it immediately; includes evidence-bounded technique selection and evaluation guidance. | [GitHub](https://github.com/DeAI1227/God-Of-Prompt) |
 | **TextGrad** | Automatic differentiation via text (Stanford). ~2K+ ⭐ | [GitHub](https://github.com/zou-group/textgrad) |
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
 
