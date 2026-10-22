@@ -164,6 +164,7 @@ New to prompt engineering? Follow this path:
 
 ### Structured Output and Format Control
 
+- [StructEval: Benchmarking LLMs’ Capabilities to Generate Structural Outputs](https://openreview.net/forum?id=buDwV7LUA7) [2025, TMLR] — Benchmarks generation and conversion across 2,035 examples, 18 text and renderable formats, and 44 task types with format-specific structural and visual checks.
 - [Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of LLMs](https://arxiv.org/abs/2408.02442) [2024] — Examines how constraining outputs to structured formats impacts reasoning performance.
 - [Batch Prompting: Efficient Inference with LLM APIs](https://arxiv.org/abs/2301.08721) [2023]
 - [Structured Prompting: Scaling In-Context Learning to 1,000 Examples](https://arxiv.org/abs/2212.06713) [2022]
