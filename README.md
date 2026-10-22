@@ -272,6 +272,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **InspectAI** | Purpose-built for evaluating agents against benchmarks (UK AISI). | [GitHub](https://github.com/UKGovernmentBEIS/inspect_ai) |
 | **Opik** | Evaluate, test, and ship LLM applications across dev and production lifecycles. | [GitHub](https://github.com/comet-ml/opik) |
 | **EvalView** | CLI tool for testing multi-step AI agents with YAML test cases, regression detection, and production monitoring. |[GitHub](https://github.com/hidai25/eval-view) |
+| **Prompt Evaluator** | Audit prompts and agent workflows for ambiguity, missing context, failure modes, and cost bloat. Scores across clarity, context, robustness, cost, and safety with concrete fix recommendations. | [Website](https://prompt-evaluator-eight.vercel.app/) |
 
 ### Agent Frameworks
 
