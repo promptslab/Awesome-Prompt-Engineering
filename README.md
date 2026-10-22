@@ -763,6 +763,7 @@ These models established key concepts but are largely superseded for practical u
 ### Community and Independent Guides
 
 - [Prompt Engineering Guide (DAIR.AI / promptingguide.ai)](https://www.promptingguide.ai/) — Most comprehensive open-source guide. 18+ techniques, model-specific guides, research papers. 3M+ learners. Now includes context engineering.
+- [Context Repository-Driven Development (CRDD)](https://github.com/qual-lab/CRDD) [2026] — Open-source methodology for keeping product intent, decisions, specifications, evidence, and traceability in a versioned repository so coding agents work from durable context under human approval.
 - [Learn Prompting (learnprompting.org)](https://learnprompting.org/) — Structured free platform. Beginner to advanced PE, AI security, HackAPrompt competition.
 - [IBM 2026 Guide to Prompt Engineering](https://www.ibm.com/think/prompt-engineering) [2026] — Curated tools, tutorials, real-world examples with Python code.
 - [Anthropic Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) — 9-chapter Jupyter notebook course with hands-on exercises.
