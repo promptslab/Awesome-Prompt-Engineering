@@ -272,6 +272,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **InspectAI** | Purpose-built for evaluating agents against benchmarks (UK AISI). | [GitHub](https://github.com/UKGovernmentBEIS/inspect_ai) |
 | **Opik** | Evaluate, test, and ship LLM applications across dev and production lifecycles. | [GitHub](https://github.com/comet-ml/opik) |
 | **EvalView** | CLI tool for testing multi-step AI agents with YAML test cases, regression detection, and production monitoring. |[GitHub](https://github.com/hidai25/eval-view) |
+| **Harness Evolver** | LangSmith-native autonomous agent optimization. Multi-agent proposers evolve prompts, routing, tools, and architecture in isolated git worktrees. | [GitHub](https://github.com/raphaelchristi/harness-evolver) |
 
 ### Agent Frameworks
 
