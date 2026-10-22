@@ -251,6 +251,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **Promptimize AI** | Browser extension to automatically improve user prompts for any AI model. | [Website](https://promptimize.ai) |
 | **PROMPTMETHEUS** | Web-based "Prompt Engineering IDE" for iteratively creating and running prompts. | [Website](https://promptmetheus.com) |
 | **Better Prompt** | Test suite for LLM prompts before pushing to production. | [GitHub](https://github.com/krrishdholakia/betterprompt) |
+| **Prompt-TDD Methodology** | A methodology casebook for controlled prompt engineering experiments with complete data, SOP, and analysis toolkit. Two real experiments with honest negative results. CC BY 4.0. | [GitHub](https://github.com/redamancy231-create/prompt-tdd-methodology) |
 | **OpenPrompt** | Open-source framework for prompt-learning research. | [GitHub](https://github.com/thunlp/OpenPrompt) |
 | **Prompt Source** | Toolkit for creating, sharing, and using natural language prompts. | [GitHub](https://github.com/bigscience-workshop/promptsource) |
 | **Prompt Engine** | NPM utility library for creating and maintaining prompts for LLMs (Microsoft). | [GitHub](https://github.com/microsoft/prompt-engine) |
