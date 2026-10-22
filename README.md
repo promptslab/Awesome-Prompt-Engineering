@@ -769,6 +769,7 @@ These models established key concepts but are largely superseded for practical u
 - [Lilian Weng's Prompt Engineering Guide](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) [2023] — Highly respected technical blog from OpenAI researcher.
 - [Google Prompt Engineering Guide (68-page PDF)](https://www.reddit.com/r/PromptEngineering/comments/1kggmh0/google_dropped_a_68page_prompt_engineering_guide/) [2025] — Internal-style best-practice guide for Gemini with concrete patterns.
 - [DigitalOcean: Prompt Engineering Best Practices](https://www.digitalocean.com/resources/articles/prompt-engineering-best-practices) [2025] — Updated guide summarizing techniques: few-shot, chain-of-thought, role prompting, etc.
+- [Falkster AI Agent Army](https://falkster.com/handbook/ai-agent-army) — 44 free AI agent blueprints for product managers: prompt, eval rubric, and ship-readiness gate with each. No signup.
 - [Aakash Gupta: Prompt Engineering in 2025](https://news.aakashg.com) [2025] — Practical guide with wisdom from shipping AI at OpenAI, Shopify, and Google.
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api) — OpenAI's introductory best practices.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) — Official recipes for function calling, RAG, evaluation, and complex workflows.
