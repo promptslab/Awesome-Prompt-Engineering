@@ -272,6 +272,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **InspectAI** | Purpose-built for evaluating agents against benchmarks (UK AISI). | [GitHub](https://github.com/UKGovernmentBEIS/inspect_ai) |
 | **Opik** | Evaluate, test, and ship LLM applications across dev and production lifecycles. | [GitHub](https://github.com/comet-ml/opik) |
 | **EvalView** | CLI tool for testing multi-step AI agents with YAML test cases, regression detection, and production monitoring. |[GitHub](https://github.com/hidai25/eval-view) |
+| **OrcaReplay** | Records a run at the HTTP boundary to the model provider, from outside the process, and replays it offline so prompt and agent changes can be regression-tested with no provider call and no tokens spent. | [GitHub](https://github.com/Continuum-AI-Corp/OrcaReplay) |
 
 ### Agent Frameworks
 
