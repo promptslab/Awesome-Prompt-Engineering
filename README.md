@@ -773,6 +773,7 @@ These models established key concepts but are largely superseded for practical u
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api) — OpenAI's introductory best practices.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) — Official recipes for function calling, RAG, evaluation, and complex workflows.
 - [Microsoft Prompt Engineering Docs](https://microsoft.github.io/prompt-engineering) — Microsoft's open prompt engineering resources.
+- [Protologue](https://protologue.com/) [2026] — Open (CC BY 4.0) taxonomy of 230+ prompting and LLM techniques, each with a citable definition, permanent ID and the primary source that introduced it. Downloadable as JSON, CSV and SKOS; also available as an MCP server.
 - [DALLE Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book) — Visual guide for text-to-image prompting.
 - [Best 100+ Stable Diffusion Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts) — Community-curated image generation prompts.
 - [Vibe Engineering (Manning)](https://www.manning.com/books/vibe-engineering) — Book by Tomasz Lelek & Artur Skowronski on building software through natural language prompts.
