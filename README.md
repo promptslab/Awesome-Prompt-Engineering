@@ -830,6 +830,7 @@ These models established key concepts but are largely superseded for practical u
 - [LessWrong](https://www.lesswrong.com/) — In-depth technical posts on AI capabilities and safety.
 - [AI Alignment Forum](https://www.alignmentforum.org/) — Specialized alignment research discussions.
 - [CivitAI](https://civitai.com/) — Generative AI creators platform for sharing models, LoRAs, and prompts.
+- [PicGens](https://www.picgens.com/) — Free gallery of AI image & photo prompts you can copy, with the picture, model, and creator link.
 
 ### GitHub Organizations
 
