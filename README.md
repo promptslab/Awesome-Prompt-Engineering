@@ -244,6 +244,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **PromptLayer** | Version, test, and monitor every prompt and agent with robust evals, tracing, and regression sets. | [Website](https://promptlayer.com/) |
 | **Helicone** | Production prompt monitoring and optimization platform. | [Website](https://helicone.ai/) |
 | **LangGPT** | Framework for structured and meta-prompt design. 10K+ ⭐ | [GitHub](https://github.com/langgpt/LangGPT) |
+| **AI Hustle World Prompt Toolkit** | MIT-licensed decision frameworks for prompt and context design: a context budget test, a system instruction blueprint, role-prompting fit, few-shot vs zero-shot, and structured output checklists. Plain Markdown, no dependencies. | [GitHub](https://github.com/Muntasir-11/ai-hustle-world-prompt-toolkit) |
 | **ChainForge** | Visual toolkit for building, testing, and comparing LLM prompt responses without code. | [GitHub](https://github.com/ianarawjo/ChainForge) |
 | **LMQL** | A query language for LLMs making complex prompt logic programmable. | [GitHub](https://github.com/eth-sri/lmql) |
 | **Promptotype** | Platform for developing, testing, and managing structured LLM prompts. | [Website](https://www.promptotype.io) |
