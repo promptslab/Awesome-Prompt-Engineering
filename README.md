@@ -776,6 +776,7 @@ These models established key concepts but are largely superseded for practical u
 - [DALLE Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book) — Visual guide for text-to-image prompting.
 - [Best 100+ Stable Diffusion Prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts) — Community-curated image generation prompts.
 - [Vibe Engineering (Manning)](https://www.manning.com/books/vibe-engineering) — Book by Tomasz Lelek & Artur Skowronski on building software through natural language prompts.
+- [Prompts as versioned, tested files (Tecyfy)](https://tecyfy.com/ai-engineering/prompts-and-context) [2026] — Free guide with runnable Python: prompts written as briefs, few-shot examples, long documents in tags, context engineering, and prompts kept as versioned templates with test cases and caching.
 
 ---
 
