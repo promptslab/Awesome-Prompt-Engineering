@@ -82,6 +82,7 @@ New to prompt engineering? Follow this path:
 - [Communities](#communities)
 - [Autonomous Research & Self-Improving Agents](#autonomous-research--self-improving-agents)
 - [How to Contribute](#how-to-contribute)
+| **Awesome Opus Video Prompts — Leadde Open Lab** | Claude animation prompt reference with visual previews, creator sources, and English/Chinese browsing. | [GitHub](https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts) |
 
 ---
 
