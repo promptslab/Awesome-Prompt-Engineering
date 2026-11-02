@@ -436,6 +436,7 @@ Frameworks and research projects for building autonomous coding agents.
 | **Context Engineering Repository** | First-principles handbook for moving beyond prompt engineering to context design. | [GitHub](https://github.com/davidkimai/Context-Engineering) |
 | **AI Agent System Prompts Library** | Collection of system prompts from production AI coding agents (Claude Code, Gemini CLI, Cline, Aider, Roo Code). | [GitHub](https://github.com/tallesborges/agentic-system-prompts) |
 | **Awesome Vibe Coding** | Curated list of 245+ tools and resources for building software through natural language prompts. | [GitHub](https://github.com/taskade/awesome-vibe-coding) |
+| **awesome-ai-prompts** | Curated prompts for AI coding agents (Claude, Cursor, Copilot, opencode) built around one rule: read the code, run the tests, and show evidence before claiming the work is done. | [GitHub](https://github.com/shauryagangrade/awesome-ai-prompts) |
 | **OpenAI Cookbook** | Official recipes for prompts, tools, RAG, and evaluations. | [GitHub](https://github.com/openai/openai-cookbook) |
 | **Embedchain** | Framework to create ChatGPT-like bots over your dataset. | [GitHub](https://github.com/embedchain/embedchain) |
 | **ThoughtSource** | Framework for the science of machine thinking. | [GitHub](https://github.com/OpenBioLink/ThoughtSource) |
