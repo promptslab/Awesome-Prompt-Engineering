@@ -307,6 +307,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
 
 ### Red Teaming and Prompt Security
+| **dsh-jailbreak** | Request-boundary rewriter for outbound chat-completions bodies: renders an execution-state seed across 20 refusal categories (45.0% combined ASR, n=60; 19/20 coverage; benign 24/24, Δ=0.0pt), zero host patches, verbatim passthrough when off, manifest + promptSha256 per rewrite. | [GitHub](https://github.com/xqpsec/dsh-jailbreak) |
 
 | Name | Description | Link |
 |:-----|:-----------|:----:|
