@@ -249,6 +249,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **Promptotype** | Platform for developing, testing, and managing structured LLM prompts. | [Website](https://www.promptotype.io) |
 | **PromptPanda** | AI-powered prompt management system for streamlining prompt workflows. | [Website](https://promptpanda.io) |
 | **Promptimize AI** | Browser extension to automatically improve user prompts for any AI model. | [Website](https://promptimize.ai) |
+| **AI Navigator Prompt Builder** | Free browser tool that structures raw ideas into model-specific prompts with syntax rules for Claude (XML tags), Midjourney, ChatGPT, and Veo. | [Website](https://ainavigatorhub.com/prompt) |
 | **PROMPTMETHEUS** | Web-based "Prompt Engineering IDE" for iteratively creating and running prompts. | [Website](https://promptmetheus.com) |
 | **Better Prompt** | Test suite for LLM prompts before pushing to production. | [GitHub](https://github.com/krrishdholakia/betterprompt) |
 | **OpenPrompt** | Open-source framework for prompt-learning research. | [GitHub](https://github.com/thunlp/OpenPrompt) |
