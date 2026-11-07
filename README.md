@@ -566,6 +566,7 @@ Available on 25+ cloud partners, Hugging Face, and inference APIs. [Llama](https
 | **AgentHarm** | 110 malicious agent tasks across 11 harm categories. | [arXiv](https://arxiv.org/abs/2410.09024) |
 | **DecodingTrust** | 243,877 prompts evaluating trustworthiness across 8 perspectives. | Research |
 | **SafetyPrompts.com** | Aggregator tracking 50+ safety/red-teaming datasets. | [Website](https://safetyprompts.com/) |
+| **Orca AI Incident Archive** | 354 sourced real-world AI agent security incidents, 45 of them indirect prompt injection; each flags confirmed harm and AI involvement. JSON/CSV. | [GitHub](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) |
 
 ---
 
