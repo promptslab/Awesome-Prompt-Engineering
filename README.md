@@ -336,6 +336,7 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 | **Context7** | MCP server providing version-specific documentation to reduce code hallucination. | [GitHub](https://github.com/upstash/context7) |
 | **GitMCP** | Creates remote MCP servers for any GitHub repo by changing the domain. | [Website](https://gitmcp.io/) |
 | **MCP Inspector** | Visual testing tool for MCP server development. | [GitHub](https://github.com/modelcontextprotocol/inspector) |
+| **Not Human Search** | AI tool discovery engine and MCP server; search 8,600+ tools, APIs, and MCP servers via REST API or JSON-RPC. | [Website](https://nothumansearch.ai/) |
 
 ### Vibe Coding and AI Coding Assistants
 
