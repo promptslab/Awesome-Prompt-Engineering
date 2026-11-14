@@ -248,6 +248,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **LMQL** | A query language for LLMs making complex prompt logic programmable. | [GitHub](https://github.com/eth-sri/lmql) |
 | **Promptotype** | Platform for developing, testing, and managing structured LLM prompts. | [Website](https://www.promptotype.io) |
 | **PromptPanda** | AI-powered prompt management system for streamlining prompt workflows. | [Website](https://promptpanda.io) |
+| **SaaSCity** | Gamified SaaS & AI product directory — every listing becomes a building on a live isometric city map. Free listing, manually reviewed within 24h. | [Website](https://saascity.io) |
 | **Promptimize AI** | Browser extension to automatically improve user prompts for any AI model. | [Website](https://promptimize.ai) |
 | **PROMPTMETHEUS** | Web-based "Prompt Engineering IDE" for iteratively creating and running prompts. | [Website](https://promptmetheus.com) |
 | **Better Prompt** | Test suite for LLM prompts before pushing to production. | [GitHub](https://github.com/krrishdholakia/betterprompt) |
