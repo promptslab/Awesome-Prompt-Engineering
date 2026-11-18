@@ -297,6 +297,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **PraisonAI** | Multi-AI Agents framework with 100+ LLM support, MCP integration, and built-in memory. | [GitHub](https://github.com/MervinPraison/PraisonAI) |
 | **Neurolink** | Multi-provider AI agent framework unifying 12+ providers with workflow orchestration. | [GitHub](https://github.com/juspay/neurolink) |
 | **Composio** | Connect 100+ tools to AI agents with zero setup. | [GitHub](https://github.com/composiohq/composio) |
+| **Heym** | Self-hosted visual runtime for agent workflows with human review and prompt evaluation suites. | [GitHub](https://github.com/heymrun/heym) |
 
 ### Prompt Optimization Tools
 
