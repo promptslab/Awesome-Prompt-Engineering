@@ -321,6 +321,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **GPTFuzz** | Automated jailbreak template generation achieving >90% success rates. | [GitHub](https://github.com/sherdencooper/GPTFuzz) |
 | **Rebuff** | Open-source tool for detection and prevention of prompt injection. | [GitHub](https://github.com/protectai/rebuff) |
 | **AgentSeal** | "Open-source scanner that runs 150 attack probes to test AI agents for prompt injection and extraction vulnerabilities." | [GitHub](https://github.com/agentseal/agentseal) |
+| **dsh-jailbreak** | Request-boundary rewriter for outbound chat-completions bodies: renders an execution-state seed across 20 refusal categories (45.0% combined ASR, n=60; 19/20 coverage; benign 24/24, Δ=0.0pt), zero host patches, verbatim passthrough when off, manifest + promptSha256 per rewrite. | [GitHub](https://github.com/xqpsec/dsh-jailbreak) |
 
 ### MCP (Model Context Protocol)
 
