@@ -240,7 +240,7 @@ These papers established the core concepts that modern prompt engineering builds
 | Name | Description | Link |
 |:-----|:-----------|:----:|
 | **Promptfoo** | Open-source CLI for testing, evaluating, and red-teaming LLM prompts. YAML configs, CI/CD integration, adversarial testing. ~9K+ ⭐ | [GitHub](https://github.com/promptfoo/promptfoo) |
-| **PromptPersona** | Offline desktop app that turns a 12-question interview into a reusable AI persona + system prompt (`persona.md`, `system-prompt.md`, `persona.json`). 10 UI languages incl. Arabic RTL, any OpenAI-compatible model, 3 prompt strategies, zero third-party dependencies, MIT. | [GitHub](https://github.com/luoyuda123/PromptPersona) |
+| **PromptPersona** | Offline desktop app (landing page: [luoyuda123.github.io/PromptPersona](https://luoyuda123.github.io/PromptPersona/)) that turns a 12-question interview into a reusable AI persona + system prompt (`persona_system.txt`, `persona.json`). 10 UI languages incl. Arabic RTL, any OpenAI-compatible model, 3 prompt strategies, zero third-party dependencies, MIT. | [GitHub](https://github.com/luoyuda123/PromptPersona) |
 | **Promptify** | Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify | [[Github]](https://github.com/promptslab/Promptify) |
 | **Agenta** | Open-source LLM developer platform for prompt management, evaluation, human feedback, and deployment. | [GitHub](https://github.com/Agenta-AI/agenta) |
 | **PromptLayer** | Version, test, and monitor every prompt and agent with robust evals, tracing, and regression sets. | [Website](https://promptlayer.com/) |
