@@ -657,6 +657,7 @@ These models established key concepts but are largely superseded for practical u
 | **QuillBot AI Detector** | Free, no sign-up required. | [Website](https://quillbot.com/ai-content-detector) |
 | **Writer AI Content Detector** | Free tool with color-coded results. | [Website](https://writer.com/ai-content-detector/) |
 | **ZeroGPT** | Popular free detector evaluated in multiple academic studies. | [Website](https://www.zerogpt.com/) |
+| **SlopTotal** | Open-source, self-hosted detector (MIT) that runs 23 detectors, including Binoculars and Fast-DetectGPT, and combines them into one calibrated score. Accuracy is measured on a public benchmark. | [[GitHub]](https://github.com/pablocaeg/sloptotal) |
 
 ### Watermarking Approaches
 
