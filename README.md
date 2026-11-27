@@ -556,6 +556,7 @@ Available on 25+ cloud partners, Hugging Face, and inference APIs. [Llama](https
 | **CodeAlpaca-20k** | 20,000 programming instruction-output pairs. | [HuggingFace](https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k) |
 | **ProPEX-RAG** | Dataset for prompt optimization in RAG workflows. | HuggingFace |
 | **NanoBanana Trending Prompts** | 1,000+ curated AI image prompts from X/Twitter, ranked by engagement. | [GitHub](https://github.com/jau123/nanobanana-trending-prompts) |
+| **MiniMax H3 1K Prompt Index** | Curated 1K video-prompt dataset for MiniMax H3 with prompt-structure anatomy and 10 reusable prompts. | [GitHub](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) |
 
 ### Red Teaming and Adversarial Datasets
 
