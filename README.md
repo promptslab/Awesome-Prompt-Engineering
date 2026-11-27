@@ -443,6 +443,7 @@ Frameworks and research projects for building autonomous coding agents.
 | **Price Per Token** | Compare LLM API pricing across 200+ models. | [Website](https://pricepertoken.com/) |
 | **OpenPaw** | CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant by generating system prompts (CLAUDE.md + SOUL.md) with personality, memory, and 38 skill routers. | [GitHub](https://github.com/daxaur/openpaw) |
 | **Think Better** | Open-source CLI that permanently injects 10 structured decision frameworks (MECE, Issue Trees, Pre-Mortems) and 12 cognitive bias detectors into AI assistant prompts. Go, MIT. | [GitHub](https://github.com/HoangTheQuyen/think-better) |
+| **Antiw8** | Zero-code system prompt defending against AI sycophancy and 24 cognitive biases; forces bias scan + dialectical analysis before advice. MIT. | [GitHub](https://github.com/antiw8-dev/antiw8) |
 
 ---
 
