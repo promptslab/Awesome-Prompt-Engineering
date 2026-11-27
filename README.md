@@ -305,6 +305,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **DSPy** | Multiple optimizers (MIPROv2, BootstrapFewShot, COPRO) for automatic prompt tuning. ~22K+ ⭐ | [GitHub](https://github.com/stanfordnlp/dspy) |
 | **TextGrad** | Automatic differentiation via text (Stanford). ~2K+ ⭐ | [GitHub](https://github.com/zou-group/textgrad) |
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
+| **PromptPilot** | Free Windows app that rewrites your prompt in place inside ChatGPT, Claude and Gemini with one click (Fix, Improve, Engineer). | [GitHub](https://github.com/navasshereef1/PromptPilot) |
 
 ### Red Teaming and Prompt Security
 
