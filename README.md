@@ -689,6 +689,7 @@ These models established key concepts but are largely superseded for practical u
 | **Building LLMs for Production** | Louis-François Bouchard & Louie Peters | O'Reilly | 2024 |
 | **LLM Engineer's Handbook** | Paul Iusztin & Maxime Labonne | Packt | 2024 |
 | **The Hundred-Page Language Models Book** | Andriy Burkov | Self-Published | 2025 |
+| **Building LLM Applications with DSPy** | Serj Smorodinsky and William Brett Kennedy | Manning | 2026 |
 
 ### AI Agents
 
