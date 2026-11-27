@@ -305,6 +305,7 @@ These papers established the core concepts that modern prompt engineering builds
 | **DSPy** | Multiple optimizers (MIPROv2, BootstrapFewShot, COPRO) for automatic prompt tuning. ~22K+ ⭐ | [GitHub](https://github.com/stanfordnlp/dspy) |
 | **TextGrad** | Automatic differentiation via text (Stanford). ~2K+ ⭐ | [GitHub](https://github.com/zou-group/textgrad) |
 | **OPRO** | Google DeepMind's optimization by prompting. | [GitHub](https://github.com/google-deepmind/opro) |
+| **PromptPotter** | Evolves the prompt and the pipeline's parameters together against a labeled dataset; drops losing candidates early and keeps every measurement behind the winner. Runs locally or in the browser. | [GitHub](https://github.com/PromptPotter/prompt-potter-optimizer) |
 
 ### Red Teaming and Prompt Security
 
