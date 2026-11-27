@@ -657,6 +657,7 @@ These models established key concepts but are largely superseded for practical u
 | **QuillBot AI Detector** | Free, no sign-up required. | [Website](https://quillbot.com/ai-content-detector) |
 | **Writer AI Content Detector** | Free tool with color-coded results. | [Website](https://writer.com/ai-content-detector/) |
 | **ZeroGPT** | Popular free detector evaluated in multiple academic studies. | [Website](https://www.zerogpt.com/) |
+| **TinyTools AI Text Detector** | Free, no sign-up, browser-based detector. Open source. | [Website](https://tinytools-smoky.vercel.app/ai-text-detector) |
 
 ### Watermarking Approaches
 
