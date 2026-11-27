@@ -336,6 +336,7 @@ MCP is an open standard developed by Anthropic (Nov 2024, donated to Linux Found
 | **Context7** | MCP server providing version-specific documentation to reduce code hallucination. | [GitHub](https://github.com/upstash/context7) |
 | **GitMCP** | Creates remote MCP servers for any GitHub repo by changing the domain. | [Website](https://gitmcp.io/) |
 | **MCP Inspector** | Visual testing tool for MCP server development. | [GitHub](https://github.com/modelcontextprotocol/inspector) |
+| **prompt-to-asset** | MCP server generating production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers. | [GitHub](https://github.com/MohamedAbdallah-14/prompt-to-asset) |
 
 ### Vibe Coding and AI Coding Assistants
 
@@ -443,6 +444,8 @@ Frameworks and research projects for building autonomous coding agents.
 | **Price Per Token** | Compare LLM API pricing across 200+ models. | [Website](https://pricepertoken.com/) |
 | **OpenPaw** | CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant by generating system prompts (CLAUDE.md + SOUL.md) with personality, memory, and 38 skill routers. | [GitHub](https://github.com/daxaur/openpaw) |
 | **Think Better** | Open-source CLI that permanently injects 10 structured decision frameworks (MECE, Issue Trees, Pre-Mortems) and 12 cognitive bias detectors into AI assistant prompts. Go, MIT. | [GitHub](https://github.com/HoangTheQuyen/think-better) |
+| **unslop** | CLI and Claude Code plugin that strips AI writing patterns before publishing: sycophantic openers, stock vocabulary, hedging stacks, em-dash overuse. Code, URLs, and technical terms pass through unchanged. Pipe mode for scripting. | [GitHub](https://github.com/MohamedAbdallah-14/unslop) |
+| **prompt-to-asset** | MCP server generating production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. | [GitHub](https://github.com/MohamedAbdallah-14/prompt-to-asset) |
 
 ---
 
